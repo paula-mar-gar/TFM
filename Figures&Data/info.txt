@@ -1,0 +1,55 @@
+Grow Cutoff: 30.21438 
+PA14 b-methyl-D-Xyl Error -> cannot fit data
+PA14 D-Tartaric Acid Error -> cannot fit data
+PA14 Djenkolate +G Error -> cannot fit data
+PA14 L-Glucose Error -> cannot fit data
+PA14 Sec-Butylamine Error -> cannot fit data
+Caz5d 3-HPA Error -> cannot fit data
+Caz5d D-Glucuronic Acid Error -> cannot fit data
+Caz5d D-Mannose Error -> cannot fit data
+Caz5d Dulcitol Error -> cannot fit data
+Caz5d G6P Error -> cannot fit data
+Caz5d Gentiobiose Error -> cannot fit data
+Caz5d Glyoxylic Acid Error -> cannot fit data
+Caz5d Palatinose Error -> cannot fit data
+Caz5d Pyrophosphate +G Error -> cannot fit data
+Tgc5d 1,2-Propanediol Error -> cannot fit data
+Tgc5d a-D-Lactose Error -> cannot fit data
+Tgc5d a-H-glut-g-Lac Error -> cannot fit data
+Tgc5d a-Met-D-Galac Error -> cannot fit data
+Tgc5d Adonitol Error -> cannot fit data
+Tgc5d Amygdalin Error -> cannot fit data
+Tgc5d b-D-ManNAc Error -> cannot fit data
+Tgc5d b-Met-D-Gluc Error -> cannot fit data
+Tgc5d Butanesulfonate +G Error -> cannot fit data
+Tgc5d D-Cellobiose Error -> cannot fit data
+Tgc5d Dulcitol Error -> cannot fit data
+Tgc5d F6P Error -> cannot fit data
+Tgc5d G1P Error -> cannot fit data
+Tgc5d Gelatin Error -> cannot fit data
+Tgc5d Glucosaminate Error -> cannot fit data
+Tgc5d Glucuronamide Error -> cannot fit data
+Tgc5d Glycolic Acid Error -> cannot fit data
+Tgc5d L-Fucose Error -> cannot fit data
+Tgc5d Lactulose Error -> cannot fit data
+Tgc5d Maltose Error -> cannot fit data
+Tgc5d Mannan Error -> cannot fit data
+Tgc5d Mucic Acid Error -> cannot fit data
+Tgc5d Pectin Error -> cannot fit data
+Tgc5d Raffinose Error -> cannot fit data
+Tgc5d Salicin Error -> cannot fit data
+Tob5d 2,3-Butanediol Error -> cannot fit data
+Tob5d a-methyl-D-Mann Error -> cannot fit data
+Tob5d Ammonia +G Error -> cannot fit data
+Tob5d D-Aspartic Acid Error -> cannot fit data
+Tob5d D-GalNAc Error -> cannot fit data
+Tob5d i-Erythritol Error -> cannot fit data
+Tob5d L-Methionine Error -> cannot fit data
+Tob5d Lactitol Error -> cannot fit data
+Tob5d myo-Inositol Error -> cannot fit data
+Tob5d Phosphocreatine +G Error -> cannot fit data
+Tob5d Pyrophosphate +G Error -> cannot fit data
+Tob5d Sedoheptulosan Error -> cannot fit data
+Tob5d Sucrose Error -> cannot fit data
+Tob5d Taurine +G Error -> cannot fit data
+Tob5d Thiourea +G Error -> cannot fit data

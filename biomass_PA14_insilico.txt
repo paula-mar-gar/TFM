@@ -1,0 +1,137 @@
+"source" "biomass"
+"2-Oxoglutarate" 0.5794891
+"4-HPA" 0.3150802
+"Acetic Acid" 0.2833796
+"Acetoacetic Acid" 0
+"Adenosine" 0.9916591
+"Adenosine +G" 1.064167
+"Ala-Asp +G" -1.363145e-13
+"Ala-Gln +G" 3.681376e-13
+"Ala-Glu +G" -1.362496e-13
+"Ala-Gly" 0
+"Ala-Gly +G" -1.609198e-13
+"Ala-His +G" -1.609198e-13
+"Ala-Leu +G" -1.609198e-13
+"Ala-Thr +G" 2.268324e-13
+"Allantoin +G" 0.1555291
+"Aminoethanol" 0.3819232
+"Aminoethanol +G" 0.4630737
+"Ammonia +G" 0.08691285
+"Butanesulfonate +G" -2.903222e-13
+"Butyric Acid" -6.556726e-13
+"Citric Acid" 0.5794891
+"Cys-Gly +G" 2.268324e-13
+"Cytidine +G" -5.811184e-14
+"Cytosine +G" 0.0884677
+"D-3-hydroxybutyrate" -2.533817e-12
+"D-Alanine" 0.5071639
+"D-Alanine +G" 0.6028822
+"D-Arabitol" 0
+"D-Fructose" 0.8132695
+"D-Galactose" 0
+"D-Galacturonate" 0
+"D-Malic Acid" 0
+"D-Mannitol" 0.6850941
+"D-Methionine +G" 6.254132e-13
+"D-Ribose" 0.6476209
+"D-Saccharic Acid" 0
+"D-Serine" 0.3997871
+"D-Serine +G" 0.4801586
+"D-Sorbitol" 0
+"D-Xylose" 0
+"Deoxyadenosine" 0
+"F6P" 0
+"Fumaric Acid" 0.4444179
+"G1P" 0
+"G1P +G" -5.811184e-14
+"G6P" 0
+"G6P +G" -5.811184e-14
+"GABA" 0.7235527
+"GABA +G" 0.8074159
+"GlcNAc" 1.08554
+"GlcNAc +G" 0.9921354
+"Gly-Asn +G" 2.268324e-13
+"Gly-Asp-L" 0
+"Gly-Gln +G" 2.268324e-13
+"Gly-Glu" 0.8278287
+"Gly-Glu +G" 0.8979258
+"Gly-Met +G" 2.268324e-13
+"Glycerol" 0.4228243
+"Glycine" 0.244396
+"Glycine +G" 0.344486
+"Glycolic Acid" 0
+"Inosine" 0.9788011
+"Inosine +G" 0.950552
+"Isethionate +G" -5.811184e-14
+"Itaconic Acid" 0.6470247
+"L-Alanine" 0.5071639
+"L-Alanine +G" 0.6028822
+"L-Arabinose" 0
+"L-Arginine" 0.9888321
+"L-Arginine +G" 1.097569
+"L-Asparagine" 0.4891588
+"L-Asparagine +G" 0.5611836
+"L-Aspartic Acid" 0.4655361
+"L-Aspartic Acid +G" 0.5271212
+"L-Cysteic Acid +G" -5.811184e-14
+"L-Cysteine +G" -1.557623e-13
+"L-G3P" 0.5609787
+"L-G3P +G" -3.955467e-12
+"L-Glutamic Acid" 0.7285323
+"L-Glutamic Acid +G" 0.7981173
+"L-Glutamine" 0.7186237
+"L-Glutamine +G" 0.7881616
+"L-Histidine" 0.7720734
+"L-Histidine +G" 0.8255924
+"L-Isoleucine" 1.016256
+"L-Isoleucine +G" 0.8760941
+"L-Lactic Acid" 0.3949354
+"L-Leucine" 0.4110079
+"L-Leucine +G" 0.5754111
+"L-Lysine" 3.34549e-12
+"L-Lysine +G" 0.1553263
+"L-Malic Acid" 0.4326616
+"L-Methionine" 0
+"L-Methionine +G" -1.699021e-13
+"L-Proline" 0.9670077
+"L-Proline +G" 0.9921354
+"L-Serine" 0.3997871
+"L-Serine +G" 0.4801586
+"L-Threonine" 0.6202137
+"L-Threonine +G" 0.6891813
+"L-Tryptophan +G" 0.03094909
+"L-Tyrosine +G" 0.2965244
+"Malonic Acid" 0.2354145
+"Maltose" 0
+"Maltotriose" 0
+"Met-Ala +G" -1.257688e-13
+"MSA +G" -4.578916e-14
+"Mucic Acid" 0
+"myo-Inositol" 0
+"Nitrate +G" 0.06526256
+"Nitrite +G" 0.06868447
+"Ornithine" 0.9888321
+"Ornithine +G" 1.096202
+"Phenylalanine" 0.2729101
+"Phenylalanine +G" 0.3164871
+"Phosphate +G" -5.811184e-14
+"Propionic Acid" 0.5064911
+"Putrescine" 0.7808284
+"Putrescine +G" 0.7780077
+"Pyrophosphate +G" 3.426056e-13
+"Pyruvic Acid" 0.3997871
+"Succinic Acid" 0.5312852
+"Sulfate +G" -5.811184e-14
+"Taurine +G" -1.002848e-12
+"Thiosulfate +G" -3.862389e-13
+"Thymidine" 0
+"Thymidine +G" -3.770109e-13
+"Thyminose" 0
+"Uracil +G" -2.976165e-13
+"Urea +G" 0.08691285
+"Uridine" 0
+"Uridine +G" -3.503405e-13
+"Valine" -1.466003e-13
+"Valine +G" 0.1716138
+"Xanthine +G" 0.1468782
+"Xylitol" 0

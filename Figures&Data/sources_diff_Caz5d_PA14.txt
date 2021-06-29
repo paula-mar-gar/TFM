@@ -1,0 +1,35 @@
+Adenosine
+Ala-Asp +G
+Ala-Glu +G
+Ala-Gly +G
+Ala-His +G
+Ala-Leu +G
+Allantoin +G
+Cytidine +G
+Cytosine +G
+D-3-hydroxybutyrate
+D-Ribose
+D-Serine +G
+GlcNAc +G
+Gly-Gln +G
+Glycine +G
+Inosine
+Inosine +G
+L-Arginine +G
+L-Asparagine +G
+L-Aspartic Acid +G
+L-Glutamic Acid
+L-Isoleucine +G
+L-Leucine +G
+L-Lysine +G
+L-Methionine +G
+L-Serine
+L-Serine +G
+L-Threonine +G
+L-Tyrosine +G
+Met-Ala +G
+Ornithine +G
+Phenylalanine +G
+Putrescine +G
+Thymidine +G
+Uridine
