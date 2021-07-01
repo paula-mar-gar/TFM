@@ -1,0 +1,164 @@
+EX_cpd00797(e)	cpd00797	(R)-3-Hydroxybutanoate e		
+EX_cpd17085(e)	cpd17085	2-heptyl-3-hydroxy-4-quinolone e
+EX_cpd00176(e)	cpd00176	2-keto-3-deoxygluconate e
+EX_cpd00024(e)	cpd00024	2-Oxoglutarate
+EX_cpd00489(e)	cpd00489	4-Hydroxyphenylacetate
+EX_cpd00029(e)	cpd00029	Acetate
+EX_cpd00142(e)	cpd00142	Acetoacetate e
+EX_cpd00182(e)	cpd00182	Adenosine e
+EX_cpd11587(e)	cpd11587	Ala-Gln e
+EX_cpd11584(e)	cpd11584	Ala-His e
+EX_cpd11593(e)	cpd11593	ala-L-asp-L e
+EX_cpd11583(e)	cpd11583	Ala-Leu e
+EX_cpd11586(e)	cpd11586	ala-L-glu-L e
+EX_cpd11582(e)	cpd11582	ala-L-Thr-L e
+EX_cpd01092(e)	cpd01092	Allantoin e
+EX_cpd00162(e)	cpd00162	Aminoethanol e
+EX_cpd01262(e)	cpd01262	Amylotriose e
+EX_cpd01048(e)	cpd01048	Arsenate e
+EX_cpd04098(e)	cpd04098	Arsenite e
+EX_cpd00540(e)	cpd00540	BET e
+EX_cpd11596(e)	cpd11596	butanesulfonate e
+EX_cpd00211(e)	cpd00211	Butyrate e
+EX_cpd00063(e)	cpd00063	Ca2+ e
+EX_cpd00635(e)	cpd00635	Cbl e
+EX_cpd01012(e)	cpd01012	Cd2+ e
+EX_cpd00098(e)	cpd00098	Choline e
+EX_cpd11595(e)	cpd11595	chromate e
+EX_cpd00137(e)	cpd00137	Citrate
+EX_cpd00099(e)	cpd00099	Cl- e
+EX_cpd00011(e)	cpd00011	CO2 e
+EX_cpd00149(e)	cpd00149	Co2+ e
+EX_cpd00058(e)	cpd00058	Cu2+ e
+EX_cpd01015(e)	cpd01015	Cyanate e
+EX_cpd01017(e)	cpd01017	Cys-Gly e
+EX_cpd00381(e)	cpd00381	Cystine
+EX_cpd00367(e)	cpd00367	Cytidine e
+EX_cpd00307(e)	cpd00307	Cytosine e
+EX_cpd00117(e)	cpd00117	D-Alanine e
+EX_cpd00438(e)	cpd00438	Deoxyadenosine e
+EX_cpd00654(e)	cpd00654	Deoxycytidine e
+EX_cpd00277(e)	cpd00277	Deoxyguanosine e
+EX_cpd03279(e)	cpd03279	Deoxyinosine e
+EX_cpd00412(e)	cpd00412	Deoxyuridine e
+EX_cpd00082(e)	cpd00082	D-Fructose
+EX_cpd00072(e)	cpd00072	D-fructose-6-phosphate
+EX_cpd00653(e)	cpd00653	D-Galactonate e
+EX_cpd00280(e)	cpd00280	D-Galacturonate e
+EX_cpd00609(e)	cpd00609	D-Glucarate e
+EX_cpd00027(e)	cpd00027	D-Glucose e
+EX_cpd00079(e)	cpd00079	D-glucose-6-phosphate
+EX_cpd00221(e)	cpd00221	D-Lactate e
+EX_cpd01307(e)	cpd01307	D-Lyxitol
+EX_cpd00386(e)	cpd00386	D-Malate
+EX_cpd00637(e)	cpd00637	D-Methionine e
+EX_cpd00652(e)	cpd00652	D-Mucic acid e
+EX_cpd00105(e)	cpd00105	D-Ribose e
+EX_cpd00550(e)	cpd00550	D-Serine e
+EX_cpd11579(e)	cpd11579	ethanesulfonate e
+EX_cpd00021(e)	cpd00021	Fe2+ e
+EX_cpd10516(e)	cpd10516	fe3 e
+EX_cpd03724(e)	cpd03724	Ferrichrome e
+EX_cpd00106(e)	cpd00106	Fumarate e
+EX_cpd00108(e)	cpd00108	Galactose e
+EX_cpd00164(e)	cpd00164	Glucuronate e
+EX_cpd11581(e)	cpd11581	gly-asn-L e
+EX_cpd11589(e)	cpd11589	gly-asp-L e
+EX_cpd00100(e)	cpd00100	Glycerol e
+EX_cpd00080(e)	cpd00080	Glycerol-3-phosphate e
+EX_cpd00033(e)	cpd00033	Glycine e
+EX_cpd00139(e)	cpd00139	Glycolate
+EX_cpd15603(e)	cpd15603	Gly-Cys e
+EX_cpd11580(e)	cpd11580	Gly-Gln e
+EX_cpd11592(e)	cpd11592	gly-glu-L e
+EX_cpd15604(e)	cpd15604	Gly-Leu e
+EX_cpd11591(e)	cpd11591	Gly-Met e
+EX_cpd15605(e)	cpd15605	Gly-Phe e
+EX_cpd11588(e)	cpd11588	gly-pro-L e
+EX_cpd15606(e)	cpd15606	Gly-Tyr e
+EX_cpd00067(e)	cpd00067	H+ e
+EX_cpd00001(e)	cpd00001	H2O e
+EX_cpd00268(e)	cpd00268	H2S2O3 e
+EX_cpd11578(e)	cpd11578	hexanesulfonate e
+EX_cpd00531(e)	cpd00531	Hg2+ e
+EX_cpd00226(e)	cpd00226	HYXN e
+EX_cpd00246(e)	cpd00246	Inosine e
+EX_cpd03048(e)	cpd03048	Isethionate e
+EX_cpd00205(e)	cpd00205	K+ e
+EX_cpd03091(e)	cpd03091	L-5&apos;-Deoxyadenosine e
+EX_cpd00035(e)	cpd00035	L-Alanine e
+EX_cpd11585(e)	cpd11585	L-alanylglycine e
+EX_cpd00224(e)	cpd00224	L-Arabinose e
+EX_cpd00051(e)	cpd00051	L-Arginine e
+EX_cpd00132(e)	cpd00132	L-Asparagine
+EX_cpd00041(e)	cpd00041	L-Aspartate e
+EX_cpd00395(e)	cpd00395	L-Cysteate e
+EX_cpd00084(e)	cpd00084	L-Cysteine e
+EX_cpd00023(e)	cpd00023	L-Glutamate e
+EX_cpd00053(e)	cpd00053	L-Glutamine e
+EX_cpd00119(e)	cpd00119	L-Histidine e
+EX_cpd00121(e)	cpd00121	L-Inositol
+EX_cpd00322(e)	cpd00322	L-Isoleucine e
+EX_cpd00159(e)	cpd00159	L-Lactate e
+EX_cpd00107(e)	cpd00107	L-Leucine e
+EX_cpd00039(e)	cpd00039	L-Lysine e
+EX_cpd00130(e)	cpd00130	L-Malate e
+EX_cpd00060(e)	cpd00060	L-Methionine e
+EX_cpd11576(e)	cpd11576	L-methionine R-oxide e
+EX_cpd01914(e)	cpd01914	L-Methionine S-oxide e
+EX_cpd00066(e)	cpd00066	L-Phenylalanine e
+EX_cpd00129(e)	cpd00129	L-Proline e
+EX_cpd00054(e)	cpd00054	L-Serine e
+EX_cpd00161(e)	cpd00161	L-Threonine e
+EX_cpd00065(e)	cpd00065	L-Tryptophan e
+EX_cpd00069(e)	cpd00069	L-Tyrosine e
+EX_cpd00156(e)	cpd00156	L-Valine e
+EX_cpd00308(e)	cpd00308	Malonate e
+EX_cpd01329(e)	cpd01329	Maltohexaose e
+EX_cpd00179(e)	cpd00179	Maltose e
+EX_cpd08023(e)	cpd08023	methanesulfonate e
+EX_cpd11590(e)	cpd11590	met-L-ala-L e
+EX_cpd00254(e)	cpd00254	Mg e
+EX_cpd00030(e)	cpd00030	Mn2+ e
+EX_cpd11574(e)	cpd11574	Molybdate e
+EX_cpd11575(e)	cpd11575	MOPS e
+EX_cpd00971(e)	cpd00971	Na+ e
+EX_cpd00122(e)	cpd00122	N-Acetyl-D-glucosamine e
+EX_cpd00013(e)	cpd00013	NH3 e
+EX_cpd00244(e)	cpd00244	Ni2+ e
+EX_cpd00209(e)	cpd00209	Nitrate e
+EX_cpd00075(e)	cpd00075	Nitrite e
+EX_cpd00528(e)	cpd00528	nitrogen e
+EX_cpd00007(e)	cpd00007	O2 e
+EX_cpd00064(e)	cpd00064	Ornithine e
+EX_cpd04097(e)	cpd04097	Pb e
+EX_cpd00009(e)	cpd00009	Phosphate e
+EX_cpd00012(e)	cpd00012	PPi e
+EX_cpd00141(e)	cpd00141	Propionate
+EX_cpd00118(e)	cpd00118	Putrescine e
+EX_cpd00020(e)	cpd00020	Pyruvate
+EX_cpd00588(e)	cpd00588	Sorbitol
+EX_cpd00264(e)	cpd00264	Spermidine e
+EX_cpd00036(e)	cpd00036	Succinate e
+EX_cpd00048(e)	cpd00048	Sulfate e
+EX_cpd09878(e)	cpd09878	Sulfoacetate e
+EX_cpd00210(e)	cpd00210	Taurine e
+EX_cpd00305(e)	cpd00305	Thiamin e
+EX_cpd00184(e)	cpd00184	Thymidine e
+EX_cpd01242(e)	cpd01242	Thyminose e
+EX_cpd00851(e)	cpd00851	trans-4-Hydroxy-L-proline
+EX_cpd00092(e)	cpd00092	Uracil e
+EX_cpd00073(e)	cpd00073	Urea e
+EX_cpd00249(e)	cpd00249	Uridine e
+EX_cpd03424(e)	cpd03424	Vitamin B12 e
+EX_cpd00423(e)	cpd00423	Vitamin B12r e
+EX_cpd00309(e)	cpd00309	XAN e
+EX_cpd00306(e)	cpd00306	Xylitol
+EX_cpd00154(e)	cpd00154	Xylose e
+EX_cpd00034(e)	cpd00034	Zn2+ e
+EX_cpd00331(e)	cpd00331	cis-Aconitic acid
+EX_cpd00089(e)	cpd00089	Glucose-1-phosphate
+EX_cpd00314(e)	cpd00314	D-Mannitol
+EX_cpd00380(e)	cpd00380	Itaconic Acid
+EX_cpd00581(e)	cpd00581	Urocanic Acid
+EX_cpd00281(e)	cpd00281	Amino Butyric Acid

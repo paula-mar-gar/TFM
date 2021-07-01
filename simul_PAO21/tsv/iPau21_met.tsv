@@ -1,0 +1,1127 @@
+abbreviation	name	compartment
+cJB00124	3-Demethylubiquinol-9	cytosol
+cJB00125	Ubiquinol-9	cytosol
+cJB00126	Dihydroaeruginoic acid	cytosol
+cJB00127	cis-2-Decenoic acid	cytosol, extracellular
+cLD00540	BET-CoA	cytosol
+cpd00001	H2O	cytosol, extracellular
+cpd00002	ATP	cytosol
+cpd00003	NAD	cytosol
+cpd00004	NADH	cytosol
+cpd00005	NADPH	cytosol
+cpd00006	NADP	cytosol
+cpd00007	O2	cytosol, extracellular
+cpd00008	ADP	cytosol
+cpd00009	Phosphate	cytosol, extracellular
+cpd00010	CoA	cytosol
+cpd00011	CO2	cytosol, extracellular
+cpd00012	PPi	cytosol, extracellular
+cpd00013	NH3	cytosol, extracellular
+cpd00014	UDP	cytosol
+cpd00015	FAD	cytosol
+cpd00016	Pyridoxal phosphate	cytosol
+cpd00017	S-Adenosyl-L-methionine	cytosol
+cpd00018	AMP	cytosol
+cpd00019	S-Adenosyl-homocysteine	cytosol
+cpd00020	Pyruvate	cytosol, extracellular
+cpd00021	Fe2+	extracellular, cytosol
+cpd00022	Acetyl-CoA	cytosol
+cpd00023	L-Glutamate	cytosol, extracellular
+cpd00024	2-Oxoglutarate	cytosol, extracellular
+cpd00025	H2O2	cytosol
+cpd00026	UDP-glucose	cytosol
+cpd00027	D-Glucose	extracellular, cytosol
+cpd00028	Heme	cytosol
+cpd00029	Acetate	cytosol, extracellular
+cpd00030	Mn2+	extracellular, cytosol
+cpd00031	GDP	cytosol
+cpd00032	Oxaloacetate	cytosol
+cpd00033	Glycine	cytosol, extracellular
+cpd00034	Zn2+	cytosol, extracellular
+cpd00035	L-Alanine	extracellular, cytosol
+cpd00036	Succinate	cytosol, extracellular
+cpd00037	UDP-N-acetylglucosamine	cytosol
+cpd00038	GTP	cytosol
+cpd00039	L-Lysine	cytosol, extracellular
+cpd00040	Glyoxalate	cytosol, extracellular
+cpd00041	L-Aspartate	cytosol, extracellular
+cpd00042	GSH	cytosol
+cpd00043	UDP-galactose	cytosol
+cpd00044	3-phosphoadenylylsulfate	cytosol
+cpd00045	Adenosine 3-5-bisphosphate	cytosol
+cpd00046	CMP	cytosol
+cpd00047	Formate	cytosol, extracellular
+cpd00048	Sulfate	extracellular, cytosol
+cpd00049	Carboxylic acid	cytosol
+cpd00050	FMN	cytosol
+cpd00051	L-Arginine	extracellular, cytosol
+cpd00052	CTP	cytosol
+cpd00053	L-Glutamine	cytosol, extracellular
+cpd00054	L-Serine	cytosol, extracellular
+cpd00055	Formaldehyde	cytosol
+cpd00056	TPP	cytosol
+cpd00058	Cu2+	extracellular, cytosol
+cpd00059	L-Ascorbate	extracellular, cytosol
+cpd00060	L-Methionine	cytosol, extracellular
+cpd00061	Phosphoenolpyruvate	cytosol
+cpd00062	UTP	cytosol
+cpd00063	Ca2+	extracellular
+cpd00064	Ornithine	cytosol, extracellular
+cpd00065	L-Tryptophan	cytosol, extracellular
+cpd00066	L-Phenylalanine	cytosol, extracellular
+cpd00067	H+	cytosol, extracellular, periplasm
+cpd00068	ITP	cytosol
+cpd00069	L-Tyrosine	cytosol, extracellular
+cpd00070	Malonyl-CoA	cytosol
+cpd00071	Acetaldehyde	cytosol
+cpd00072	D-fructose-6-phosphate	cytosol, extracellular
+cpd00073	Urea	cytosol, extracellular
+cpd00074	S	cytosol
+cpd00075	Nitrite	cytosol, extracellular
+cpd00077	Catechol	cytosol
+cpd00078	Succinyl-CoA	cytosol
+cpd00079	D-glucose-6-phosphate	cytosol, extracellular
+cpd00080	Glycerol-3-phosphate	cytosol, extracellular
+cpd00081	Sulfite	cytosol
+cpd00082	D-Fructose	cytosol, extracellular
+cpd00083	GDP-mannose	cytosol
+cpd00084	L-Cysteine	cytosol, extracellular
+cpd00085	beta-Alanine	cytosol, extracellular
+cpd00086	Propionyl-CoA	cytosol
+cpd00087	Tetrahydrofolate	cytosol
+cpd00089	Glucose-1-phosphate	cytosol, extracellular
+cpd00090	IDP	cytosol
+cpd00091	UMP	cytosol
+cpd00092	Uracil	extracellular, cytosol
+cpd00093	Anthranilate	cytosol
+cpd00094	2-Oxobutyrate	cytosol, extracellular
+cpd00095	Glycerone-phosphate	cytosol
+cpd00096	CDP	cytosol
+cpd00098	Choline	cytosol, extracellular
+cpd00099	Cl	extracellular
+cpd00100	Glycerol	cytosol, extracellular
+cpd00101	ribose-5-phosphate	cytosol
+cpd00102	Glyceraldehyde3-phosphate	cytosol
+cpd00103	PRPP	cytosol
+cpd00104	BIOT	cytosol
+cpd00105	D-Ribose	extracellular, cytosol
+cpd00106	Fumarate	cytosol, extracellular
+cpd00107	L-Leucine	extracellular, cytosol
+cpd00108	Galactose	extracellular
+cpd00109	Cytochrome c3+	cytosol
+cpd00110	Cytochrome c2+	cytosol
+cpd00111	Oxidized glutathione	cytosol
+cpd00113	Isopentenyldiphosphate	cytosol
+cpd00114	IMP	cytosol
+cpd00115	dATP	cytosol
+cpd00117	D-Alanine	cytosol, extracellular
+cpd00118	Putrescine	extracellular, cytosol
+cpd00119	L-Histidine	cytosol, extracellular
+cpd00120	Butyryl-CoA	cytosol
+cpd00121	L-Inositol	extracellular, cytosol
+cpd00122	N-Acetyl-D-glucosamine	extracellular
+cpd00123	3-Methyl-2-oxobutanoate	cytosol
+cpd00125	5-10-Methylenetetrahydrofolate	cytosol
+cpd00126	GMP	cytosol
+cpd00128	Adenine	cytosol
+cpd00129	L-Proline	cytosol, extracellular
+cpd00130	L-Malate	cytosol, extracellular
+cpd00132	L-Asparagine	cytosol, extracellular
+cpd00134	Palmitoyl-CoA	cytosol
+cpd00135	Homocysteine	cytosol
+cpd00136	4-Hydroxybenzoate	cytosol, extracellular
+cpd00137	Citrate	cytosol, extracellular
+cpd00138	D-Mannose	extracellular, cytosol
+cpd00139	Glycolate	cytosol, extracellular
+cpd00141	Propionate	cytosol, extracellular
+cpd00142	Acetoacetate	cytosol, extracellular
+cpd00143	Phenylpyruvate	cytosol
+cpd00144	UDPglucuronate	cytosol
+cpd00145	Hydroxypyruvate	cytosol
+cpd00146	Carbamoylphosphate	cytosol
+cpd00147	5-Methylthioadenosine	cytosol, extracellular
+cpd00149	Co2+	cytosol, extracellular
+cpd00150	HCN	cytosol
+cpd00152	Agmatine	cytosol, extracellular
+cpd00153	Benzoate	cytosol
+cpd00154	Xylose	extracellular, cytosol
+cpd00155	Glycogen	cytosol, extracellular
+cpd00156	L-Valine	cytosol, extracellular
+cpd00158	CELB	cytosol, extracellular
+cpd00159	L-Lactate	cytosol, extracellular
+cpd00161	L-Threonine	cytosol, extracellular
+cpd00162	Aminoethanol	cytosol, extracellular
+cpd00164	Glucuronate	extracellular, cytosol
+cpd00168	2,3-Dihydroxybenzoate	cytosol
+cpd00169	3-Phosphoglycerate	cytosol
+cpd00170	Gluconolactone	extracellular
+cpd00171	D-Ribulose5-phosphate	cytosol
+cpd00175	UDP-N-acetyl-D-galactosamine	cytosol
+cpd00176	2-keto-3-deoxygluconate	extracellular
+cpd00177	dADP	cytosol
+cpd00178	Acetone	cytosol
+cpd00179	Maltose	cytosol, extracellular
+cpd00182	Adenosine	extracellular, cytosol
+cpd00183	Sarcosine	cytosol
+cpd00184	Thymidine	extracellular, cytosol
+cpd00186	D-Glutamate	extracellular, cytosol
+cpd00187	Methanamine	cytosol
+cpd00191	3-Oxopropanoate	cytosol
+cpd00193	APS	cytosol
+cpd00196	Acetylphosphate	cytosol
+cpd00197	Protocatechuate	cytosol
+cpd00198	D-Xylulose5-phosphate	cytosol
+cpd00199	4-Oxobutanoate	cytosol
+cpd00200	4MOP	cytosol
+cpd00201	10-Formyltetrahydrofolate	cytosol
+cpd00202	DMAPP	cytosol
+cpd00203	1,3-Bisphospho-D-glycerate	cytosol
+cpd00204	CO	cytosol
+cpd00205	K+	extracellular, cytosol
+cpd00206	dCMP	cytosol
+cpd00207	Guanine	cytosol
+cpd00209	Nitrate	cytosol, extracellular
+cpd00210	Taurine	extracellular, cytosol
+cpd00211	Butyrate	extracellular, cytosol
+cpd00212	L-Sorbose	extracellular
+cpd00213	Lipoamide	cytosol
+cpd00214	Palmitate	extracellular, cytosol
+cpd00215	Pyridoxal	cytosol
+cpd00216	Chorismate	cytosol
+cpd00219	Prephenate	cytosol
+cpd00220	Riboflavin	cytosol
+cpd00221	D-Lactate	cytosol, extracellular
+cpd00222	GLCN	extracellular, cytosol
+cpd00223	Glycerate	cytosol
+cpd00224	L-Arabinose	extracellular, cytosol
+cpd00225	Benzaldehyde	cytosol
+cpd00226	HYXN	cytosol, extracellular
+cpd00227	L-Homoserine	cytosol, extracellular
+cpd00229	Glycolaldehyde	cytosol, extracellular
+cpd00231	Dihydrobiopterin	cytosol
+cpd00233	Tetrahydrobiopterin	cytosol
+cpd00235	D-mannose-6-phosphate	cytosol
+cpd00236	D-Erythrose4-phosphate	cytosol
+cpd00238	Sedoheptulose7-phosphate	cytosol
+cpd00239	H2S	cytosol
+cpd00241	dGTP	cytosol
+cpd00242	H2CO3	cytosol
+cpd00244	Ni2+	extracellular, cytosol
+cpd00246	Inosine	extracellular, cytosol
+cpd00247	Orotate	extracellular, cytosol
+cpd00249	Uridine	extracellular, cytosol
+cpd00254	Mg	extracellular, cytosol
+cpd00259	D-Lyxulose	cytosol
+cpd00260	Isocitrate	cytosol
+cpd00263	Pyridoxol	cytosol
+cpd00264	Spermidine	cytosol, extracellular
+cpd00266	Carnitine	extracellular, cytosol
+cpd00268	H2S2O3	extracellular, cytosol
+cpd00274	Citrulline	cytosol
+cpd00275	L-Kynurenine	cytosol
+cpd00277	Deoxyguanosine	extracellular, cytosol
+cpd00279	Acetoacetyl-CoA	cytosol
+cpd00280	D-Galacturonate	extracellular, cytosol
+cpd00281	GABA	cytosol, extracellular
+cpd00282	S-Dihydroorotate	cytosol
+cpd00283	Geranyldiphosphate	cytosol
+cpd00284	6-Phospho-D-gluconate	cytosol
+cpd00285	Phosphoethanolamine	cytosol
+cpd00286	Undecaprenylphosphate	cytosol
+cpd00287	3-Oxo-2-methylpropanoate	cytosol
+cpd00288	D-Glucosamine phosphate	cytosol
+cpd00290	D-fructose-1,6-bisphosphate	cytosol
+cpd00292	HMG-CoA	cytosol
+cpd00293	N-Acetyl-D-glucosamine 6-phosphate	cytosol
+cpd00294	dAMP	cytosol, extracellular
+cpd00295	dGDP	cytosol
+cpd00296	dGMP	cytosol
+cpd00297	dTDP	cytosol
+cpd00298	dTMP	cytosol
+cpd00299	dUMP	cytosol
+cpd00300	Urate	cytosol
+cpd00305	Thiamin	extracellular, cytosol
+cpd00306	Xylitol	extracellular
+cpd00307	Cytosine	extracellular, cytosol
+cpd00308	Malonate	cytosol, extracellular
+cpd00309	XAN	cytosol, extracellular
+cpd00311	Guanosine	cytosol
+cpd00314	D-Mannitol	cytosol, extracellular
+cpd00322	L-Isoleucine	cytosol, extracellular
+cpd00324	MTTL	cytosol
+cpd00327	strcoa	cytosol
+cpd00330	Dihydrofolate	cytosol
+cpd00331	cis-Aconitate	cytosol, extracellular
+cpd00334	L-Lactaldehyde	cytosol
+cpd00337	Hydrouracil	cytosol
+cpd00338	5-Aminolevulinate	cytosol
+cpd00340	2,5-Dioxopentanoate	cytosol
+cpd00341	N-Carbamoylputrescine	cytosol
+cpd00342	N-Acetylornithine	cytosol
+cpd00343	N-Carbamoyl-L-aspartate	cytosol
+cpd00344	N-Formimino-L-glutamate	cytosol
+cpd00345	5-Methyltetrahydrofolate	cytosol
+cpd00346	L-Aspartate4-semialdehyde	cytosol
+cpd00347	5-10-Methenyltetrahydrofolate	cytosol
+cpd00348	D-Galactose 1-phosphate	cytosol
+cpd00350	Farnesyldiphosphate	cytosol
+cpd00355	Nicotinamide ribonucleotide	cytosol
+cpd00356	dCTP	cytosol
+cpd00357	TTP	cytosol
+cpd00358	dUTP	cytosol
+cpd00361	ACTN	cytosol, extracellular
+cpd00363	Ethanol	cytosol, extracellular
+cpd00367	Cytidine	extracellular, cytosol
+cpd00378	Formamide	cytosol
+cpd00379	Glutarate	cytosol, extracellular
+cpd00380	Itaconate	extracellular, cytosol
+cpd00381	L-Cystine	extracellular, cytosol
+cpd00383	Shikimate	cytosol
+cpd00386	D-Malate	cytosol, extracellular
+cpd00387	ADPglucose	cytosol
+cpd00388	Allantoate	cytosol
+cpd00395	L-Cysteate	extracellular
+cpd00408	Pantoate	cytosol
+cpd00412	Deoxyuridine	extracellular, cytosol
+cpd00413	Glutaryl-CoA	cytosol
+cpd00416	Itaconyl-CoA	cytosol
+cpd00418	NO	cytosol
+cpd00419	PM	cytosol
+cpd00421	Triphosphate	cytosol
+cpd00423	Vitamin - B12r	extracellular, cytosol
+cpd00424	Cystathionine	cytosol
+cpd00426	Homogentisate	cytosol
+cpd00428	2-Oxopropanal	cytosol
+cpd00434	4-Aminobutanal	cytosol
+cpd00438	Deoxyadenosine	extracellular, cytosol
+cpd00443	ABEE	cytosol
+cpd00446	cAMP	cytosol
+cpd00447	Betaine aldehyde	cytosol
+cpd00448	D-Glyceraldehyde	cytosol
+cpd00449	Dihydrolipoamide	cytosol
+cpd00457	Phosphocholine	cytosol
+cpd00465	Ureidoglycolate	cytosol
+cpd00477	N-Acetyl-L-glutamate	cytosol, extracellular
+cpd00478	Pyridoxine phosphate	cytosol
+cpd00480	2-Dehydro-D-gluconate	extracellular, cytosol
+cpd00481	Isobutyryl-CoA	cytosol
+cpd00482	2-Phospho-D-glycerate	cytosol
+cpd00485	D-Mannose1-phosphate	cytosol
+cpd00489	4-Hydroxyphenylacetate	cytosol, extracellular
+cpd00491	D-mannitol-1-phosphate	cytosol
+cpd00493	Pyridoxamine phosphate	cytosol
+cpd00497	XMP	cytosol
+cpd00498	2-Aceto-2-hydroxybutanoate	cytosol
+cpd00504	LL-2,6-Diaminopimelate	cytosol
+cpd00506	gamma-Glutamylcysteine	cytosol
+cpd00507	Glycerophosphocholine	cytosol
+cpd00508	3MOP	cytosol
+cpd00510	deoxyribose-5-phosphate	cytosol
+cpd00516	meso-2,6-Diaminopimelate	cytosol
+cpd00519	D-methylmalonyl-CoA	cytosol
+cpd00521	dTDP-4-oxo-6-deoxy-D-glucose	cytosol
+cpd00522	dTDP-4-oxo-L-rhamnose	cytosol
+cpd00523	Trehalose 6-phosphate	cytosol
+cpd00525	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate	cytosol
+cpd00528	N2	cytosol, extracellular
+cpd00531	Hg2+	cytosol, extracellular
+cpd00532	O2	cytosol
+cpd00533	dCDP	cytosol
+cpd00540	BET	cytosol, extracellular
+cpd00550	D-Serine	extracellular, cytosol
+cpd00557	Siroheme	cytosol
+cpd00581	Urocanate	cytosol, extracellular
+cpd00588	Sorbitol	extracellular, cytosol
+cpd00599	salicylate	cytosol, extracellular
+cpd00609	D-Glucarate	cytosol, extracellular
+cpd00626	dTDPglucose	cytosol
+cpd00630	3-Oxoadipate	cytosol
+cpd00635	Cbl	extracellular
+cpd00637	D-Methionine	extracellular, cytosol
+cpd00638	Deamido-NAD	cytosol
+cpd00641	L-Histidinol	cytosol
+cpd00644	PAN	cytosol
+cpd00650	Crotonyl-CoA	cytosol
+cpd00652	D-Mucic - acid	extracellular, cytosol
+cpd00653	D-Galactonate	extracellular, cytosol
+cpd00654	Deoxycytidine	extracellular, cytosol
+cpd00655	Dephospho-CoA	cytosol
+cpd00658	Isochorismate	cytosol
+cpd00659	Nitrous oxide	cytosol
+cpd00666	Tartrate	extracellular, cytosol
+cpd00668	ALCTT	cytosol
+cpd00683	Dihydropteroate	cytosol
+cpd00689	Porphobilinogen	cytosol
+cpd00699	5-Dehydroquinate	cytosol
+cpd00712	2-Dehydropantoate	cytosol
+cpd00719	GDP-D-mannuronate	cytosol
+cpd00722	O-Acetyl-L-serine	cytosol
+cpd00726	1,3-Propanediamine	cytosol
+cpd00727	2-Phosphoglycolate	cytosol
+cpd00731	Ala-Ala	cytosol
+cpd00738	phosphoserine	cytosol
+cpd00743	L-Citramalyl-CoA	cytosol
+cpd00755	Hydroxymethylbilane	cytosol
+cpd00756	Dimethylglycine	cytosol
+cpd00760	2-Methylbutyryl-CoA	cytosol
+cpd00762	4-Guanidinobutanoate	cytosol
+cpd00763	4-Maleylacetoacetate	cytosol
+cpd00764	7-8-Diaminononanoate	cytosol
+cpd00770	N-Formyl-L-glutamate	cytosol
+cpd00773	UDP-MurNAc	cytosol
+cpd00774	UroporphyrinogenIII	cytosol
+cpd00780	Fumarylacetoacetate	cytosol
+cpd00782	Pimeloyl-CoA	cytosol
+cpd00790	O-Acetyl-L-homoserine	cytosol
+cpd00791	ProtoporphyrinogenIX	cytosol
+cpd00793	Thiamine phosphate	cytosol
+cpd00794	TRHL	cytosol, extracellular
+cpd00797	(R)-3-Hydroxybutanoate	cytosol, extracellular
+cpd00800	8-Amino-7-oxononanoate	cytosol
+cpd00802	D-fructose-1-phosphate	cytosol
+cpd00805	D-Tagatose 6-phosphate	cytosol
+cpd00806	L-Fuculose1-phosphate	cytosol
+cpd00807	L-histidinol-phosphate	cytosol
+cpd00809	O-Phospho-L-homoserine	cytosol
+cpd00810	Orotidylic acid	cytosol
+cpd00817	D-Arabinose5-phosphate	cytosol
+cpd00822	O-Succinyl-L-homoserine	cytosol
+cpd00834	Phosphopantetheine	cytosol
+cpd00837	S-Adenosylmethioninamine	cytosol
+cpd00842	(S)-3-Hydroxybutyryl-CoA	cytosol
+cpd00843	Tartronate semialdehyde	cytosol
+cpd00851	trans-4-Hydroxy-L-proline	extracellular, cytosol
+cpd00854	Homoprotocatechuate	cytosol
+cpd00856	3-Carboxy-cis,cis-muconate	cytosol
+cpd00858	L-Glutamate5-semialdehyde	cytosol
+cpd00859	Pseudouridine 5'-phosphate	cytosol
+cpd00861	UDP-N-acetyl-D-mannosamine	cytosol
+cpd00863	beta-D-Glucose 6-phosphate	cytosol
+cpd00868	p-hydroxyphenylpyruvate	cytosol
+cpd00869	4-methylthio 2-oxobutyrate	cytosol
+cpd00870	gamma-butyrobetaine	extracellular, cytosol
+cpd00873	Nicotinate ribonucleotide	cytosol
+cpd00875	KDO	cytosol
+cpd00876	3-Hydroxyisobutyrate	cytosol
+cpd00890	UDP-N-acetylmuramoyl-L-alanine	cytosol
+cpd00891	L-methylmalonyl-CoA	cytosol
+cpd00896	6-Phospho-2-dehydro-D-gluconate	cytosol
+cpd00900	GDP-4-dehydro-D-rhamnose	cytosol
+cpd00905	Guanosine 3',5'-bis(diphosphate)	cytosol
+cpd00908	Glycerophosphoethanolamine	cytosol
+cpd00909	1-Aminocyclopropane-1-carboxylate	cytosol
+cpd00911	6-phospho-D-glucono-1-5-lactone	cytosol
+cpd00918	2-Acetamido-5-oxopentanoate	cytosol
+cpd00924	AppppA	cytosol
+cpd00930	imidazole acetol-phosphate	cytosol
+cpd00931	5-Amino-6-5-phosphoribosylaminouracil	cytosol
+cpd00932	5-O-1-Carboxyvinyl-3-phosphoshikimate	cytosol
+cpd00938	4-Carboxymuconolactone	cytosol
+cpd00939	Toxopyrimidine	cytosol
+cpd00946	Undecaprenyl diphospho N-acetyl-glucosamine	cytosol
+cpd00954	6-hydroxymethyl dihydropterin	cytosol
+cpd00956	1-(2-carboxyphenylamino)-1-deoxyribulose 5-phosphate	cytosol
+cpd00957	2,5-Diamino-6-(5'-phosphoribosylamino)-4-pyrimidineone	cytosol
+cpd00971	Na+	extracellular, cytosol
+cpd00978	dUDP	cytosol
+cpd00982	FADH2	cytosol
+cpd00985	NH4OH	cytosol
+cpd01012	Cd2+	cytosol, extracellular
+cpd01015	Cyanate	extracellular, cytosol
+cpd01017	Cys-Gly	extracellular, cytosol
+cpd01048	Arsenate	cytosol, extracellular
+cpd01078	Selenide	cytosol
+cpd01080	ocdca	cytosol
+cpd01092	Allantoin	extracellular, cytosol
+cpd01101	Carbamate	cytosol
+cpd01155	Cadaverine	cytosol
+cpd01206	pyocyanin	cytosol
+cpd01211	Thiocyanate	cytosol
+cpd01217	Xanthosine	cytosol
+cpd01221	(S)-Acetoin	cytosol
+cpd01242	Thyminose	extracellular, cytosol
+cpd01260	Lauroyl-CoA	cytosol
+cpd01262	Amylotriose	extracellular, cytosol
+cpd01293	5-Oxoproline	extracellular, cytosol
+cpd01307	D-Lyxitol	extracellular
+cpd01311	Dethiobiotin	cytosol
+cpd01329	Maltohexaose	extracellular, cytosol
+cpd01335	Octanoyl-CoA	cytosol
+cpd01351	Ubiquinone-9	cytosol
+cpd01352	Undecaprenol	cytosol
+cpd01433	2-Nitropropane	cytosol
+cpd01447	Benzoylformate	cytosol
+cpd01476	Protoporphyrin	cytosol
+cpd01502	Citraconate	extracellular, cytosol
+cpd01504	3-Aminopropanal	cytosol
+cpd01507	3-Oxoadipyl-CoA	cytosol
+cpd01581	3-Oxododecanoate	cytosol
+cpd01620	Precorrin 2	cytosol
+cpd01630	cis,cis-Muconate	extracellular, cytosol
+cpd01646	2-Isopropylmalate	cytosol
+cpd01695	Myristoyl-CoA	cytosol
+cpd01700	D-Citramalate	cytosol
+cpd01710	2-Isopropylmaleate	cytosol
+cpd01715	3-Dehydrocarnitine	cytosol
+cpd01716	3-Dehydroshikimate	cytosol
+cpd01720	3-Ureidopropanoate	cytosol
+cpd01735	Glucurone	cytosol
+cpd01749	N-Formylkynurenine	cytosol
+cpd01772	Succinylbenzoate	cytosol
+cpd01775	Phosphoribosyl-ATP	cytosol
+cpd01777	Phosphoribosyl-AMP	cytosol
+cpd01795	2-Deoxy-D-gluconate	cytosol
+cpd01844	Propionyl - phosphate	cytosol
+cpd01882	Isovaleryl-CoA	cytosol
+cpd01914	L-Methionine S-oxide	extracellular, cytosol
+cpd01923	N-Acetylmuramoyl-Ala	cytosol
+cpd01947	BDOH	cytosol, extracellular
+cpd01949	(S,S)-2,3-Butanediol, (SS)-23-Butanediol	cytosol, extracellular
+cpd01966	Dimethylacryloyl-CoA	cytosol
+cpd01977	4-Phospho-L-aspartate	cytosol
+cpd01982	5-Phosphoribosylamine	cytosol
+cpd01997	Dimethylbenzimidazole	cytosol
+cpd01999	GDP-D-rhamnose	cytosol
+cpd02012	N-Formyl-L-methionine	cytosol, extracellular
+cpd02021	Succinylbenzoyl-CoA	cytosol
+cpd02024	Phosphonoacetaldehyde	cytosol
+cpd02030	3-phosphoshikimate	cytosol
+cpd02039	1-Aminopropan-2-ol	cytosol
+cpd02060	(2E)-Dodecenoyl-CoA	cytosol
+cpd02068	3-Methylglutaconyl-CoA	cytosol
+cpd02069	3-Phosphonooxypyruvate	cytosol
+cpd02083	CoproporphyrinogenIII	cytosol
+cpd02089	5-Oxopentanoate	cytosol
+cpd02090	Glycerophosphoglycerol	cytosol
+cpd02095	L-2,4-Diaminobutyrate	cytosol
+cpd02096	L-3-Amino-isobutyrate	cytosol
+cpd02097	L-Glutamyl 5-phosphate	cytosol
+cpd02103	N2-Succinyl-L-arginine	cytosol
+cpd02113	dTDP-rhamnose	cytosol
+cpd02120	Dihydrodipicolinate	cytosol
+cpd02124	2-Methylacetoacetyl-CoA	cytosol
+cpd02125	Tiglyl-CoA	cytosol
+cpd02140	AIR	cytosol
+cpd02147	4-Phosphoerythronate	cytosol
+cpd02152	L-Argininosuccinate	cytosol
+cpd02160	N2-Succinyl-L-ornithine	cytosol
+cpd02172	Solanesyl diphosphate	cytosol
+cpd02175	cis-4-Hydroxy-D-proline	cytosol
+cpd02182	(R)-S-Lactoylglutathione	cytosol
+cpd02187	Methacrylyl-CoA	cytosol
+cpd02201	4-phosphopantothenate	cytosol
+cpd02210	Indoleglycerol phosphate	cytosol
+cpd02211	L-2-Amino-acetoacetate	cytosol
+cpd02229	Bactoprenyl diphosphate	cytosol
+cpd02233	Ciliatine	cytosol
+cpd02255	3-oxoadipate-enol-lactone	cytosol
+cpd02295	1-4-Dihydroxy-2-naphthoate	cytosol
+cpd02311	4-Imidazolone-5-propanoate	cytosol
+cpd02315	6-Pyruvoyltetrahydropterin	cytosol
+cpd02333	Quinolinate	cytosol
+cpd02345	L-Glutamate1-semialdehyde	cytosol
+cpd02371	D-Tagatose 1,6-biphosphate	cytosol
+cpd02375	Adenylosuccinate	cytosol
+cpd02394	GAR	cytosol
+cpd02419	Nonaprenyl-4-hydroxybenzoate	cytosol
+cpd02431	1-Pyrroline-5-carboxylate	cytosol
+cpd02441	3-Dehydro-2-deoxy-D-gluconate	cytosol
+cpd02465	tetrahydrodipicolinate	cytosol
+cpd02494	(2,3-Dihydroxybenzoyl)adenylate	cytosol
+cpd02498	2,3-Dihydroxy-isovalerate	cytosol
+cpd02507	5-Carboxy-2-oxohept-3-enedioate	cytosol
+cpd02535	2,3-Dihydroxy-3-methylvalerate	cytosol
+cpd02536	Muconolactone	cytosol
+cpd02546	CMP-KDO	cytosol
+cpd02552	n-acetylglutamyl-phosphate	cytosol
+cpd02555	Tetrahydropteroyltri-L-glutamate	cytosol
+cpd02557	Farnesylfarnesylgeraniol	cytosol
+cpd02566	2,3-Dihydroxy-2,3-dihydrobenzoate	cytosol
+cpd02569	2-Oxo-3-hydroxyisovalerate	cytosol
+cpd02572	5-Carboxymethyl-2-hydroxymuconate	cytosol
+cpd02574	methylthioribose-1-phosphate	cytosol
+cpd02605	2-isopropyl-3-oxosuccinate	cytosol
+cpd02611	N-Acetyl-D-glucosamine1-phosphate	cytosol
+cpd02626	1-Pyrroline-4-hydroxy-2-carboxylate	cytosol
+cpd02642	N-5-phosphoribosyl-anthranilate	cytosol
+cpd02654	4-Methyl-5-2-phosphoethyl-thiazole	cytosol
+cpd02656	6-7-Dimethyl-8-1-D-ribityllumazine	cytosol
+cpd02666	(R)-4'-Phosphopantothenoyl-L-cysteine	cytosol
+cpd02678	N-Formyl-GAR	cytosol
+cpd02691	2-methyl-3-hydroxy-butyryl-CoA	cytosol
+cpd02693	3-Isopropylmalate	cytosol
+cpd02698	N-Succinyl-L-2,6-diaminopimelate	cytosol
+cpd02700	 S-(2-Methylpropionyl)-dihydrolipoamide	cytosol
+cpd02701	S-Adenosyl-4-methylthio-2-oxobutanoate	cytosol
+cpd02711	2-Keto-3-deoxy-6-phosphogluconate	cytosol
+cpd02720	5-Amino-6-5-phosphoribitylaminouracil	cytosol
+cpd02724	N-Succinyl-L-2-amino-6-oxopimelate	cytosol
+cpd02730	3-Deoxy-D-manno-octulosonate8-phosphate	cytosol
+cpd02738	5-Methyltetrahydropteroyltri-L-glutamate	cytosol
+cpd02740	Guanosine 5'-triphosphate,3'-diphosphate	cytosol
+cpd02746	all trans Decaprenyl diphosphate	cytosol
+cpd02775	4-Amino-5-phosphomethyl-2-methylpyrimidine	cytosol
+cpd02791	methylthioribulose-1-phosphate	cytosol
+cpd02820	UDP-N-acetylglucosamine enolpyruvate	cytosol
+cpd02826	5'-Phosphoribosylformylglycinamidine	cytosol
+cpd02828	5-Carboxymethyl-2-hydroxymuconic semialdehyde	cytosol
+cpd02843	D-erythro-imidazol-glycerol-phosphate	cytosol
+cpd02851	AICAR	cytosol
+cpd02857	DAHP	cytosol
+cpd02882	4-1-D-Ribitylamino-5-aminouracil	cytosol
+cpd02884	FAICAR	cytosol
+cpd02893	5'-Phosphoribosyl-4-carboxy-5-aminoimidazole	cytosol
+cpd02894	4-Amino-2-methyl-5-diphosphomethylpyrimidine	cytosol
+cpd02904	alpha-Ribazole 5'-phosphate	cytosol
+cpd02920	7,8-Dihydropterin pyrophosphate	cytosol
+cpd02921	SAICAR	cytosol
+cpd02961	Dihydroneopterin	cytosol
+cpd02964	UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2-6-diaminopimelate	cytosol
+cpd02968	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl- D-alanine	cytosol
+cpd02978	7,8-Dihydroneopterin 3'-triphosphate	cytosol
+cpd02979	phosphoribosylformiminoaicar-phosphate	cytosol
+cpd02991	phosphoribulosylformimino-AICAR-phosphate	cytosol
+cpd03045	S-(2-Methylbutanoyl)-dihydrolipoamide	cytosol
+cpd03046	S-(3-Methylbutanoyl)-dihydrolipoamide	cytosol
+cpd03048	Isethionate	extracellular
+cpd03078	Selenophosphate	cytosol
+cpd03091	5'-Deoxyadenosine	cytosol, extracellular
+cpd03113	(S)-3-Hydroxyhexadecanoyl-CoA	cytosol
+cpd03114	3-Oxopalmitoyl-CoA	cytosol
+cpd03115	(S)-3-Hydroxytetradecanoyl-CoA	cytosol
+cpd03116	(S)-3-Hydroxydodecanoyl-CoA	cytosol
+cpd03117	3-Oxododecanoyl-CoA	cytosol
+cpd03118	(S)-Hydroxydecanoyl-CoA	cytosol
+cpd03119	3-Oxodecanoyl-CoA	cytosol
+cpd03120	(S)-Hydroxyoctanoyl-CoA	cytosol
+cpd03121	3-Oxooctanoyl-CoA	cytosol
+cpd03122	(S)-Hydroxyhexanoyl-CoA	cytosol
+cpd03123	3-Oxohexanoyl-CoA	cytosol
+cpd03124	Hexanoyl-CoA	cytosol
+cpd03125	(2E)-Hexenoyl-CoA	cytosol
+cpd03126	(2E)-Hexadecenoyl-CoA	cytosol
+cpd03127	(2E)-Tetradecenoyl-CoA	cytosol
+cpd03128	Decanoyl-CoA	cytosol
+cpd03129	(2E)-Decenoyl-CoA	cytosol
+cpd03130	(2E)-Octenoyl-CoA	cytosol
+cpd03187	Oxalosuccinate	cytosol
+cpd03279	Deoxyinosine	extracellular, cytosol
+cpd03294	Aerobactin	extracellular, cytosol
+cpd03320	3-Hydroxyphenylacetate	cytosol, extracellular
+cpd03326	2-Hydroxyhepta-2,4-dienedioate	cytosol
+cpd03420	Precorrin 3A	cytosol
+cpd03422	Cobinamide	cytosol
+cpd03424	Vitamin - B12	extracellular, cytosol
+cpd03426	Sirohydrochlorin	cytosol
+cpd03443	3-Octaprenyl-4-hydroxybenzoate	cytosol
+cpd03444	2-Octaprenylphenol	cytosol
+cpd03445	2-Octaprenyl-6-hydroxyphenol	cytosol
+cpd03446	2-Octaprenyl-6-methoxyphenol	cytosol
+cpd03452	(L-Seryl)adenylate	cytosol
+cpd03453	Enterobactin	cytosol
+cpd03470	Iminoaspartate	cytosol
+cpd03485	N-Acetyl-D-muramoate	cytosol
+cpd03494	Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2-6-diaminopimeloyl-D-alanyl-D-alanine	cytosol
+cpd03495	Undecaprenyl-diphospho-N-acetylmuramoyl-N-acetylglucosamine-L-ala-D-glu-meso-2-6-diaminopimeloyl-D-ala-D-ala	cytosol
+cpd03517	Biotinyl-5-AMP	cytosol
+cpd03525	N-Succinyl-L-glutamate	cytosol
+cpd03526	N-Succinyl-L-glutamate 5-semialdehyde	cytosol
+cpd03560	Propionyladenylate	cytosol
+cpd03572	(S)-3-Hydroxyisobutyryl-CoA	cytosol
+cpd03577	(R)-2-Oxo-3-methylpentanoate	cytosol
+cpd03587	kdo2-lipid a	extracellular
+cpd03593	D-erythro-3-Methylmalate	cytosol
+cpd03606	2-Oxo-3-hydroxy-4-phosphobutanoate	cytosol
+cpd03607	4-(Phosphonooxy)-threonine	cytosol
+cpd03608	4-Hydroxy-L-threonine	cytosol
+cpd03671	D-Glucosamine1-phosphate	cytosol
+cpd03691	Piperideine	cytosol
+cpd03708	2,4-Dihydroxyhept-2-enedioate	cytosol
+cpd03724	Ferrichrome	extracellular, cytosol
+cpd03726	Fe-enterochlin	extracellular, cytosol
+cpd03760	Precorrin 6B	cytosol
+cpd03761	Precorrin 6A	cytosol
+cpd03762	cis-1,2-dihydroxybenzoate	cytosol
+cpd03803	Carboxyphosphonoenolpyruvate	cytosol
+cpd03804	(Hydroxyphosphinyl)pyruvate	cytosol
+cpd03830	ADP-D-glycero-D-manno-heptose	cytosol
+cpd03831	ADP-L-glycero-D-manno-heptose	cytosol
+cpd03832	Hydrogenobyrinate	cytosol
+cpd03833	Precorrin 3B	cytosol
+cpd03834	Precorrin 4	cytosol
+cpd03835	Precorrin 8	cytosol
+cpd03839	Precorrin 5	cytosol
+cpd03847	Myristic acid, Myristic - acid	extracellular, cytosol
+cpd03897	4a-Hydroxytetrahydrobiopterin	cytosol
+cpd03913	Hydrogenobyrinate diamide	cytosol
+cpd03914	Cob(II)yrinate diamide	cytosol
+cpd03916	Adenosyl cobyrinate diamide	cytosol
+cpd03917	Adenosylcobyric acid	cytosol
+cpd03918	Adenosyl cobinamide	cytosol
+cpd04097	Pb - Pb	cytosol, extracellular
+cpd04098	Arsenite	cytosol, extracellular
+cpd04099	Phosphonate	extracellular, cytosol
+cpd04539	2-Amino-3-oxo-4-phosphonooxybutyrate	cytosol
+cpd04918	D-Glycero-D-manno-heptose7-phosphate	cytosol
+cpd04920	D-Glycero-D-manno-heptose1-phosphate	cytosol
+cpd05191	3-Methylthiopropionate	cytosol
+cpd06227	THF-L-glutamate	cytosol
+cpd07061	Stachydrine	extracellular, cytosol
+cpd08023	methanesulfonate	extracellular, cytosol
+cpd08210	ADC	cytosol
+cpd08286	2-C-methyl-D-erythritol4-phosphate	cytosol
+cpd08287	4-cytidine5-diphospho-2-C-methyl-D-erythritol	cytosol
+cpd08288	2-phospho-4-cytidine5-diphospho-2-C-methyl-D-erythritol	cytosol
+cpd08289	1-deoxy-D-xylulose5-phosphate	cytosol
+cpd08301	2-C-methyl-D-erythritol2-4-cyclodiphosphate	cytosol
+cpd08316	D-Glycero-D-manno-heptose1-7-bisphosphate	cytosol
+cpd08325	NAC	cytosol
+cpd08615	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate	cytosol
+cpd08635	N-Butyryl-L-homoserine lactone	cytosol
+cpd08828	pyochelin	cytosol
+cpd09878	Sulfoacetate	extracellular, cytosol
+cpd10162	(R)-3-Hydroxy-3-methyl-2-oxopentanoate	cytosol
+cpd10516	fe3	extracellular, cytosol
+cpd11225	3-4-dihydroxy-2-butanone4-phosphate	cytosol
+cpd11255	1,2-dihydroxy-3-keto-5-methylthiopentene	cytosol
+cpd11295	2,3-diketo5-methylthio-1-phosphopentane	cytosol
+cpd11310	5-phosphoribosyl-5-carboxyaminoimidazole	cytosol
+cpd11311	1-Pyrroline	cytosol
+cpd11313	hemeO	cytosol
+cpd11416	Biomass	cytosol
+cpd11420	trdox	cytosol
+cpd11421	trdrd	cytosol
+cpd11422	1,2-diacyl-sn-glycerol 3-phosphate	cytosol
+cpd11423	1,2-Diacyl-sn-glycerol	cytosol
+cpd11425	2dmmq7	cytosol
+cpd11427	CDP-diacylglycerol	cytosol
+cpd11430	fa1	cytosol
+cpd11431	fa11	cytosol
+cpd11432	fa11coa	cytosol
+cpd11433	fa12	cytosol
+cpd11434	fa12coa	cytosol
+cpd11435	fa1coa	cytosol
+cpd11436	fa3	cytosol
+cpd11437	fa3coa	cytosol
+cpd11438	fa4	cytosol
+cpd11439	fa4coa	cytosol
+cpd11440	fa6	cytosol
+cpd11441	fa6coa	cytosol
+cpd11451	mql7	cytosol
+cpd11454	Phosphatidylglycerophosphate	cytosol
+cpd11455	ps - BS	cytosol
+cpd11456	Phosphatidylethanolamine	cytosol
+cpd11464	Butyryl-ACP	cytosol
+cpd11465	But-2-enoyl-[acyl-carrier protein]	cytosol
+cpd11466	Myristoyl-ACP	cytosol
+cpd11467	(2E)-Tetradecenoyl-[acp]	cytosol
+cpd11468	Dodecanoyl-ACP	cytosol
+cpd11469	(2E)-Dodecenoyl-[acp]	cytosol
+cpd11470	Octanoyl-ACP	cytosol
+cpd11471	(2E)-Octenoyl-[acp]	cytosol
+cpd11472	Hexanoyl-ACP	cytosol
+cpd11473	(2E)-Hexenoyl-[acp]	cytosol
+cpd11474	Decanoyl-ACP	cytosol
+cpd11475	(2E)-Decenoyl-[acp]	cytosol
+cpd11476	hexadecanoyl-acp	cytosol
+cpd11477	(2E)-Hexadecenoyl-[acp]	cytosol
+cpd11478	(R)-3-Hydroxybutanoyl-[acyl-carrier protein]	cytosol
+cpd11479	D-3-Hydroxyhexanoyl-[acp]	cytosol
+cpd11480	D-3-Hydroxydodecanoyl-[acp]	cytosol
+cpd11481	R-3-hydroxypalmitoyl-acyl-carrierprotein	cytosol
+cpd11482	(R)-3-Hydroxydecanoyl-[acyl-carrier protein]	cytosol
+cpd11483	(R)-3-Hydroxyoctanoyl-[acyl-carrier protein]	cytosol
+cpd11484	HMA	cytosol
+cpd11485	3-oxohexadecanoyl-acp	cytosol
+cpd11486	3-Oxohexanoyl-[acp]	cytosol
+cpd11487	3-oxodecanoyl-acp	cytosol
+cpd11488	Acetoacetyl-ACP	cytosol
+cpd11489	3-oxododecanoyl-acp	cytosol
+cpd11490	3-oxooctanoyl-acp	cytosol
+cpd11491	3-oxotetradecanoyl-acp	cytosol
+cpd11492	Malonyl-acyl-carrierprotein	cytosol
+cpd11493	ACP	cytosol
+cpd11494	Acetyl-ACP	cytosol
+cpd11495	2-methylbutyryl-ACP	cytosol
+cpd11496	4-methyl-3-oxo-hexanoyl-ACP	cytosol
+cpd11497	4-methyl-3-hydroxy-hexanoyl-ACP	cytosol
+cpd11498	4-methyl-trans-hex-2-enoyl-ACP	cytosol
+cpd11499	4-methyl-hexanoyl-ACP	cytosol
+cpd11500	6-methyl-3-oxo-octanoyl-ACP	cytosol
+cpd11501	6-methyl-3-hydroxy-octanoyl-ACP	cytosol
+cpd11502	6-methyl-trans-oct-2-enoyl-ACP	cytosol
+cpd11503	6-methyl-octanoyl-ACP	cytosol
+cpd11504	8-methyl-3-oxo-decanoyl-ACP	cytosol
+cpd11505	8-methyl-3-hydroxy-decanoyl-ACP	cytosol
+cpd11506	8-methyl-trans-dec-2-enoyl-ACP	cytosol
+cpd11507	8-methyl-decanoyl-ACP	cytosol
+cpd11508	10-methyl-3-oxo-dodecanoyl-ACP	cytosol
+cpd11509	10-methyl-3-hydroxy-dodecanoyl-ACP	cytosol
+cpd11510	10-methyl-trans-dodec-2-enoyl-ACP	cytosol
+cpd11511	10-methyl-dodecanoyl-ACP	cytosol
+cpd11512	12-methyl-3-oxo-tetra-decanoyl-ACP	cytosol
+cpd11513	12-methyl-3-hydroxy-tetra-decanoyl-ACP	cytosol
+cpd11514	12-methyl-trans-tetra-dec-2-enoyl-ACP	cytosol
+cpd11515	12-methyl-tetra-decanoyl-ACP	cytosol
+cpd11516	14-methyl-3-oxo-hexa-decanoyl-ACP	cytosol
+cpd11517	14-methyl-3-hydroxy-hexa-decanoyl-ACP	cytosol
+cpd11518	14-methyl-trans-hexa-dec-2-enoyl-ACP	cytosol
+cpd11519	14-methyl-hexa-decanoyl-ACP	cytosol
+cpd11520	isovaleryl-ACP	cytosol
+cpd11521	5-methyl-3-oxo-hexanoyl-ACP	cytosol
+cpd11522	5-methyl-3-hydroxy-hexanoyl-ACP	cytosol
+cpd11523	5-methyl-trans-hex-2-enoyl-ACP	cytosol
+cpd11524	5-methyl-hexanoyl-ACP	cytosol
+cpd11525	7-methyl-3-oxo-octanoyl-ACP	cytosol
+cpd11526	7-methyl-3-hydroxy-octanoyl-ACP	cytosol
+cpd11527	7-methyl-trans-oct-2-enoyl-ACP	cytosol
+cpd11528	7-methyl-octanoyl-ACP	cytosol
+cpd11529	9-methyl-3-oxo-decanoyl-ACP	cytosol
+cpd11530	9-methyl-3-hydroxy-decanoyl-ACP	cytosol
+cpd11531	9-methyl-trans-dec-2-enoyl-ACP	cytosol
+cpd11532	9-methyl-decanoyl-ACP	cytosol
+cpd11533	11-methyl-3-oxo-dodecanoyl-ACP	cytosol
+cpd11534	11-methyl-3-hydroxy-dodecanoyl-ACP	cytosol
+cpd11535	11-methyl-trans-dodec-2-enoyl-ACP	cytosol
+cpd11536	11-methyl-dodecanoyl-ACP	cytosol
+cpd11537	13-methyl-3-oxo-tetra-decanoyl-ACP	cytosol
+cpd11538	13-methyl-3-hydroxy-tetra-decanoyl-ACP	cytosol
+cpd11539	13-methyl-trans-tetra-dec-2-enoyl-ACP	cytosol
+cpd11540	13-methyl-tetra-decanoyl-ACP	cytosol
+cpd11541	15-methyl-3-oxo-hexa-decanoyl-ACP	cytosol
+cpd11542	15-methyl-3-hydroxy-hexa-decanoyl-ACP	cytosol
+cpd11543	15-methyl-trans-hexa-dec-2-enoyl-ACP	cytosol
+cpd11544	15-methyl-hexa-decanoyl-ACP	cytosol
+cpd11545	isobutyryl-ACP	cytosol
+cpd11546	4-methyl-3-oxo-pentanoyl-ACP	cytosol
+cpd11547	4-methyl-3-hydroxy-pentanoyl-ACP	cytosol
+cpd11548	4-methyl-trans-pent-2-enoyl-ACP	cytosol
+cpd11549	4-methyl-pentanoyl-ACP	cytosol
+cpd11550	6-methyl-3-oxo-heptanoyl-ACP	cytosol
+cpd11551	6-methyl-3-hydroxy-heptanoyl-ACP	cytosol
+cpd11552	6-methyl-trans-hept-2-enoyl-ACP	cytosol
+cpd11553	6-methyl-heptanoyl-ACP	cytosol
+cpd11554	8-methyl-3-oxo-nonanoyl-ACP	cytosol
+cpd11555	8-methyl-3-hydroxy-nonanoyl-ACP	cytosol
+cpd11556	8-methyl-trans-non-2-enoyl-ACP	cytosol
+cpd11557	8-methyl-nonanoyl-ACP	cytosol
+cpd11558	10-methyl-3-oxo-undecanoyl-ACP	cytosol
+cpd11559	10-methyl-3-hydroxy-undecanoyl-ACP	cytosol
+cpd11560	10-methyl-trans-undec-2-enoyl-ACP	cytosol
+cpd11561	10-methyl-undecanoyl-ACP	cytosol
+cpd11562	12-methyl-3-oxo-tridecanoyl-ACP	cytosol
+cpd11563	12-methyl-3-hydroxy-tridecanoyl-ACP	cytosol
+cpd11564	12-methyl-trans-tridec-2-enoyl-ACP	cytosol
+cpd11565	12-methyl-tridecanoyl-ACP	cytosol
+cpd11566	14-methyl-3-oxo-pentadecanoyl-ACP	cytosol
+cpd11567	14-methyl-3-hydroxy-pentadecanoyl-ACP	cytosol
+cpd11568	14-methyl-trans-pentadec-2-enoyl-ACP	cytosol
+cpd11569	14-methyl-pentadecanoyl-ACP	cytosol
+cpd11570	3-Oxooctodecanoyl-ACP	cytosol
+cpd11571	3-Hydroxyoctodecanoyl-ACP	cytosol
+cpd11572	trans-Octodec-2-enoyl-ACP	cytosol
+cpd11573	Octodecanoyl-ACP	cytosol
+cpd11574	Molybdate	extracellular, cytosol
+cpd11575	MOPS	extracellular, cytosol
+cpd11576	L-methionine - R-oxide	extracellular, cytosol
+cpd11578	hexanesulfonate	extracellular, cytosol
+cpd11579	ethanesulfonate	extracellular, cytosol
+cpd11580	Gly-Gln	extracellular, cytosol
+cpd11581	gly-asn-L	extracellular, cytosol
+cpd11582	ala-L-Thr-L	extracellular, cytosol
+cpd11583	Ala-Leu	extracellular, cytosol
+cpd11584	Ala-His	extracellular, cytosol
+cpd11585	L-alanylglycine	extracellular, cytosol
+cpd11586	ala-L-glu-L	extracellular, cytosol
+cpd11587	Ala-Gln	extracellular, cytosol
+cpd11588	gly-pro-L	extracellular, cytosol
+cpd11589	gly-asp-L	extracellular, cytosol
+cpd11590	met-L-ala-L	extracellular, cytosol
+cpd11591	Gly-Met	extracellular, cytosol
+cpd11592	gly-glu-L	extracellular, cytosol
+cpd11593	ala-L-asp-L	extracellular, cytosol
+cpd11595	chromate - H2O4Cr	cytosol, extracellular
+cpd11596	butanesulfonate	extracellular, cytosol
+cpd11608	Peptide	extracellular, cytosol
+cpd11611	Acyl-CoA	cytosol
+cpd11624	Lecithin	cytosol
+cpd11640	H2	cytosol
+cpd11652	Phosphatidylglycerol	cytosol
+cpd11668	Penam	cytosol
+cpd11669	Ubiquinone	cytosol
+cpd11718	(S)-3-Hydroxyacyl-CoA	cytosol
+cpd11722	trans-2-Enoyl-CoA	cytosol
+cpd11751	tRNA(Tyr)	cytosol
+cpd11825	Octadecenoyl-ACP	cytosol
+cpd11830	S-Aminomethyldihydrolipoylprotein	cytosol
+cpd11907	tRNA(Arg)	cytosol
+cpd11912	tRNA-Glu	cytosol
+cpd11914	tRNA(His)	cytosol
+cpd11916	tRNA(Leu)	cytosol
+cpd11918	tRNA(Met)	cytosol
+cpd11922	tRNA(Thr)	cytosol
+cpd11923	tRNA(Trp)	cytosol
+cpd11949	Alginate	cytosol
+cpd12003	L-Leucyl-tRNA	cytosol
+cpd12005	Lipoylprotein	cytosol
+cpd12036	L-Arginyl-tRNA	cytosol
+cpd12105	L-Methionyl-tRNA	cytosol
+cpd12185	2-Lysophosphatidate	cytosol
+cpd12194	L-Tyrosyl-tRNA(Tyr)	cytosol
+cpd12225	Dihydrolipolprotein	cytosol
+cpd12227	L-Glutamyl-tRNA-Glu	cytosol
+cpd12228	L-Histidyl-tRNA(His)	cytosol
+cpd12229	L-Threonyl-tRNA(Thr)	cytosol
+cpd12336	L-Tryptophanyl-tRNA(Trp)	cytosol
+cpd12370	apo-ACP	cytosol
+cpd12543	Carboxybiotin-carboxyl-carrier protein	cytosol
+cpd12689	3-Oxotetradecanoyl-CoA	cytosol
+cpd12801	Cardiolipin	cytosol
+cpd12848	Holo-[carboxylase]	cytosol
+cpd12884	Penicilloic acid	cytosol
+cpd13050	Glutaredoxin disulfide	cytosol
+cpd14700	2-Methyl-1-hydroxypropyl-TPP	cytosol
+cpd14938	3-Oxostearoyl-[acp]	cytosol
+cpd15237	hexadecenoate	cytosol
+cpd15238	Hexadecenoyl-CoA	cytosol
+cpd15239	Hexadecenoyl-ACP	cytosol
+cpd15268	Octadecanoyl-ACP	cytosol
+cpd15269	octadecenoate	cytosol
+cpd15274	Octadecenoyl-CoA	cytosol
+cpd15277	Palmitoyl-ACP	cytosol
+cpd15294	Tetradecenoyl-ACP	cytosol
+cpd15306	1,2-Diacyl-sn-glycerol - didodecanoyl	cytosol
+cpd15307	1,2-Diacyl-sn-glycerol - ditetradecanoyl	cytosol
+cpd15308	1,2-Diacyl-sn-glycerol - ditetradec-7-enoyl	cytosol
+cpd15309	1,2-Diacyl-sn-glycerol - dihexadecanoyl	cytosol
+cpd15310	1,2-Diacyl-sn-glycerol - dihexadec-9-enoyl	cytosol
+cpd15311	1,2-Diacyl-sn-glycerol - dioctadecanoyl	cytosol
+cpd15312	1,2-Diacyl-sn-glycerol - dioctadec-11-enoyl	cytosol
+cpd15325	1-dodecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15326	1-hexadec-9-enoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15327	1-hexadecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15328	1-octadec-11-enoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15329	1-octadecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15330	1-tetradec-7-enoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15331	1-tetradecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15359	2-Octaprenyl-6-methoxy-1,4-benzoquinol	cytosol
+cpd15360	2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinol	cytosol
+cpd15361	2-Octaprenyl3-methyl-6-methoxy- 1,4-benzoquinol	cytosol
+cpd15370	(R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein]	cytosol
+cpd15376	3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein]	cytosol
+cpd15417	CDP-1,2-didodecanoylglycerol	cytosol
+cpd15418	CDP-1,2-dihexadec-9-enoylglycerol	cytosol
+cpd15419	CDP-1,2-dihexadecanoylglycerol	cytosol
+cpd15420	CDP-1,2-dioctadec-11-enoylglycerol	cytosol
+cpd15421	CDP-1,2-dioctadecanoylglycerol	cytosol
+cpd15422	CDP-1,2-ditetradec-7-enoylglycerol	cytosol
+cpd15423	CDP-1,2-ditetradecanoylglycerol	cytosol
+cpd15428	clpn160	cytosol
+cpd15429	clpn161	cytosol
+cpd15430	clpn180	cytosol
+cpd15431	clpn181	cytosol
+cpd15481	glutaredoxin (reduced)	cytosol
+cpd15499	Menaquinol - 8	cytosol
+cpd15500	Menaquinone - 8	cytosol
+cpd15521	1,2-didodecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15522	1,2-ditetradecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15523	1,2-ditetradec-7-enoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15524	1,2-dihexadecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15525	1,2-dihexadec-9-enoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15526	1,2-dioctadecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15527	1,2-dioctadec-11-enoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15528	phosphatidylethanolamine - didodecanoyl	cytosol
+cpd15529	phosphatidylethanolamine - ditetradecanoyl	cytosol
+cpd15530	phosphatidylethanolamine - ditetradec-7-enoyl	cytosol
+cpd15531	phosphatidylethanolamine - dihexadecanoyl	cytosol
+cpd15532	phosphatidylethanolamine - dihexadec-9enoyl	cytosol
+cpd15533	phosphatidylethanolamine - dioctadecanoyl	cytosol
+cpd15534	phosphatidylethanolamine - dioctadec-11-enoyl	cytosol
+cpd15535	Phosphatidylglycerol - didodecanoyl	cytosol
+cpd15536	Phosphatidylglycerol - ditetradecanoyl	cytosol
+cpd15537	Phosphatidylglycerol - ditetradec-7-enoyl	cytosol
+cpd15538	Phosphatidylglycerol - dihexadecanoyl	cytosol
+cpd15539	Phosphatidylglycerol - dihexadec-9-enoyl	cytosol
+cpd15540	Phosphatidylglycerol - dioctadecanoyl	cytosol
+cpd15541	Phosphatidylglycerol - dioctadec-11-enoyl	cytosol
+cpd15542	Phosphatidylglycerophosphate - didodecanoyl	cytosol
+cpd15543	Phosphatidylglycerophosphate - ditetradecanoyl	cytosol
+cpd15544	Phosphatidylglycerophosphate - ditetradec-7-enoyl	cytosol
+cpd15545	Phosphatidylglycerophosphate - dihexadecanoyl	cytosol
+cpd15546	Phosphatidylglycerophosphate - dihexadec-9-enoyl	cytosol
+cpd15547	Phosphatidylglycerophosphate - dioctadecanoyl	cytosol
+cpd15548	Phosphatidylglycerophosphate - dioctadec-11-enoyl	cytosol
+cpd15552	phosphatidylserine - didodecanoyl	cytosol
+cpd15553	phosphatidylserine - ditetradecanoyl	cytosol
+cpd15554	phosphatidylserine - ditetradec-7-enoyl	cytosol
+cpd15555	phosphatidylserine - dihexadecanoyl	cytosol
+cpd15556	phosphatidylserine - dihexadec-9-enoyl	cytosol
+cpd15557	phosphatidylserine - dioctadecanoyl	cytosol
+cpd15558	phosphatidylserine - dioctadec-11-enoyl	cytosol
+cpd15560	Ubiquinone-8	cytosol
+cpd15561	Ubiquinol-8	cytosol
+cpd15568	trans-3-cis-11-vacceoyl-[acyl-carrier protein]	cytosol
+cpd15572	trans-octadec-2-enoyl-[acyl-carrier protein]	cytosol
+cpd15603	Gly-Cys	extracellular, cytosol
+cpd15604	Gly-Leu	extracellular, cytosol
+cpd15605	Gly-Phe	extracellular, cytosol
+cpd15606	Gly-Tyr	extracellular, cytosol
+cpd15654	PeptidoglycansubunitofEscherichiacoli	cytosol
+cpd15661	Prenol-45n teichoic acid	cytosol
+cpd15662	Prenol-45n teichoic acid-glucose substituted	cytosol
+cpd15663	Prenol-45n teichoic acid-alanine substituted	cytosol
+cpd15665	Peptidoglycan polymer (n subunits)	cytosol
+cpd15666	Peptidoglycan polymer (n-1 subunits)	cytosol
+cpd15667	glycerol teichoic acid (n=45), linked, unsubstituted	cytosol
+cpd15668	glycerol teichoic acid (n=45), linked, D-ala substituted	cytosol
+cpd15669	glycerol teichoic acid (n=45), linked, glucose substituted	cytosol
+cpd15671	1-isoheptadecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15672	1-anteisoheptadecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15673	1-isotetradecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15674	1-isopentadecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15675	1-anteisopentadecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15676	1-isohexadecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15677	1,2-diisoheptadecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15678	1,2-dianteisoheptadecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15679	1,2-diisotetradecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15680	1,2-diisopentadecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15681	1,2-dianteisopentadecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15682	1,2-diisohexadecanoyl-sn-glycerol - 3-phosphate	cytosol
+cpd15683	CDP-1,2-diisoheptadecanoylglycerol	cytosol
+cpd15684	CDP-1,2-dianteisoheptadecanoylglycerol	cytosol
+cpd15685	CDP-1,2-diisotetradecanoylglycerol	cytosol
+cpd15686	CDP-1,2-diisopentadecanoylglycerol	cytosol
+cpd15687	CDP-1,2-dianteisopentadecanoylglycerol	cytosol
+cpd15688	CDP-1,2-diisohexadecanoylglycerol	cytosol
+cpd15689	Diisoheptadecanoylphosphatidylserine	cytosol
+cpd15690	Dianteisoheptadecanoylphosphatidylserine	cytosol
+cpd15691	Diisotetradecanoylphosphatidylserine	cytosol
+cpd15692	Diisopentadecanoylphosphatidylserine	cytosol
+cpd15693	Dianteisopentadecanoylphosphatidylserine	cytosol
+cpd15694	Diisohexadecanoylphosphatidylserine	cytosol
+cpd15695	Diisoheptadecanoylphosphatidylethanolamine	cytosol
+cpd15696	Dianteisoheptadecanoylphosphatidylethanolamine	cytosol
+cpd15697	Diisotetradecanoylphosphatidylethanolamine	cytosol
+cpd15698	Diisopentadecanoylphosphatidylethanolamine	cytosol
+cpd15699	Dianteisopentadecanoylphosphatidylethanolamine	cytosol
+cpd15700	Diisohexadecanoylphosphatidylethanolamine	cytosol
+cpd15701	1,2-Diisoheptadecanoyl-sn-glycerol	cytosol
+cpd15702	1,2-Dianteisoheptadecanoyl-sn-glycerol	cytosol
+cpd15703	1,2-Diisotetradecanoyl-sn-glycerol	cytosol
+cpd15704	1,2-Diisopentadecanoyl-sn-glycerol	cytosol
+cpd15705	1,2-Dianteisopentadecanoyl-sn-glycerol	cytosol
+cpd15706	1,2-Diisohexadecanoyl-sn-glycerol	cytosol
+cpd15716	Diisoheptadecanoylphosphatidylglycerophosphate	cytosol
+cpd15717	Dianteisoheptadecanoylphosphatidylglycerophosphate	cytosol
+cpd15718	Diisotetradecanoylphosphatidylglycerophosphate	cytosol
+cpd15719	Diisopentadecanoylphosphatidylglycerophosphate	cytosol
+cpd15720	Dianteisopentadecanoylphosphatidylglycerophosphate	cytosol
+cpd15721	Diisohexadecanoylphosphatidylglycerophosphate	cytosol
+cpd15722	Diisoheptadecanoylphosphatidylglycerol	cytosol
+cpd15723	Dianteisoheptadecanoylphosphatidylglycerol	cytosol
+cpd15724	Diisotetradecanoylphosphatidylglycerol	cytosol
+cpd15725	Diisopentadecanoylphosphatidylglycerol	cytosol
+cpd15726	Dianteisopentadecanoylphosphatidylglycerol	cytosol
+cpd15727	Diisohexadecanoylphosphatidylglycerol	cytosol
+cpd15791	Palmitoylcardiolipin - (B. subtilis)	cytosol
+cpd15792	Myristoylcardiolipin - (B. subtilis)	cytosol
+cpd15793	Stearoylcardiolipin - (B. subtilis)	cytosol
+cpd15794	Isoheptadecanoylcardiolipin - (B. subtilis)	cytosol
+cpd15795	Anteisoheptadecanoylcardiolipin - (B. subtilis)	cytosol
+cpd15796	Isotetradecanoylcardiolipin - (B. subtilis)	cytosol
+cpd15797	Isopentadecanoylcardiolipin - (B. subtilis)	cytosol
+cpd15798	Anteisopentadecanoylcardiolipin - (B. subtilis)	cytosol
+cpd15799	Isohexadecanoylcardiolipin - (B. subtilis)	cytosol
+cpd15901	2-oxohexanedioic acid	extracellular, cytosol
+cpd16660	homoserine lactone	cytosol
+cpd16764	2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol	cytosol
+cpd16765	2-nonaprenyl-6-hydroxyphenol	cytosol
+cpd16766	2-nonaprenyl-6-methoxy-1,4-benzoquinol	cytosol
+cpd16767	2-nonaprenyl-6-methoxyphenol	cytosol
+cpd16768	2-nonaprenylphenol	cytosol
+cpd17016	ferrodoxin (oxidized form 4:2)	cytosol
+cpd17017	ferrodoxin (reduced form 4:2)	cytosol
+cpd17044	1-hydroxyphenazine	cytosol
+cpd17045	beta-hydroxydecanoyl-beta-hydroxydecanoyl-S-CoA	cytosol
+cpd17046	2-hydroxydodecanoyl-[acyl-carrier protein]	cytosol
+cpd17047	S-2-hydroxymyristoyl-[acyl-carrier protein]	cytosol
+cpd17048	2-oxo-3-p-tolylpropanate	cytosol
+cpd17049	3-aminopropanaldehyde	cytosol
+cpd17050	3-hydroxydecanoyl-3-hydroxydecanoate	cytosol
+cpd17051	(3R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]	cytosol
+cpd17052	4-carbamoyl-2-oxobutanate	cytosol
+cpd17053	5-methylphenazine-1-carboxylic acid betaine	cytosol
+cpd17054	Pseudomonas aeruginosa KDO2-lipidA	cytosol
+cpd17055	Pseudomonas aeruginosa KDO-lipidA	cytosol
+cpd17056	Pseudomonas aeruginosa A-band lipopolysaccharide	cytosol
+cpd17057	Pseudomonas aeruginosa B-band lipopolysaccharide	cytosol
+cpd17058	PA core1 - lipidA	cytosol
+cpd17059	PA core2 - lipidA	cytosol
+cpd17060	PA core3 - lipidA	cytosol
+cpd17061	PA core4 - lipidA	cytosol
+cpd17062	PA core5 - lipidA	cytosol
+cpd17063	PA core6 - lipidA	cytosol
+cpd17064	PA core7 - lipidA	cytosol
+cpd17065	Pseudomonas aeruginosa LPS core + KDO2-lipidA	cytosol
+cpd17066	Pseudomonas aeruginosa Lipid A	cytosol
+cpd17067	Pseudomonas Lipid A Disaccharide	cytosol
+cpd17068	Pseudomonas aeruginosa Lipid A precursor	cytosol
+cpd17069	Pseudomonas aeruginosa Lipid X	cytosol
+cpd17070	UDP-2-NH-(3OH-C12:0),3-O-(3OH-C10:0)glucosamine	cytosol
+cpd17071	UDP-3-O-(3OH-C10:0)-N-acetylglucosamine	cytosol
+cpd17072	UDP-3-O-(3OH-C10:0)-D-glucosamine	cytosol
+cpd17073	2-amino-2-deoxyisochorismic acid	cytosol
+cpd17074	Acetylated Alginate	cytosol, extracellular
+cpd17075	Epimerized Alginate Dimer	cytosol
+cpd17076	delta-aminovalerate	cytosol
+cpd17077	trans-2,3-dihydro-3-hydroxyanthranilic acid	cytosol
+cpd17078	2-heptyl-4-quinolone	cytosol
+cpd17079	3-(4-hydroxyphenyl)-2-oxopropanoate	cytosol
+cpd17080	L-rhamnosyl-Lrhamnosyl-3-hydroxydecanoyl-3-hydroxydecanoate	cytosol
+cpd17081	L-rhamnosyl-3-hydroxydecanoyl-3-hydroxydecanoate	cytosol
+cpd17082	N-(3-oxo-dodecanoyl)-L-homoserine lactone	cytosol
+cpd17083	phenazine-1-carboxylic acid	cytosol
+cpd17084	phenazine-1-carboxamide	cytosol
+cpd17085	2-heptyl-3-hydroxy-4-quinolone	cytosol, extracellular
+cpd17086	rha1glcnacppund	cytosol
+cpd17087	rha3glcnacppund	cytosol
+cpd17088	rha4glcnacppund	cytosol
+cpd17090	Trans-2,3-didehydroacyl-CoA (C8)	cytosol
+cpd17091	trans,trans-2,3,4,5-tetradehydroacyl-CoA (C8)	cytosol
+cpd17092	UDP-N-acetyl fucosamine	cytosol
+cpd17093	UDP-N-acetyl-D-mannosamine (2NAc(CH3C=NH)) acid	cytosol
+cpd17094	UDP-N-acetyl-D-mannosamine (2NAc3N) acid	cytosol
+cpd17095	UDP-N-acetyl-D-manosamine (2NAc3NAc) acid	cytosol
+cpd17096	UDP-N-acetyl-D-mannosamine-3-N	cytosol
+cpd17097	semiquinone-8	cytosol
+cpd17098	Fuc2NAc-PP-Undecaprenyl	cytosol
+cpd17099	Man(2NAc3NAc)A-(beta1,3)-Fuc2NAc-PP-Undecaprenyl	cytosol
+cpd17100	Man(2NAc3N)(3,-CH3C=NH)A-(beta1,4)-Man(2NAc3NAc)A-(beta1,3)-Fuc2NAc-PP-Undecaprenyl	cytosol
+cpd23005	N5-hydroxy-L-ornithine	cytosol
+cPY00120	pa160161	cytosol
+cPY00121	CDP-pa160161	cytosol
+cPY00122	ps160161	cytosol
+cPY00123	pe160161	cytosol
+cPY00124	pe170cyc	cytosol
+cPY00125	pa180181	cytosol
+cPY00126	CDP-pa180181	cytosol
+cPY00127	ps180181	cytosol
+cPY00128	pe180181	cytosol
+cPY00129	pe190cyc	cytosol
+cPY00130	pgp160161	cytosol
+cPY00131	pg160161	cytosol
+cPY00132	pg170cyc	cytosol
+cPY00133	pgp180181	cytosol
+cPY00134	pg180181	cytosol
+cPY00135	pg190cyc	cytosol
+cPY00138	clpn170cyc	cytosol
+cPY00140	clpn190cyc	cytosol
+cPY00141	clpn180181	cytosol
+cPY00142	clpn160161	cytosol
+cPY00162	N5-formyl-N5-hydroxy-L-ornithine	cytosol
+cPY00163	ferribactin	cytosol
+cPY00164	pyoverdine	cytosol
+dna	DNA	cytosol
+lipid	Lipid	cytosol
+protein	Protein	cytosol
+rna	RNA	cytosol

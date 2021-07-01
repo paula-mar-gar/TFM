@@ -1,0 +1,1495 @@
+id	name	subsystem
+rxn05289	Thioredoxin reductase (NADPH)	Pyrimidine metabolism
+rxn06076	Ribonucleoside-diphosphate reductase (CDP)	Pyrimidine metabolism
+rxn06075	Ribonucleoside-diphosphate reductase (UDP)	Pyrimidine metabolism
+rxn00711	Uracil phosphoribosyltransferase	Pyrimidine metabolism
+rxn00776	yUMP synthetase	Pyrimidine metabolism
+rxn01520	Thymidylate synthase	Pyrimidine metabolism
+rxn01018	Aspartate carbamoyltransferase	Pyrimidine metabolism
+rxn00717	Cytosine deaminase	Pyrimidine metabolism
+rxn00710	Orotidine-5&apos;-phosphate decarboxylase	Pyrimidine metabolism
+rxn01513	DTMP kinase	Pyrimidine metabolism
+rxn01360	Dihydoorotic acid dehydrogenase  irreversible 	Pyrimidine metabolism
+rxn08335	Dihydoorotic acid dehydrogenase (quinone8)	Pyrimidine metabolism
+rxn36698	dihydoorotic acid dehydrogenase (quinone9)	Pyrimidine metabolism
+rxn08336	Dihydroorotic acid (menaquinone-8)	Pyrimidine metabolism
+rxn00364	Cytidylate kinase (CMP)	Pyrimidine metabolism
+rxn01219	Cytidylate kinase (dCMP)	Pyrimidine metabolism
+rxn01672	dCTP deaminase	Pyrimidine metabolism
+rxn01465	Dihydroorotase	Pyrimidine metabolism
+rxn00363	5&apos;-nucleotidase (CMP)	Pyrimidine metabolism
+rxn01218	5&apos;-nucleotidase (dCMP)	Pyrimidine metabolism
+rxn01145	5&apos;-nucleotidase (dTMP)	Pyrimidine metabolism
+rxn00708	5&apos;-nucleotidase (UMP)	Pyrimidine metabolism
+rxn00412	CTP synthase (glutamine)	Pyrimidine metabolism
+rxn00410	UTPammonia ligase(ADP-forming)	Pyrimidine metabolism
+rxn00119	UMP kinase	Pyrimidine metabolism
+rxn01517	Uridylate kinase (dUMP)	Pyrimidine metabolism
+rxn00409	Nucleoside-diphosphate kinase (ATP:CDP)	Pyrimidine metabolism
+rxn01673	Nucleoside-diphosphate kinase (ATP:dCDP)	Pyrimidine metabolism
+rxn01512	Nucleoside-diphosphate kinase (ATP:dTDP)	Pyrimidine metabolism
+rxn01678	Nucleoside-diphosphate kinase (ATP:dUDP)	Pyrimidine metabolism
+rxn00117	Nucleoside-diphosphate kinase (ATP:UDP)	Pyrimidine metabolism
+rxn01514	NTP9	Pyrimidine metabolism
+rxn01519	DUTP diphosphatase	Pyrimidine metabolism
+rxn01362	Orotate phosphoribosyltransferase	Pyrimidine metabolism
+rxn02122	Aldehyde dehydrogenase  D Glucuronolactone  NADH 	Ascorbate and aldarate metabolism
+rxn02569	Selenophosphate synthase	Selenoamino acid metabolism
+rxn06493	Glycine-cleavage complex	Glyoxylate and dicarboxylate metabolism
+rxn00248	Malate dehydrogenase	Glyoxylate and dicarboxylate metabolism
+rxn00371	Formate dehydrogenase	Glyoxylate and dicarboxylate metabolism
+rxn00979	glycoaldehyde:NAD+ oxidoreductase	Glyoxylate and dicarboxylate metabolism
+rxn00256	Citrate synthase	Glyoxylate and dicarboxylate metabolism
+rxn00980	Phosphoglycolate phosphatase	Glyoxylate and dicarboxylate metabolism
+rxn00691	Formyltetrahydrofolate deformylase	Glyoxylate and dicarboxylate metabolism
+rxn00330	Malate synthase	Glyoxylate and dicarboxylate metabolism
+rxn00010	Glyoxalate carboligase	Glyoxylate and dicarboxylate metabolism
+rxn01355	Propionyl-CoA carboxylase	Glyoxylate and dicarboxylate metabolism
+rxn00336	Isocitrate lyase	Glyoxylate and dicarboxylate metabolism
+rxn00374	FORAMD	Glyoxylate and dicarboxylate metabolism
+rxn00251	Phosphoenolpyruvate carboxylase	Glyoxylate and dicarboxylate metabolism
+rxn01996	Methylmalonyl-CoA epimerase	Glyoxylate and dicarboxylate metabolism
+rxn00602	Methylmalonyl-CoA mutase	Glyoxylate and dicarboxylate metabolism
+rxn00214	UDPglucose 4-epimerase	Galactose metabolism
+rxn00701	UDPglucose--hexose-1-phosphate uridylyltransferase	Galactose metabolism
+rxn02314	Phosphofructokinase	Galactose metabolism
+rxn06280	Tyrosyl-tRNA synthetase	Aminoacyl-tRNA biosynthesis
+rxn06439	Histidyl-tRNA synthetase	Aminoacyl-tRNA biosynthesis
+rxn06447	Threonyl-tRNA synthetase	Aminoacyl-tRNA biosynthesis
+rxn06443	Methionyl-tRNA synthetase	Aminoacyl-tRNA biosynthesis
+rxn06441	Leucyl-tRNA synthetase	Aminoacyl-tRNA biosynthesis
+rxn06448	Tryptophanyl-tRNA synthetase	Aminoacyl-tRNA biosynthesis
+rxn06432	Arginyl-tRNA synthetase	Aminoacyl-tRNA biosynthesis
+rxn02465	N-acetyl-g-glutamyl-phosphate reductase	Urea cycle and metabolism of amino groups
+rxn02373	Glutamate-5-semialdehyde dehydrogenase	Urea cycle and metabolism of amino groups
+rxn00405	Arginine decarboxylase	Urea cycle and metabolism of amino groups
+rxn00101	urease	Urea cycle and metabolism of amino groups
+rxn00179	Glutamate 5-kinase	Urea cycle and metabolism of amino groups
+rxn00192	N-acetylglutamate synthase	Urea cycle and metabolism of amino groups
+rxn00469	acetylornithine deacetylase	Urea cycle and metabolism of amino groups
+rxn02305	Thiamine-phosphate diphosphorylase	Thiamine metabolism
+rxn01538	Thiamine kinase	Thiamine metabolism
+rxn02484	Hydroxymethylpyrimidine kinase (ATP)	Thiamine metabolism
+rxn03108	Phosphomethylpyrimidine kinase	Thiamine metabolism
+rxn00438	Thiamine-phosphate kinase	Thiamine metabolism
+rxn09997	4-amino-5-hydroxymethyl-2-methylpyrimidine synthetase	Thiamine metabolism
+rxn00728	Kynureninase	Tryptophan metabolism
+rxn01437	N Formyl L kynurenine amidohydrolase	Tryptophan metabolism
+rxn00478	L Tryptophanoxygen 2 3 oxidoreductase  decyclizing 	Tryptophan metabolism
+rxn08291	D-Amino acid dehydrogenase	Alanine, aspartate and glutamate metabolism
+rxn00416	Asparagine synthase (glutamine-hydrolysing)	Alanine, aspartate and glutamate metabolism
+rxn04092	D-amino acid oxidase	Alanine, aspartate and glutamate metabolism
+rxn00342	L-asparaginase	Alanine, aspartate and glutamate metabolism
+rxn00283	Alanine racemase	Alanine, aspartate and glutamate metabolism
+rxn00189	glutaminase	Alanine, aspartate and glutamate metabolism
+rxn00191	L-alanine transaminase	Alanine, aspartate and glutamate metabolism
+rxn00851	D-alanine-D-alanine ligase (reversible)	Alanine, aspartate and glutamate metabolism
+rxn02286	UDP-N-acetylmuramoyl-L-alanine synthetase	Alanine, aspartate and glutamate metabolism
+rxn00193	Glutamate racemase	Alanine, aspartate and glutamate metabolism
+rxn00347	L-aspartase	Alanine, aspartate and glutamate metabolism
+rxn01729	Glutarate-semialdehyde:NAD+ oxidoreductase	Lysine degradation
+rxn00322	Lysine decarboxylase	Lysine degradation
+rxn13789	delta-aminovalerate aminotransferase	Lysine degradation
+rxn13825	Diamine oxidase	Lysine degradation
+rxn01730	Glutaryl-CoA synthetase	Lysine degradation
+rxn13872	Pseudomonas Lipid A Reaction	Lipopolysaccharide biosynthesis
+rxn13877	Pseudomonas aeruginosa LPS B band synthesis	Lipopolysaccharide biosynthesis
+rxn13870	Pseudomonas aeruginosa LPS lumped 2,4,and 6 heptokinases	Lipopolysaccharide biosynthesis
+rxn03919	D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase	Lipopolysaccharide biosynthesis
+rxn13884	UDP-diacyl-GlcN pyrophosphatase	Lipopolysaccharide biosynthesis
+rxn00213	UTP-glucose-1-phosphate uridylyltransferase (irreversible)	Lipopolysaccharide biosynthesis
+rxn02405	3-deoxy-manno-octulosonate cytidylyltransferase	Lipopolysaccharide biosynthesis
+rxn13880	Pseudomonas Tetraacyldisaccharide 4&apos;kinase	Lipopolysaccharide biosynthesis
+rxn13833	Fuc2NAc-PP-undecap synthesis	Lipopolysaccharide biosynthesis
+rxn08040	UDP-N-acetylglucosamine:undecaprenylphosphate N-acetylglucosamine -1-phosphate transferase	Lipopolysaccharide biosynthesis
+rxn13922	Man(2NAc3NAc)A-(beta1,3)-Fuc2NAc-PP-undecap synthesis	Lipopolysaccharide biosynthesis
+rxn00297	UDP-N-acetylglucosamine 2-epimerase	Lipopolysaccharide biosynthesis
+rxn13923	Man(2NAc3N)(3,-CH3C=NH)A-(beta1,4)-Man(2NAc3NAc)A-(beta1,3)-Fuc2NAc-PP-undecap synthesis	Lipopolysaccharide biosynthesis
+rxn13912	UDP-N-acetyl-mannosamine aminase	Lipopolysaccharide biosynthesis
+rxn13911	UDP-N-acetyl-mannosamine-3-N dehydrogenase	Lipopolysaccharide biosynthesis
+rxn13873	Pseudomonas lipid A reaction 2	Lipopolysaccharide biosynthesis
+rxn03511	ADP-D-glycero-D-manno-heptose epimerase	Lipopolysaccharide biosynthesis
+rxn02331	3-deoxy -D-manno-octulosonic -acid 8-phosphate synthase	Lipopolysaccharide biosynthesis
+rxn13874	pseudomonas Lipid A disaccaride synthase	Lipopolysaccharide biosynthesis
+rxn13882	acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase	Lipopolysaccharide biosynthesis
+rxn13881	Pseudomonas UDP-3-O-(acyl)glucosamine acyltransferase	Lipopolysaccharide biosynthesis
+rxn13883	UDP-3-0-acyl N-acetylglucosamine deacetylase	Lipopolysaccharide biosynthesis
+rxn03917	sedoheptulose 7-phosphate isomerase	Lipopolysaccharide biosynthesis
+rxn01117	Arabinose-5-phosphate isomerase	Lipopolysaccharide biosynthesis
+rxn02404	3-deoxy-manno-octulosonate-8-phosphatase	Lipopolysaccharide biosynthesis
+rxn13878	3-deoxy-D-manno-octulosonic acid transferase	Lipopolysaccharide biosynthesis
+rxn13879	3-deoxy-D-manno-octulosonic acid transferase	Lipopolysaccharide biosynthesis
+rxn03916	D-glycero-D-manno-hepose 1-phosphate adenyltransferase	Lipopolysaccharide biosynthesis
+rxn03918	D-glycero-D-manno-heptose 7-phosphate kinase	Lipopolysaccharide biosynthesis
+rxn13867	alpha 1,3-glucosyltransferase	Lipopolysaccharide biosynthesis
+rxn13866	alpha 1,3-glucosyltransferase	Lipopolysaccharide biosynthesis
+rxn13869	b-D-glucosyltransferase	Lipopolysaccharide biosynthesis
+rPY00222	heptosyltransferase I	Lipopolysaccharide biosynthesis
+rPY00221	heptosyltransferase II	Lipopolysaccharide biosynthesis
+rxn13899	Rha-(a1,3)-GlcNac-pyrophosphorylundecaprenol synthesis	Lipopolysaccharide biosynthesis
+rxn13900	Rha-(a1,3)-Rha-(a1,3)-Rha-(a1,3)-GlcNac-pyrophosphorylundecaprenol synthesis	Lipopolysaccharide biosynthesis
+rxn13901	A-band O-antigen synthesis	Lipopolysaccharide biosynthesis
+rxn13868	L-rhamnotransferase	Lipopolysaccharide biosynthesis
+rxn13876	Pseudomonas aeruginosa LPS A-band synthesis	Lipopolysaccharide biosynthesis
+rxn13871	Pseudomonas aeruginosa LPS lumped L-ala and CONH2 addition reaction	Lipopolysaccharide biosynthesis
+rxn13926	UDP-N-acetyl-mannosamine (2NAc3N) acid (CH3C=NH) addase	Lipopolysaccharide biosynthesis
+rxn00211	UDPglucose 6-dehydrogenase	Starch and sucrose metabolism
+rxn13299	Glycogen phosphorylase	Starch and sucrose metabolism
+rxn01134	MTI	Starch and sucrose metabolism
+rxn13643	glycogen synthase (ADPGlc)	Starch and sucrose metabolism
+rxn00007	Alpha,alpha-trehalase	Starch and sucrose metabolism
+rxn00695	Glucose-1-phosphate adenylyltransferase	Starch and sucrose metabolism
+rxn02312	Adenosylmethionine-8-amino-7-oxononanoate transaminase	Biotin metabolism
+rxn00796	Biotin synthase	Biotin metabolism
+rxn02297	8-amino-7-oxononanoate synthase	Biotin metabolism
+rxn02277	Dethiobiotin synthase	Biotin metabolism
+rxn00792	Biotin acetyl CoA carboxylase ligase	Biotin metabolism
+rxn02866	MBCOAi	Valine, leucine and isoleucine degradation
+rxn01480	3 hydroxyisobutyrate dehydrogenase	Valine, leucine and isoleucine degradation
+rxn02270	ACOADH1	Valine, leucine and isoleucine degradation
+rxn02933	HACD9	Valine, leucine and isoleucine degradation
+rxn00806	Leucine transaminase	Valine, leucine and isoleucine degradation
+rxn02889	MCCC	Valine, leucine and isoleucine degradation
+rxn08043	2-aceto-2-hydroxybutanoate synthase	Valine, leucine and isoleucine degradation
+rxn02934	ECOAH9ir	Valine, leucine and isoleucine degradation
+rxn02271	S-(2-Methylbutanoyl)-dihydrolipoamide	Valine, leucine and isoleucine degradation
+rxn02867	S-(3-Methylbutanoyl)-dihydrolipoamide	Valine, leucine and isoleucine degradation
+rxn00676	MACCOAT	Valine, leucine and isoleucine degradation
+rxn01504	MGCH	Valine, leucine and isoleucine degradation
+rxn01245	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring).	Valine, leucine and isoleucine degradation
+rxn02950	3-Methyl-2-oxopentanoate:lipoamide oxidoreductase(decarboxylating and acceptor-2-methylpropanoylating)	Valine, leucine and isoleucine degradation
+rxn01575	Isoleucine transaminase	Valine, leucine and isoleucine degradation
+rxn00903	Valine transaminase	Valine, leucine and isoleucine degradation
+rxn02268	acyl-CoA dehydrogenase (2-methylbutnoyl-CoA)	Valine, leucine and isoleucine degradation
+rxn00506	Aldehyde dehydrogenase (acetaldehyde, NAD)	Pyruvate metabolism
+rxn00604	Glucose 6-phosphate dehydrogenase	Pyruvate metabolism
+rxn10902	glucose 6-phosphate dehydrogenase (NAD+)	Pyruvate metabolism
+rxn01053	lactaldehyde dehydrogenase	Pyruvate metabolism
+rxn00159	Malic enzyme (NAD)	Pyruvate metabolism
+rxn00161	Malic enzyme (NADP)	Pyruvate metabolism
+rxn00500	D-lactate dehydrogenase	Pyruvate metabolism
+rxn00935	(S)-Malate(acceptor) oxidoreductase	Pyruvate metabolism
+rxn00225	Acetate kinase	Pyruvate metabolism
+rxn00175	Acetyl-CoA synthetase	Pyruvate metabolism
+rxn01834	Lactoylglutathione lyase	Pyruvate metabolism
+rxn00148	Pyruvate kinase	Pyruvate metabolism
+rxn00162	Oxaloacetate decarboxylase	Pyruvate metabolism
+rxn00147	Phosphoenolpyruvate synthase	Pyruvate metabolism
+rxn06673	Acetyl-CoA:carbon-dioxide ligase (ADP-forming)	Pyruvate metabolism
+rxn09167	Pyruvate oxidase	Pyruvate metabolism
+rxn37076	pyruvate oxidase	Pyruvate metabolism
+rxn00763	Alcohol dehydrogenase (glycerol)	Glycerolipid metabolism
+rxn08087	1-hexadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:1)	Glycerolipid metabolism
+rxn08086	1-hexadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:0)	Glycerolipid metabolism
+rxn08089	1-octadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:1)	Glycerolipid metabolism
+rxn08088	1-octadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:0)	Glycerolipid metabolism
+rxn08085	1-tetradec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:1)	Glycerolipid metabolism
+rxn08083	1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C12:0)	Glycerolipid metabolism
+rxn08084	1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:0)	Glycerolipid metabolism
+rxn10215	anteisoheptadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10218	anteisopentadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10214	isoheptadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10219	isohexadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10217	isopentadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10216	isotetradecanoyl-1-acylglycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10212	myristoyl-1-acylglycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10211	palmitoyl-1-acylglycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10213	stearoyl-1-acylglycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10221	anteisoheptadecanoyl-phosphatidate cytidylyltransferase	Glycerolipid metabolism
+rxn10224	anteisopentadecanoyl-phosphatidate cytidylyltransferase	Glycerolipid metabolism
+rxn08306	CDP-diacylglycerol synthetase (n-C12:0)	Glycerolipid metabolism
+rxn08307	CDP-diacylglycerol synthetase (n-C14:0)	Glycerolipid metabolism
+rxn08308	CDP-diacylglycerol synthetase (n-C14:1)	Glycerolipid metabolism
+rxn08310	CDP-diacylglycerol synthetase (n-C16:1)	Glycerolipid metabolism
+rxn08311	CDP-diacylglycerol synthetase (n-C18:0)	Glycerolipid metabolism
+rxn08312	CDP-diacylglycerol synthetase (n-C18:1)	Glycerolipid metabolism
+rxn10220	isoheptadecanoyl-phosphatidate cytidylyltransferase	Glycerolipid metabolism
+rxn10225	isohexadecanoyl-phosphatidate cytidylyltransferase	Glycerolipid metabolism
+rxn10223	isopentadecanoyl-phosphatidate cytidylyltransferase	Glycerolipid metabolism
+rxn10222	isotetradecanoyl-phosphatidate cytidylyltransferase	Glycerolipid metabolism
+rxn10338	anteisoheptadecanoyl-cardiolipin synthase	Glycerolipid metabolism
+rxn10341	anteisopentadecanoyl-cardiolipin synthase	Glycerolipid metabolism
+rxn10337	isoheptadecanoyl-cardiolipin synthase	Glycerolipid metabolism
+rxn10342	isohexadecanoyl-cardiolipin synthase	Glycerolipid metabolism
+rxn10340	isopentadecanoyl-cardiolipin synthase	Glycerolipid metabolism
+rxn10339	isotetradecanoyl-cardiolipin synthase	Glycerolipid metabolism
+rxn10335	myristoyl-cardiolipin synthase	Glycerolipid metabolism
+rxn10334	palmitoyl-cardiolipin synthase	Glycerolipid metabolism
+rxn10336	stearoyl-cardiolipin synthase	Glycerolipid metabolism
+rxn13785	1,2-diacyl-sn-glycerol 3-phosphate synthesis	Glycerolipid metabolism
+rxn08550	Glycerol-3-phosphate acyltransferase (C16:1)	Glycerolipid metabolism
+rxn08552	Glycerol-3-phosphate acyltransferase (C18:1)	Glycerolipid metabolism
+rxn00615	Glycerol kinase	Glycerolipid metabolism
+rxn08309	CDP-diacylglycerol synthetase (n-C16:0)	Glycerolipid metabolism
+rxn01102	Glycerate kinase	Glycerolipid metabolism
+rxn10260	anteisoheptadecanoyl-CDPdiacylglycerolsn-glycerol-3-phosphate 3-phosphatidyltransferase	Glycerolipid metabolism
+rxn10263	anteisopentadecanoyl-CDPdiacylglycerolsn-glycerol-3-phosphate 3-phosphatidyltransferase	Glycerolipid metabolism
+rxn10259	isoheptadecanoyl-CDPdiacylglycerolsn-glycerol-3-phosphate 3-phosphatidyltransferase	Glycerolipid metabolism
+rxn10264	isohexadecanoyl-CDPdiacylglycerolsn-glycerol-3-phosphate 3-phosphatidyltransferase	Glycerolipid metabolism
+rxn10262	isopentadecanoyl-CDPdiacylglycerolsn-glycerol-3-phosphate 3-phosphatidyltransferase	Glycerolipid metabolism
+rxn10261	isotetradecanoyl-CDPdiacylglycerolsn-glycerol-3-phosphate 3-phosphatidyltransferase	Glycerolipid metabolism
+rxn10254	anteisoheptadecanoyl-Diacylglycerol kinase	Glycerolipid metabolism
+rxn10257	anteisopentadecanoyl-Diacylglycerol kinase	Glycerolipid metabolism
+rxn06139	Diacylglycerol kinase	Glycerolipid metabolism
+rxn08294	Diacylglycerol kinase (n-C12:0)	Glycerolipid metabolism
+rxn08295	Diacylglycerol kinase (n-C14:0)	Glycerolipid metabolism
+rxn08296	Diacylglycerol kinase (n-C14:1)	Glycerolipid metabolism
+rxn08297	Diacylglycerol kinase (n-C16:0)	Glycerolipid metabolism
+rxn08298	Diacylglycerol kinase (n-C16:1)	Glycerolipid metabolism
+rxn08299	Diacylglycerol kinase (n-C18:0)	Glycerolipid metabolism
+rxn08300	Diacylglycerol kinase (n-C18:1)	Glycerolipid metabolism
+rxn10253	isoheptadecanoyl-Diacylglycerol kinase	Glycerolipid metabolism
+rxn10258	isohexadecanoyl-Diacylglycerol kinase	Glycerolipid metabolism
+rxn10256	isopentadecanoyl-Diacylglycerol kinase	Glycerolipid metabolism
+rxn10255	isotetradecanoyl-Diacylglycerol kinase	Glycerolipid metabolism
+rxn10206	anteisoheptadecanoyl-glycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10209	anteisopentadecanoyl-glycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn08546	Glycerol-3-phosphate acyltransferase (C12:0)	Glycerolipid metabolism
+rxn08547	Glycerol-3-phosphate acyltransferase (C14:0)	Glycerolipid metabolism
+rxn08548	Glycerol-3-phosphate acyltransferase (C14:1)	Glycerolipid metabolism
+rxn08549	Glycerol-3-phosphate acyltransferase (C16:0)	Glycerolipid metabolism
+rxn08551	Glycerol-3-phosphate acyltransferase (C18:0)	Glycerolipid metabolism
+rxn10205	isoheptadecanoyl-glycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10210	isohexadecanoyl-glycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10208	isopentadecanoyl-glycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10207	isotetradecanoyl-glycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10203	myristoyl-glycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10202	palmitoyl-glycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10204	stearoyl-glycerol-3-phosphate O-acyltransferase	Glycerolipid metabolism
+rxn10266	anteisoheptadecanoyl-Phosphatidylglycerophosphate phosphohydrolase	Glycerolipid metabolism
+rxn10269	anteisopentadecanoyl-Phosphatidylglycerophosphate phosphohydrolase	Glycerolipid metabolism
+rxn10265	isoheptadecanoyl-Phosphatidylglycerophosphate phosphohydrolase	Glycerolipid metabolism
+rxn10270	isohexadecanoyl-Phosphatidylglycerophosphate phosphohydrolase	Glycerolipid metabolism
+rxn10268	isopentadecanoyl-Phosphatidylglycerophosphate phosphohydrolase	Glycerolipid metabolism
+rxn10267	isotetradecanoyl-Phosphatidylglycerophosphate phosphohydrolase	Glycerolipid metabolism
+rxn10227	anteisoheptadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase	Glycerolipid metabolism
+rxn10230	anteisopentadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase	Glycerolipid metabolism
+rxn10226	isoheptadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase	Glycerolipid metabolism
+rxn10231	isohexadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase	Glycerolipid metabolism
+rxn10229	isopentadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase	Glycerolipid metabolism
+rxn10228	isotetradecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase	Glycerolipid metabolism
+rxn01643	Aspartate-semialdehyde dehydrogenase	Lysine biosynthesis
+rxn01302	Homoserine dehydrogenase (NADPH)	Lysine biosynthesis
+rxn02929	Dihydrodipicolinate reductase (NADPH)	Lysine biosynthesis
+rxn01644	Dihydrodipicolinate synthase	Lysine biosynthesis
+rxn00337	Aspartate kinase	Lysine biosynthesis
+rxn01973	Succinyl-diaminopimelate desuccinylase	Lysine biosynthesis
+rxn03087	Succinyldiaminopimelate transaminase	Lysine biosynthesis
+rxn03031	Tetrahydrodipicolinate succinylase	Lysine biosynthesis
+rxn03164	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase	Lysine biosynthesis
+rxn00313	Diaminopimelate decarboxylase	Lysine biosynthesis
+rxn01974	Diaminopimelate epimerase	Lysine biosynthesis
+rJB00277	UDP-N-acetyl fucosamine synthase	Amino sugar and nucleotide sugar metabolism
+rxn02285	UDP-N-acetylenolpyruvoylglucosamine reductase	Amino sugar and nucleotide sugar metabolism
+rxn13913	UDP-N-acetyl-mannosamine (2NAc3N) acid acetylase	Amino sugar and nucleotide sugar metabolism
+rxn00295	UDP N acetylglucosamine 4 epimerase	Amino sugar and nucleotide sugar metabolism
+rxn01484	N-acetylglucosamine-6-phosphate deacetylase	Amino sugar and nucleotide sugar metabolism
+rxn00461	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	Amino sugar and nucleotide sugar metabolism
+rxn01485	Phosphoglucosamine mutase	Amino sugar and nucleotide sugar metabolism
+rxn03638	glucosamine-1-phosphate N-acetyltransferase	Amino sugar and nucleotide sugar metabolism
+rxn00293	UDP-N-acetylglucosamine diphosphorylase	Amino sugar and nucleotide sugar metabolism
+rxn07099	Beta lactamase	Penicillin and cephalosporin biosynthesis
+rxn01867	Betaine-aldehyde dehydrogenase	Glycine, serine and threonine metabolism
+rxn10062	choline dehydrogenase (FAD-dependent)	Glycine, serine and threonine metabolism
+rxn01101	Phosphoglycerate dehydrogenase	Glycine, serine and threonine metabolism
+rxn01011	Hydroxypyruvate reductase (NADH)	Glycine, serine and threonine metabolism
+rxn01068	L-threonine dehydrogenase	Glycine, serine and threonine metabolism
+rxn00269	Glycine oxidase	Glycine, serine and threonine metabolism
+rxn13847	Threonine dehydrogenase	Glycine, serine and threonine metabolism
+rxn06600	aminomethyltransferase	Glycine, serine and threonine metabolism
+rxn00165	SER AL	Glycine, serine and threonine metabolism
+rxn06377	Glycine-cleavage complex	Glycine, serine and threonine metabolism
+rxn00692	Glycine hydroxymethyltransferase, reversible	Glycine, serine and threonine metabolism
+rxn00433	Sarcosine oxidase	Glycine, serine and threonine metabolism
+rxn01300	Homoserine kinase	Glycine, serine and threonine metabolism
+rxn00541	THRA	Glycine, serine and threonine metabolism
+rxn04786	DABAAT	Glycine, serine and threonine metabolism
+rxn02028	BHMT	Glycine, serine and threonine metabolism
+rxn02914	Phosphoserine transaminase	Glycine, serine and threonine metabolism
+rxn00166	D-serine deaminase	Glycine, serine and threonine metabolism
+rxn01069	Threonine synthase	Glycine, serine and threonine metabolism
+rxn13816	CDPdiacylglycerol-serine O-phosphatidyltransferase reversible	Glycine, serine and threonine metabolism
+rxn00420	Phosphoserine phosphatase (L-serine)	Glycine, serine and threonine metabolism
+rxn03958	1-deoxy-D-xylulose reductoisomerase	Terpenoid biosynthesis
+rxn05293	2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase	Terpenoid biosynthesis
+rxn08352	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp)	Terpenoid biosynthesis
+rxn08756	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp)	Terpenoid biosynthesis
+rxn13826	dimethylallyltranstransferase	Terpenoid biosynthesis
+rxn01466	Geranyltranstransferase	Terpenoid biosynthesis
+rxn09037	Octaprenyl pyrophosphate synthase	Terpenoid biosynthesis
+rxn05028	Solanesyl diphosphate synthase	Terpenoid biosynthesis
+rxn00616	G3PD	Glycerophospholipid metabolism
+rxn00611	G3PD1	Glycerophospholipid metabolism
+rxn00612	Glycerol-3-phosphate dehydrogenase (NADP)	Glycerophospholipid metabolism
+rxn08669	Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol)	Glycerophospholipid metabolism
+rPY00184	Cardiolipin synthase (n-C16:0 16:1)	Glycerophospholipid metabolism
+rxn08229	Cardiolipin synthase (periplasmic, n-C16:0)	Glycerophospholipid metabolism
+rxn08230	Cardiolipin synthase (periplasmic, n-C16:1)	Glycerophospholipid metabolism
+rPY00183	Cardiolipin synthase (n-C18:0 18:1)	Glycerophospholipid metabolism
+rxn08231	Cardiolipin synthase (periplasmic, n-C18:0)	Glycerophospholipid metabolism
+rxn08232	Cardiolipin synthase (periplasmic, n-C18:1)	Glycerophospholipid metabolism
+rxn00539	ethanolamine ammonia-lyase	Glycerophospholipid metabolism
+rxn01073	Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine)	Glycerophospholipid metabolism
+rxn00758	Glycerophosphodiester phosphodiesterase (Glycerophosphocholine)	Glycerophospholipid metabolism
+rxn13817	cardiolipin synthetase	Glycerophospholipid metabolism
+rxn13815	CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase reversible	Glycerophospholipid metabolism
+rxn09108	Phosphatidylglycerol synthase (n-C12:0)	Glycerophospholipid metabolism
+rxn09109	Phosphatidylglycerol synthase (n-C14:0)	Glycerophospholipid metabolism
+rxn09110	Phosphatidylglycerol synthase (n-C14:1)	Glycerophospholipid metabolism
+rxn09111	Phosphatidylglycerol synthase (n-C16:0)	Glycerophospholipid metabolism
+rxn09112	Phosphatidylglycerol synthase (n-C16:1)	Glycerophospholipid metabolism
+rxn09113	Phosphatidylglycerol synthase (n-C18:0)	Glycerophospholipid metabolism
+rxn09114	Phosphatidylglycerol synthase (n-C18:1)	Glycerophospholipid metabolism
+rPY00215	phospholipase D	Glycerophospholipid metabolism
+rxn13889	phosphatidate cytidylyltransferase reversible	Glycerophospholipid metabolism
+rxn06971	CDP-diacylglycerol:choline O-phosphatidyltransferase	Glycerophospholipid metabolism
+rxn09101	Phosphatidylglycerol phosphate phosphatase (periplasm, n-C14:0)	Glycerophospholipid metabolism
+rxn09102	Phosphatidylglycerol phosphate phosphatase (periplasm, n-C14:0)	Glycerophospholipid metabolism
+rxn09103	Phosphatidylglycerol phosphate phosphatase (periplasm, n-C14:1)	Glycerophospholipid metabolism
+rxn09104	Phosphatidylglycerol phosphate phosphatase (periplasm, n-C16:0)	Glycerophospholipid metabolism
+rxn09105	Phosphatidylglycerol phosphate phosphatase (periplasm, n-C16:1)	Glycerophospholipid metabolism
+rxn09106	Phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0)	Glycerophospholipid metabolism
+rxn09107	Phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:1)	Glycerophospholipid metabolism
+rxn13887	Phosphatidylglycerophosphate phosphohydrolase	Glycerophospholipid metabolism
+rxn09205	Phosphatidylserine syntase (n-C12:0)	Glycerophospholipid metabolism
+rxn09206	Phosphatidylserine syntase (n-C14:0)	Glycerophospholipid metabolism
+rxn09207	Phosphatidylserine syntase (n-C14:1)	Glycerophospholipid metabolism
+rxn09208	Phosphatidylserine syntase (n-C16:0)	Glycerophospholipid metabolism
+rxn09209	Phosphatidylserine syntase (n-C16:1)	Glycerophospholipid metabolism
+rxn09210	Phosphatidylserine syntase (n-C18:0)	Glycerophospholipid metabolism
+rxn09211	Phosphatidylserine syntase (n-C18:1)	Glycerophospholipid metabolism
+rxn10233	anteisoheptadecanoyl-phosphatidylserine decarboxylase	Glycerophospholipid metabolism
+rxn10236	anteisopentadecanoyl-phosphatidylserine decarboxylase	Glycerophospholipid metabolism
+rxn10232	isoheptadecanoyl-phosphatidylserine decarboxylase	Glycerophospholipid metabolism
+rxn10237	isohexadecanoyl-phosphatidylserine decarboxylase	Glycerophospholipid metabolism
+rxn10235	isopentadecanoyl-phosphatidylserine decarboxylase	Glycerophospholipid metabolism
+rxn10234	isotetradecanoyl-phosphatidylserine decarboxylase	Glycerophospholipid metabolism
+rxn13894	phosphatidylserine decarboxylase	Glycerophospholipid metabolism
+rxn09197	Phosphatidylserine decarboxylase (n-C12:0)	Glycerophospholipid metabolism
+rxn09198	Phosphatidylserine decarboxylase (n-C14:0)	Glycerophospholipid metabolism
+rxn09199	Phosphatidylserine decarboxylase (n-C14:1)	Glycerophospholipid metabolism
+rPY00165	Phosphatidylserine decarboxylase (n-C16:0 16:1)	Glycerophospholipid metabolism
+rxn09200	Phosphatidylserine decarboxylase (n-C16:0)	Glycerophospholipid metabolism
+rxn09201	Phosphatidylserine decarboxylase (n-C16:1)	Glycerophospholipid metabolism
+rPY00170	Phosphatidylserine decarboxylase (n-C18:0 18:1)	Glycerophospholipid metabolism
+rxn09202	Phosphatidylserine decarboxylase (n-C18:0)	Glycerophospholipid metabolism
+rxn09203	Phosphatidylserine decarboxylase (n-C18:1)	Glycerophospholipid metabolism
+rxn13818	cardiolipin synthase reversible	Glycerophospholipid metabolism
+rxn05964	Phosphatidylcholine cholinephosphohydrolase	Glycerophospholipid metabolism
+rxn06079	Phosphatidylglycerol cholinephosphohydrolase	Glycerophospholipid metabolism
+rxn06087	Phosphatidylethanolamine ethanolaminephosphohydrolase	Glycerophospholipid metabolism
+rxn05901	acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase	Glycerophospholipid metabolism
+rxn06140	acyl-CoA:1-acyl-sn-glycerol-3-phosphate 2-O-acyltransferase	Glycerophospholipid metabolism
+rxn06043	CDP-Diacylglycerol synthetase (Ecoli)	Glycerophospholipid metabolism
+rxn04684	Phosphocholine phosphohydrolase	Glycerophospholipid metabolism
+rxn00538	ethanolamine-phosphate phosphate-lyase (deaminating; acetaldehyde-forming)	Glycerophospholipid metabolism
+rxn05829	Acid:CoA ligase (AMP-forming)	Glycerophospholipid metabolism
+rxn05824	Acyl-CoA hydrolase	Glycerophospholipid metabolism
+rxn01675	Glucose-1-phosphate thymidylyltransferase	Metabolism of terpenoids and polyketides
+EX_cpd00797_e	EX (R)-3-Hydroxybutanoate e	Exchange
+EX_cpd17085_e	EX 2-heptyl-3-hydroxy-4-quinolone e	Exchange
+EX_cpd00176_e	EX 2-keto-3-deoxygluconate e	Exchange
+EX_cpd00024_e	EX 2-Oxoglutarate	Exchange
+EX_cpd00489_e	EX 4-Hydroxyphenylacetate	Exchange
+EX_cpd00029_e	EX Acetate	Exchange
+EX_cpd00142_e	EX Acetoacetate e	Exchange
+EX_cpd00182_e	EX Adenosine e	Exchange
+EX_cpd11587_e	EX Ala-Gln e	Exchange
+EX_cpd11584_e	EX Ala-His e	Exchange
+EX_cpd11593_e	EX ala-L-asp-L e	Exchange
+EX_cpd11583_e	EX Ala-Leu e	Exchange
+EX_cpd11586_e	EX ala-L-glu-L e	Exchange
+EX_cpd11582_e	EX ala-L-Thr-L e	Exchange
+EX_cpd01092_e	EX Allantoin e	Exchange
+EX_cpd00162_e	EX Aminoethanol e	Exchange
+EX_cpd01262_e	EX Amylotriose e	Exchange
+EX_cpd01048_e	EX Arsenate e	Exchange
+EX_cpd04098_e	EX Arsenite e	Exchange
+EX_cpd00540_e	EX BET e	Exchange
+EX_cpd11596_e	EX butanesulfonate e	Exchange
+EX_cpd00211_e	EX Butyrate e	Exchange
+EX_cpd00063_e	EX Ca2+ e	Exchange
+EX_cpd00635_e	EX Cbl e	Exchange
+EX_cpd01012_e	EX Cd2+ e	Exchange
+EX_cpd00098_e	EX Choline e	Exchange
+EX_cpd11595_e	EX chromate e	Exchange
+EX_cpd00137_e	EX Citrate	Exchange
+EX_cpd00099_e	EX Cl- e	Exchange
+EX_cpd00011_e	EX CO2 e	Exchange
+EX_cpd00149_e	EX Co2+ e	Exchange
+EX_cpd00058_e	EX Cu2+ e	Exchange
+EX_cpd01015_e	EX Cyanate e	Exchange
+EX_cpd01017_e	EX Cys-Gly e	Exchange
+EX_cpd00381_e	EX Cystine	Exchange
+EX_cpd00367_e	EX Cytidine e	Exchange
+EX_cpd00307_e	EX Cytosine e	Exchange
+EX_cpd00117_e	EX D-Alanine e	Exchange
+EX_cpd00438_e	EX Deoxyadenosine e	Exchange
+EX_cpd00654_e	EX Deoxycytidine e	Exchange
+EX_cpd00277_e	EX Deoxyguanosine e	Exchange
+EX_cpd03279_e	EX Deoxyinosine e	Exchange
+EX_cpd00412_e	EX Deoxyuridine e	Exchange
+EX_cpd00082_e	EX D-Fructose	Exchange
+EX_cpd00072_e	EX D-fructose-6-phosphate	Exchange
+EX_cpd00653_e	EX D-Galactonate e	Exchange
+EX_cpd00280_e	EX D-Galacturonate e	Exchange
+EX_cpd00609_e	EX D-Glucarate e	Exchange
+EX_cpd00027_e	EX D-Glucose e	Exchange
+EX_cpd00079_e	EX D-glucose-6-phosphate	Exchange
+EX_cpd00221_e	EX D-Lactate e	Exchange
+EX_cpd01307_e	EX D-Lyxitol	Exchange
+EX_cpd00386_e	EX D-Malate	Exchange
+EX_cpd00637_e	EX D-Methionine e	Exchange
+EX_cpd00652_e	EX D-Mucic acid e	Exchange
+EX_cpd00105_e	EX D-Ribose e	Exchange
+EX_cpd00550_e	EX D-Serine e	Exchange
+EX_cpd11579_e	EX ethanesulfonate e	Exchange
+EX_cpd00021_e	EX Fe2+ e	Exchange
+EX_cpd10516_e	EX fe3 e	Exchange
+EX_cpd03724_e	EX Ferrichrome e	Exchange
+EX_cpd00106_e	EX Fumarate e	Exchange
+EX_cpd00108_e	EX Galactose e	Exchange
+EX_cpd00164_e	EX Glucuronate e	Exchange
+EX_cpd11581_e	EX gly-asn-L e	Exchange
+EX_cpd11589_e	EX gly-asp-L e	Exchange
+EX_cpd00100_e	EX Glycerol e	Exchange
+EX_cpd00080_e	EX Glycerol-3-phosphate e	Exchange
+EX_cpd00033_e	EX Glycine e	Exchange
+EX_cpd00139_e	EX Glycolate	Exchange
+EX_cpd15603_e	EX Gly-Cys e	Exchange
+EX_cpd11580_e	EX Gly-Gln e	Exchange
+EX_cpd11592_e	EX gly-glu-L e	Exchange
+EX_cpd15604_e	EX Gly-Leu e	Exchange
+EX_cpd11591_e	EX Gly-Met e	Exchange
+EX_cpd15605_e	EX Gly-Phe e	Exchange
+EX_cpd11588_e	EX gly-pro-L e	Exchange
+EX_cpd15606_e	EX Gly-Tyr e	Exchange
+EX_cpd00067_e	EX H+ e	Exchange
+EX_cpd00001_e	EX H2O e	Exchange
+EX_cpd00268_e	EX H2S2O3 e	Exchange
+EX_cpd11578_e	EX hexanesulfonate e	Exchange
+EX_cpd00531_e	EX Hg2+ e	Exchange
+EX_cpd00226_e	EX HYXN e	Exchange
+EX_cpd00246_e	EX Inosine e	Exchange
+EX_cpd03048_e	EX Isethionate e	Exchange
+EX_cpd00205_e	EX K+ e	Exchange
+EX_cpd03091_e	EX L-5&apos;-Deoxyadenosine e	Exchange
+EX_cpd00035_e	EX L-Alanine e	Exchange
+EX_cpd11585_e	EX L-alanylglycine e	Exchange
+EX_cpd00224_e	EX L-Arabinose e	Exchange
+EX_cpd00051_e	EX L-Arginine e	Exchange
+EX_cpd00132_e	EX L-Asparagine	Exchange
+EX_cpd00041_e	EX L-Aspartate e	Exchange
+EX_cpd00395_e	EX L-Cysteate e	Exchange
+EX_cpd00084_e	EX L-Cysteine e	Exchange
+EX_cpd00023_e	EX L-Glutamate e	Exchange
+EX_cpd00053_e	EX L-Glutamine e	Exchange
+EX_cpd00119_e	EX L-Histidine e	Exchange
+EX_cpd00121_e	EX L-Inositol	Exchange
+EX_cpd00322_e	EX L-Isoleucine e	Exchange
+EX_cpd00159_e	EX L-Lactate e	Exchange
+EX_cpd00107_e	EX L-Leucine e	Exchange
+EX_cpd00039_e	EX L-Lysine e	Exchange
+EX_cpd00130_e	EX L-Malate e	Exchange
+EX_cpd00060_e	EX L-Methionine e	Exchange
+EX_cpd11576_e	EX L-methionine R-oxide e	Exchange
+EX_cpd01914_e	EX L-Methionine S-oxide e	Exchange
+EX_cpd00066_e	EX L-Phenylalanine e	Exchange
+EX_cpd00129_e	EX L-Proline e	Exchange
+EX_cpd00054_e	EX L-Serine e	Exchange
+EX_cpd00161_e	EX L-Threonine e	Exchange
+EX_cpd00065_e	EX L-Tryptophan e	Exchange
+EX_cpd00069_e	EX L-Tyrosine e	Exchange
+EX_cpd00156_e	EX L-Valine e	Exchange
+EX_cpd00308_e	EX Malonate e	Exchange
+EX_cpd01329_e	EX Maltohexaose e	Exchange
+EX_cpd00179_e	EX Maltose e	Exchange
+EX_cpd08023_e	EX methanesulfonate e	Exchange
+EX_cpd11590_e	EX met-L-ala-L e	Exchange
+EX_cpd00254_e	EX Mg e	Exchange
+EX_cpd00030_e	EX Mn2+ e	Exchange
+EX_cpd11574_e	EX Molybdate e	Exchange
+EX_cpd11575_e	EX MOPS e	Exchange
+EX_cpd00971_e	EX Na+ e	Exchange
+EX_cpd00122_e	EX N-Acetyl-D-glucosamine e	Exchange
+EX_cpd00013_e	EX NH3 e	Exchange
+EX_cpd00244_e	EX Ni2+ e	Exchange
+EX_cpd00209_e	EX Nitrate e	Exchange
+EX_cpd00075_e	EX Nitrite e	Exchange
+EX_cpd00528_e	EX nitrogen e	Exchange
+EX_cpd00007_e	EX O2 e	Exchange
+EX_cpd00064_e	EX Ornithine e	Exchange
+EX_cpd04097_e	EX Pb e	Exchange
+EX_cpd00009_e	EX Phosphate e	Exchange
+EX_cpd00012_e	EX PPi e	Exchange
+EX_cpd00141_e	EX Propionate	Exchange
+EX_cpd00118_e	EX Putrescine e	Exchange
+EX_cpd00020_e	EX Pyruvate	Exchange
+EX_cpd00588_e	EX Sorbitol	Exchange
+EX_cpd00264_e	EX Spermidine e	Exchange
+EX_cpd00036_e	EX Succinate e	Exchange
+EX_cpd00048_e	EX Sulfate e	Exchange
+EX_cpd09878_e	EX Sulfoacetate e	Exchange
+EX_cpd00210_e	EX Taurine e	Exchange
+EX_cpd00305_e	EX Thiamin e	Exchange
+EX_cpd00184_e	EX Thymidine e	Exchange
+EX_cpd01242_e	EX Thyminose e	Exchange
+EX_cpd00851_e	EX trans-4-Hydroxy-L-proline	Exchange
+EX_cpd00092_e	EX Uracil e	Exchange
+EX_cpd00073_e	EX Urea e	Exchange
+EX_cpd00249_e	EX Uridine e	Exchange
+EX_cpd03424_e	EX Vitamin B12 e	Exchange
+EX_cpd00423_e	EX Vitamin B12r e	Exchange
+EX_cpd00309_e	EX XAN e	Exchange
+EX_cpd00306_e	EX Xylitol	Exchange
+EX_cpd00154_e	EX Xylose e	Exchange
+EX_cpd00034_e	EX Zn2+ e	Exchange
+EX_cpd00331_e	EX cis-Aconitic acid	Exchange
+EX_cpd00089_e	EX Glucose-1-phosphate	Exchange
+EX_cpd00314_e	EX D-Mannitol	Exchange
+EX_cpd00380_e	EX Itaconic Acid	Exchange
+EX_cpd00581_e	EX Urocanic Acid	Exchange
+EX_cpd00281_e	EX Amino Butyric Acid	Exchange
+rxn01827	4-hydroxyphenylpyruvate dioxygenase	Ubiquinone biosynthesis
+rxn03393	Octaprenyl-hydroxybenzoate decarboxylase	Ubiquinone biosynthesis
+rxn13107	2-Nonaprenylphenol hydroxylase	Ubiquinone biosynthesis
+rxn09044	2-Octaprenylphenol hydroxylase	Ubiquinone biosynthesis
+rxn12880	5-demethoxyubiquinol hydroxylyase	Ubiquinone biosynthesis
+rxn02898	Naphthoate synthase	Ubiquinone biosynthesis
+rxn12892	2-polyprenyl-6-hydroxyphenol methylase	Ubiquinone biosynthesis
+rxn05003	3-demethylubiquinone-9 3-methyltransferase	Ubiquinone biosynthesis
+rxn08353	3-Dimethylubiquinonol 3-methyltransferase	Ubiquinone biosynthesis
+rxn03395	2-octaprenyl-6-hydroxyphenol methylase	Ubiquinone biosynthesis
+rxn13864	nitrous-oxide reductase precursor	Ubiquinone biosynthesis
+rxn13044	nonaprenyl-4-hydroxybenzoate decarboxylase	Ubiquinone biosynthesis
+rxn01258	Isochorismate synthase	Ubiquinone biosynthesis
+rxn12879	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase	Ubiquinone biosynthesis
+rxn09039	2-Octaprenyl-6-methoxy-benzoquinol methylase	Ubiquinone biosynthesis
+rxn09040	2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase	Ubiquinone biosynthesis
+rxn13108	2-nonaprenyl-6-methoxyphenol hydroxylase	Ubiquinone biosynthesis
+rxn09042	2-octaprenyl-6-methoxyphenol hydroxylase	Ubiquinone biosynthesis
+rxn00966	Chorismate pyruvate lyase	Ubiquinone biosynthesis
+rxn03893	Hydroxybenzoate octaprenyltransferase	Ubiquinone biosynthesis
+rxn05034	4-hydroxybenzoate polyprenyltransferase	Ubiquinone biosynthesis
+rxn00501	MMSAD3	Propanoate metabolism
+rxn00671	MMSAD1	Propanoate metabolism
+rxn00986	PropanoateCoA ligase (AMP-forming)	Propanoate metabolism
+rxn00675	Propinol adenylateCoA ligase (AMP-forming)	Propanoate metabolism
+rxn00285	Succinyl-CoA synthetase (ADP-forming)	Propanoate metabolism
+rxn00533	Acetyl-CoA carboxylase	Propanoate metabolism
+rxn00656	APATr	Propanoate metabolism
+rxn00670	Phosphate acetyltransferase	Propanoate metabolism
+rxn00985	Propionate kinase	Propanoate metabolism
+rxn00738	1-aminocyclopropane-1-carboxylate deaminase	Propanoate metabolism
+rxn01851	Aminobutyraldehyde dehydrogenase	Arginine and proline metabolism
+rxn00931	Pyrroline-5-carboxylate reductase	Arginine and proline metabolism
+rxn00183	PUTA3	Arginine and proline metabolism
+rxn13895	Proline dehydrogenase	Arginine and proline metabolism
+rxn13906	Spermidine dehydrogenase	Arginine and proline metabolism
+rxn13788	1-pyrroline dehydrogenase	Arginine and proline metabolism
+rxn00858	Agmatinase	Arginine and proline metabolism
+rxn00394	arginase	Arginine and proline metabolism
+rxn01019	ornithine carbamoyltransferase	Arginine and proline metabolism
+rxn01029	agmatine deiminase	Arginine and proline metabolism
+rxn00853	N-carbamoylputrescine amidohydrolase	Arginine and proline metabolism
+rxn00856	Putrescine Transaminase	Arginine and proline metabolism
+rxn01637	Acetylornithine transaminase	Arginine and proline metabolism
+rxn00467	ornithine transaminase	Arginine and proline metabolism
+rxn00291	Succinylglutamate desuccinylase	Arginine and proline metabolism
+rxn01462	GUDBUTNAH	Arginine and proline metabolism
+rxn01434	argininosuccinate synthase	Arginine and proline metabolism
+rxn01636	ornithine transacetylase	Arginine and proline metabolism
+rxn00395	arginine deiminase	Arginine and proline metabolism
+rxn00114	Carbamate kinase	Arginine and proline metabolism
+rxn08968	N-acetylornithine deacetylase	Arginine and proline metabolism
+rxn00802	argininosuccinate lyase	Arginine and proline metabolism
+rxn01917	Acetylglutamate kinase	Arginine and proline metabolism
+rxn05118	4-aminobutanoate cyclization reaction	Arginine and proline metabolism
+rxn00601	Arginine succinyltransferase	Arginine and proline metabolism
+rxn02927	succinylarginine dihydrolase	Arginine and proline metabolism
+rxn02944	Succinylornithine transaminase	Arginine and proline metabolism
+rxn03422	Succinylglutamic semialdehyde dehydrogenase	Arginine and proline metabolism
+rxn00182	L-glutamate:NAD+ oxidoreductase (deaminating)	Arginine and proline metabolism
+rxn13805	Poly(beta-d-mannuronate) lyase precursor	Alginate synthesis
+rxn13807	alginate-c5-mannuronan-epimerase	Alginate synthesis
+rxn13806	alginate o-acetyltransferase	Alginate synthesis
+rxn00623	Sulfite reductase  NADPH2 	Sulfur metabolism
+rxn09240	Sulfate adenyltransferase	Sulfur metabolism
+rxn00361	Adenylyl-sulfate kinase	Sulfur metabolism
+rxn05256	APSR	Sulfur metabolism
+rxn01416	thiosulfate sulfurtransferase	Sulfur metabolism
+rxn00137	3&apos;,5&apos;-bisphosphate nucleotidase	Sulfur metabolism
+rxn00288	FRD	Butanoate metabolism
+rxn00509	Succinate-semialdehyde dehydrogenase (NADP)	Butanoate metabolism
+rxn01452	(S)-3-Hydroxybutanoyl-CoA:NADP+ oxidoreductase	Butanoate metabolism
+rxn00508	Succinate-semialdehyde dehydrogenase (NAD)	Butanoate metabolism
+rxn00992	BDH	Butanoate metabolism
+rxn02112	(R,R)-butanediol dehydrogenase	Butanoate metabolism
+rxn02632	2,3-butanediol dehydrogenase	Butanoate metabolism
+rxn01686	2,3-butanediol dehydrogenase	Butanoate metabolism
+rxn00868	Acyl-CoA dehydrogenase (butanoyl-CoA)	Butanoate metabolism
+rxn13888	poly(3-hydroxyalkanoic acid) synthase	Butanoate metabolism
+rxn01204	4-aminobutyrate transaminase	Butanoate metabolism
+rxn02167	3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA)	Butanoate metabolism
+rxn00988	acetoacetyl-CoAsynthetase	Butanoate metabolism
+rxn00290	OCOAT1	Butanoate metabolism
+rxn00991	HMGL	Butanoate metabolism
+rxn05353	Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C4:0)	Fatty acid biosynthesis
+rxn05356	Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C10:0)	Fatty acid biosynthesis
+rxn05355	Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C12:0)	Fatty acid biosynthesis
+rxn05354	Hexadecanoyl-[acyl-carrier proteinmalonyl-CoA	Fatty acid biosynthesis
+rxn05357	Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C6:0)	Fatty acid biosynthesis
+rxn05352	Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C8:0)	Fatty acid biosynthesis
+rxn05351	Tetradecanoyl-[acyl-carrier protein]malonyl-CoA	Fatty acid biosynthesis
+rxn05338	(3R)-3-Hydroxydecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05436	10-methyl-trans-dodec-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05448	10-methyl-trans-undec-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05442	11-methyl-trans-dodec-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05437	12-methyl-trans-tetra-dec-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05449	12-methyl-trans-tridec-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05443	13-methyl-trans-tetra-dec-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05438	14-methyl-trans-hexa-dec-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05450	14-methyl-trans-pentadec-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05444	15-methyl-trans-hexa-dec-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05433	4-methyl-trans-hex-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05445	4-methyl-trans-pent-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05439	5-methyl-trans-hex-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05446	6-methyl-trans-hept-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05434	6-methyl-trans-oct-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05440	7-methyl-trans-oct-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05435	8-methyl-trans-dec-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05447	8-methyl-trans-non-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05441	9-methyl-trans-dec-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05322	Butyryl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase	Fatty acid biosynthesis
+rxn05327	Decanoyl-[acyl-carrier protein]:malonyl-CoA  C-acyltransferase	Fatty acid biosynthesis
+rxn05324	Dodecanoyl-[acyl-carrier protein]: malonyl-CoA  C-acyltransferase	Fatty acid biosynthesis
+rxn13838	Hexadecanoyl-[acyl-carrier protein]:malonyl-CoA  C-acyltransferase	Fatty acid biosynthesis
+rxn05328	Hexadecanoyl-[acyl-carrier protein]malonyl-CoA	Fatty acid biosynthesis
+rxn05326	Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C6:0)	Fatty acid biosynthesis
+rxn13850	Myristoyl-[acyl-carrier protein] synthase	Fatty acid biosynthesis
+rxn08396	Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:0)	Fatty acid biosynthesis
+rxn05325	Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C8:0)	Fatty acid biosynthesis
+rxn05323	Tetradecanoyl-[acyl-carrier protein]malonyl-CoA	Fatty acid biosynthesis
+rxn05464	trans-Octodec-2-enoyl-ACPNAD+ oxidoreductase (A-specific)	Fatty acid biosynthesis
+rxn05339	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]:NADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05337	(3R)-3-Hydroxyhexanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05341	(3R)-3-Hydroxyoctanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05336	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05372	10-methyl-3-oxo-dodecanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05422	10-methyl-3-oxo-undecanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05397	11-methyl-3-oxo-dodecanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05376	12-methyl-3-oxo-tetra-decanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05426	12-methyl-3-oxo-tridecanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05401	13-methyl-3-oxo-tetra-decanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05380	14-methyl-3-oxo-hexa-decanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05430	14-methyl-3-oxo-pentadecanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05405	15-methyl-3-oxo-hexa-decanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05461	3-Hydroxyoctodecanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn07993	3-oxoacyl-[acyl-carrier-protein] reductase (n-C18:1)	Fatty acid biosynthesis
+rxn05340	3R)-3-Hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05342	3R)-3-Hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05360	4-methyl-3-oxo-hexanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05410	4-methyl-3-oxo-pentanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05385	5-methyl-3-oxo-hexanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05414	6-methyl-3-oxo-heptanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05364	6-methyl-3-oxo-octanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05389	7-methyl-3-oxo-octanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05368	8-methyl-3-oxo-decanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05418	8-methyl-3-oxo-nonanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn05393	9-methyl-3-oxo-decanoyl-ACPNADP+ oxidoreductase	Fatty acid biosynthesis
+rxn13909	2,4-dienoyl-CoA reductase (C8)	Fatty acid biosynthesis
+rxn08002	3-oxoacyl-[acyl-carrier-protein] synthase (n-C18:1)	Fatty acid biosynthesis
+rxn05349	Acetyl-CoA ACP transacylase	Fatty acid biosynthesis
+rxn05331	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	Fatty acid biosynthesis
+rxn05333	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	Fatty acid biosynthesis
+rPY00162	PA160161S	Fatty acid biosynthesis
+rPY00167	PA180181S	Fatty acid biosynthesis
+rxn08861	Malonyl-ACP decarboxylase	Fatty acid biosynthesis
+rxn05334	((3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	Fatty acid biosynthesis
+rxn05329	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	Fatty acid biosynthesis
+rxn05330	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	Fatty acid biosynthesis
+rxn13843	(3R)-3-Hydroxyoctadecanoyl-[acyl-carrier-protein] hydro-lyase	Fatty acid biosynthesis
+rxn13840	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase	Fatty acid biosynthesis
+rxn13846	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase	Fatty acid biosynthesis
+rxn05332	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase	Fatty acid biosynthesis
+rxn05335	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase	Fatty acid biosynthesis
+rxn05373	10-methyl-3-hydroxy-dodecanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05423	10-methyl-3-hydroxy-undecanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05398	11-methyl-3-hydroxy-dodecanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05377	12-methyl-3-hydroxy-tetra-decanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05427	12-methyl-3-hydroxy-tridecanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05402	13-methyl-3-hydroxy-tetra-decanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05381	14-methyl-3-hydroxy-hexa-decanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05431	14-methyl-3-hydroxy-pentadecanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05406	15-methyl-3-hydroxy-hexa-decanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn07980	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:1)	Fatty acid biosynthesis
+rxn05361	4-methyl-3-hydroxy-hexanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05411	4-methyl-3-hydroxy-pentanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05386	5-methyl-3-hydroxy-hexanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05415	6-methyl-3-hydroxy-heptanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05365	6-methyl-3-hydroxy-octanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05390	7-methyl-3-hydroxy-octanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05369	8-methyl-3-hydroxy-decanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05419	8-methyl-3-hydroxy-nonanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05394	9-methyl-3-hydroxy-decanoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rxn05462	trans-Octodec-2-enoyl-ACP hydro-lyase	Fatty acid biosynthesis
+rPY00163	CDP-diacylglycerol synthetase (n-C16:0 16:1)	Fatty acid biosynthesis
+rPY00168	CDP-diacylglycerol synthetase (n-C18:0 18:1)	Fatty acid biosynthesis
+rxn13792	S-2-hydroxylauroyl-ACP synthase	Fatty acid biosynthesis
+rxn13793	S-2-hydroxymyristoyl-ACP synthase	Fatty acid biosynthesis
+rxn05347	Beta-ketoacyl-ACP synthase	Fatty acid biosynthesis
+rxn05375	10-methyl-dodecanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05425	10-methyl-undecanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05400	11-methyl-dodecanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05379	12-methyl-tetra-decanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05429	12-methyl-tridecanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05404	13-methyl-tetra-decanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05409	2-methylpropionyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05384	3-methylbutanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05460	3-Oxooctodecanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05359	4-methyl-3-oxo-hexanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05363	4-methyl-hexanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05413	4-methyl-pentanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05388	5-methyl-hexanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05417	6-methyl-heptanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05367	6-methyl-octanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05392	7-methyl-octanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05371	8-methyl-decanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05421	8-methyl-nonanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05396	9-methyl-decanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05346	Butyryl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein]C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05348	Decanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase	Fatty acid biosynthesis
+rxn05345	Dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein]  C-acyltransferase	Fatty acid biosynthesis
+rxn13851	Hexadecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein]  C-acyltransferase	Fatty acid biosynthesis
+rxn05350	Hexanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase	Fatty acid biosynthesis
+rxn05343	Octanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein]   C-acyltransferase (decarboxylating)	Fatty acid biosynthesis
+rxn05344	Tetradecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein]  C-acyltransferase	Fatty acid biosynthesis
+rxn05451	12-methyl-tetra-decanoyl-ACP[acyl-carrier-protein] transferase	Fatty acid biosynthesis
+rxn05455	12-methyl-tridecanoyl-ACP[acyl-carrier-protein] transferase	Fatty acid biosynthesis
+rxn05453	13-methyl-tetra-decanoyl-ACP[acyl-carrier-protein] transferase	Fatty acid biosynthesis
+rxn05452	14-methyl-hexa-decanoyl-ACP[acyl-carrier-protein] transferase	Fatty acid biosynthesis
+rxn05456	14-methyl-pentadecanoyl-ACP[acyl-carrier-protein] transferase	Fatty acid biosynthesis
+rxn05454	15-methyl-hexa-decanoyl-ACP[acyl-carrier-protein] transferase	Fatty acid biosynthesis
+rxn05358	2-methylbutanoyl-CoA[acyl-carrier-protein] transferase	Fatty acid biosynthesis
+rxn05408	2-methylpropionyl-CoA[acyl-carrier-protein] transferase	Fatty acid biosynthesis
+rxn05383	3-methylbutanoyl-CoA[acyl-carrier-protein] transferase	Fatty acid biosynthesis
+rxn05458	hexadecanoyl-ACP[acyl-carrier-protein] transferase	Fatty acid biosynthesis
+rxn05465	Malonyl-CoA-ACP transacylase	Fatty acid biosynthesis
+rxn05459	stearyl-ACP[acyl-carrier-protein] transferase	Fatty acid biosynthesis
+rxn05457	tetradecanoyl-ACP[acyl-carrier-protein] transferase	Fatty acid biosynthesis
+rxn08766	Beta-ketoacyl-ACP synthase (2)	Fatty acid biosynthesis
+rPY00164	Phosphatidylserine syntase (n-C16:0 16:1)	Fatty acid biosynthesis
+rPY00169	Phosphatidylserine syntase (n-C18:0 18:1)	Fatty acid biosynthesis
+rxn06672	Biotin carboxylase	Fatty acid biosynthesis
+rxn03897	BZ12DOX	Benzoate degradation via CoA ligation
+rxn04954	5,10-methylenetetrahydrofolate reductase (NADH)	One carbon pool by folate
+rxn00907	Methylenetetrahydrofolate dehydrogenase (NADP)	One carbon pool by folate
+rxn01211	Methenyltetrahydrofolate cyclohydrolase	One carbon pool by folate
+rxn00629	mannitol 2-dehydrogenase	Fructose and mannose metabolism
+rxn00546	Mannitol-1-phosphate 5-dehydrogenase	Fructose and mannose metabolism
+rxn00638	GDP-mannose 6-dehydrogenase	Fructose and mannose metabolism
+rxn02440	GDP-4-dehydro-6-deoxy-D-mannose reductase	Fructose and mannose metabolism
+rxn00640	Mannose-1-phosphate guanylyltransferase (GDP)	Fructose and mannose metabolism
+rxn00559	Mannose-6-phosphate isomerase	Fructose and mannose metabolism
+rxn01620	L-fuculose 1-phosphate aldolase	Fructose and mannose metabolism
+rxn01492	fructose-1-phosphate kinase	Fructose and mannose metabolism
+rxn01329	Phosphomannomutase	Fructose and mannose metabolism
+rxn00642	GDP-D-mannose dehydratase	Fructose and mannose metabolism
+rxn01303	Homoserine O trans acetylase	Methionine metabolism
+rxn00950	cystathionine b-lyase reversible	Methionine metabolism
+rxn00141	Adenosylhomocysteinase	Methionine metabolism
+rxn00126	Methionine adenosyltransferase	Methionine metabolism
+rxn00127	Adenosylmethionine decarboxylase	Methionine metabolism
+rxn03052	5 methyltetrahydropteroyltriglutamate homocysteine S methyltransferase	Methionine metabolism
+rxn06077	L-methionine-S-oxide reductase (trdrd)	Methionine metabolism
+rxn01387	IsocitrateNADP+ oxidoreductase (decarboxylating)	Citrate cycle (TCA cycle)
+rJB00270	succinate dehydrogenase	Citrate cycle (TCA cycle)
+rxn00199	OxalosuccinateNADP+ oxidoreductase (decarboxylating)	Citrate cycle (TCA cycle)
+rxn08094	2-Oxogluterate dehydrogenase	Citrate cycle (TCA cycle)
+rxn00154	Pyruvate dehydrogenase	Citrate cycle (TCA cycle)
+rxn01241	Pyruvate dehydrogenase (dihydrolipoamide dehydrogenase) reversible	Citrate cycle (TCA cycle)
+rxn09953	acetoin dehydrogenase	Citrate cycle (TCA cycle)
+rxn00799	Fumarase	Citrate cycle (TCA cycle)
+rxn08527	Fumarate reductase	Citrate cycle (TCA cycle)
+rxn01388	Aconitase (half-reaction B, Isocitrate hydro-lyase)	Citrate cycle (TCA cycle)
+rxn00974	Aconitase (half-reaction A, Citrate hydro-lyase)	Citrate cycle (TCA cycle)
+rxn00973	Aconitase	Citrate cycle (TCA cycle)
+rxn08900	Malate dehydrogenase (ubiquinone 8 as acceptor)	Citrate cycle (TCA cycle)
+rxn36761	Malate dehydrogenase (ubiquinone-9 as acceptor)	Citrate cycle (TCA cycle)
+rxn00250	Pyruvate carboxylase	Citrate cycle (TCA cycle)
+		Glycolysis / Gluconeogenesis
+rxn10074	Fatty acid oxidation (Butanoyl-CoA )	None
+rxn02831	O-succinylbenzoate-CoA ligase	None
+rxn12206	malonate decarboxylase	None
+rxn04093	glycine oxidase, sarcosine	None
+rxn06216	Enoyl-CoA hydratase	None
+rxn00006	Catalase	None
+rxn00206	Superoxide dismutase	None
+rxn13819	carboxyphosphonoenolpyruvate phosphonomutase	None
+rxn13810	arsenate reductase	None
+rxn06831	S-adenosylmethione:2-demethylmenaquinone methyltransferase	None
+rxn02875	N-acetylmuramoyl-L-alanine amidase	None
+rxn05064	carbamate hydro-lyase	None
+rxn13921	delta-aminovalerate synthesis	None
+rxn02374	L-glutamate 5-semialdehyde dehydratase (spontaneous)	None
+rxn10772	NH4OH dissociation	None
+rxn13796	unknown enzyme	None
+ATPM	ATP maintenance requirement	None
+rxn00222	beta-D-Glucoside glucohydrolase	Carbohydrate Metabolism
+rxn11546	hydrogen cyanide synthase	Cyanoamino acid metabolism
+rxn13790	2-dehydro-D-gluconate reductase extracellular (NADPH) (irreversible)	Pentose phosphate pathway
+rxn01475	PGLCNDH	Pentose phosphate pathway
+rxn13834	glucose 1-dehydrogenase (NADP) extracellular	Pentose phosphate pathway
+rxn07967	2-dehydro-D-gluconate reductase (NADH)	Pentose phosphate pathway
+rxn03884	2-dehydro-3-deoxy-phosphogluconate aldolase	Pentose phosphate pathway
+rxn13836	Gluconolactonase	Pentose phosphate pathway
+rxn00777	ribose-5-phosphate isomerase	Pentose phosphate pathway
+rxn01200	transketolase	Pentose phosphate pathway
+rxn00785	Transketolase	Pentose phosphate pathway
+rxn01116	Ribulose 5-phosphate 3-epimerase	Pentose phosphate pathway
+rxn01987	Deoxyribokinase	Pentose phosphate pathway
+rxn00772	ribokinase	Pentose phosphate pathway
+rxn01921	Dehydrogluconokinase	Pentose phosphate pathway
+rJB00278	quinoprotein glucose dehydrogenase	Pentose phosphate pathway
+rxn01275	Gluconokinase	Pentose phosphate pathway
+rxn01333	transaldolase	Pentose phosphate pathway
+rxn01476	6-phosphogluconolactonase	Pentose phosphate pathway
+rxn01477	6-phosphogluconate dehydratase	Pentose phosphate pathway
+rxn00770	phosphoribosylpyrophosphate synthetase	Pentose phosphate pathway
+rxn01977	Glucose-6-phosphate isomerase	Pentose phosphate pathway
+rxn01790	2-dehydropantoate 2-reductase	Pantothenate and CoA biosynthesis
+rxn02186	acetohydroxy acid isomeroreductase	Pantothenate and CoA biosynthesis
+rxn00003	acetolactate synthase (Also catalyzes ACHBS)	Pantothenate and CoA biosynthesis
+rxn00898	dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)	Pantothenate and CoA biosynthesis
+rxn09889	dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)	Pantothenate and CoA biosynthesis
+rxn02175	Pantetheine-phosphate adenylyltransferase	Pantothenate and CoA biosynthesis
+rxn01626	DHPM1	Pantothenate and CoA biosynthesis
+rxn12510	Pantothenate kinase	Pantothenate and CoA biosynthesis
+rxn06023	acyl-carrier protein synthase	Pantothenate and CoA biosynthesis
+rxn00100	Dephospho-CoA kinase	Pantothenate and CoA biosynthesis
+rxn00912	3-methyl-2-oxobutanoate hydroxymethyltransferase	Pantothenate and CoA biosynthesis
+rxn01791	Pantothenate synthase	Pantothenate and CoA biosynthesis
+rxn09177	Phosphopantothenate-cysteine ligase	Pantothenate and CoA biosynthesis
+rxn02341	Phosphopantothenoylcysteine decarboxylase	Pantothenate and CoA biosynthesis
+rxn02900	2-aminoethylphosphonate:pyruvate aminotransferase	Phosphonate and phosphinate metabolism
+rxn00537	2-phosphonoacetaldehyde hydrolase	Phosphonate and phosphinate metabolism
+rxn02749	(R)-2-Methylmalate hydro-lyase	Valine, Leucine and Isoleucine Metabolism
+rxn02751	2-methylmaleate hydratase	Valine, Leucine and Isoleucine Metabolism
+rxn00735	(2R,3S)-3-methylmalate:NAD+ oxidoreductase	Valine, Leucine and Isoleucine Metabolism
+rxn03062	3-isopropylmalate dehydrogenase	Valine, Leucine and Isoleucine Metabolism
+rxn01208	2-Oxo-4-methyl-3-carboxypentanoate decarboxylation	Valine, Leucine and Isoleucine Metabolism
+rxn03436	(S)-2-Aceto-2-hydroxybutanoate:NADP+ oxidoreductase (isomerizing)	Valine, Leucine and Isoleucine Metabolism
+rxn03435	(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase (isomerizing)	Valine, Leucine and Isoleucine Metabolism
+rxn02187	2-Acetolactate methylmutase	Valine, Leucine and Isoleucine Metabolism
+rxn03068	(R)-2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)	Valine, Leucine and Isoleucine Metabolism
+rxn03437	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)	Valine, Leucine and Isoleucine Metabolism
+rxn00804	L-leucine:NAD+ oxidoreductase (deaminating)	Valine, Leucine and Isoleucine Metabolism
+rxn01573	L-Isoleucine:NAD+ oxidoreductase(deaminating)	Valine, Leucine and Isoleucine Metabolism
+rxn00904	L-Valine:pyruvate aminotransferase	Valine, Leucine and Isoleucine Metabolism
+rxn03253	Acyl-CoA dehydrogenase (decanoyl-CoA)	Fatty acid metabolism
+rxn02720	Acyl-CoA dehydrogenase (dodecanoyl-CoA)	Fatty acid metabolism
+rxn00946	Acyl-CoA dehydrogenase (hexadecanoyl-CoA)	Fatty acid metabolism
+rxn02679	Acyl-CoA dehydrogenase (octanoyl-CoA)	Fatty acid metabolism
+rxn02803	Acyl-CoA dehydrogenase (tetradecanoyl-CoA)	Fatty acid metabolism
+rxn03251	Acyl-CoA dehydrogenase (hexanoyl-CoA)	Fatty acid metabolism
+rxn00872	Acyl-CoA dehydrogenase (butanoyl-CoA)	Fatty acid metabolism
+rxn01451	3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA)	Fatty acid metabolism
+rxn03242	3-hydroxyacyl-CoA dehydrogenase (3-oxododecanoyl-CoA)	Fatty acid metabolism
+rxn03239	3-hydroxyacyl-CoA dehydrogenase (3-oxohexadecanoyl-CoA)	Fatty acid metabolism
+rxn06777	3-hydroxyacyl-CoA dehydrogenase (3-oxotetradecanoyl-CoA)	Fatty acid metabolism
+rxn03244	3-hydroxyacyl-CoA dehydrogenase (3-oxodecanoyl-CoA)	Fatty acid metabolism
+rxn03249	3-hydroxyacyl-CoA dehydrogenase (3-oxohexanoyl-CoA)	Fatty acid metabolism
+rxn03246	3-hydroxyacyl-CoA dehydrogenase (3-oxooctanoyl-CoA)	Fatty acid metabolism
+rxn13844	(3R)-3-Hydroxyoctadecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	Fatty acid metabolism
+rxn08398	Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:1)	Fatty acid metabolism
+rxn01802	GLUTCOADHc	Fatty acid metabolism
+rxn03243	Acetyl-CoA C-acyltransferase (decanoyl-CoA) (r)	Fatty acid metabolism
+rxn03248	Acetyl-CoA C-acyltransferase (hexanoyl-CoA) (r)	Fatty acid metabolism
+rxn06510	Acetyl-CoA C-acyltransferase (dodecanoyl-CoA) (r)	Fatty acid metabolism
+rxn02804	Acetyl-CoA C-acyltransferase (tetradecanoyl-CoA) (r)	Fatty acid metabolism
+rxn02680	Acetyl-CoA C-acyltransferase (octanoyl-CoA) (r)	Fatty acid metabolism
+rxn05247	FACOAL140(ISO)	Fatty acid metabolism
+rxn05248	FACOAL150(anteiso)	Fatty acid metabolism
+rxn05249	FACOAL150(ISO)	Fatty acid metabolism
+rxn05250	FACOAL160(ISO)	Fatty acid metabolism
+rxn05251	FACOAL170(anteiso)	Fatty acid metabolism
+rxn05252	FACOAL170(ISO)	Fatty acid metabolism
+rxn09450	Fatty acid  CoA ligase  hexadecenoate 	Fatty acid metabolism
+rxn09449	Fatty acid  CoA ligase  octadecanoate 	Fatty acid metabolism
+rxn09448	Fatty acid  CoA ligase  octadecenoate 	Fatty acid metabolism
+rxn05736	Fatty acid  CoA ligase  tetradecanoate 	Fatty acid metabolism
+rxn00947	Fatty acid  CoA ligase  hexadecanoate 	Fatty acid metabolism
+rxn02911	3-hydroxyacyl-CoA dehydratase (3-hydroxydodecanoyl-CoA)	Fatty acid metabolism
+rxn03240	3-hydroxyacyl-CoA dehydratase (3-hydroxyhexadecanoyl-CoA)	Fatty acid metabolism
+rxn03241	3-hydroxyacyl-CoA dehydratase (3-hydroxytetradecanoyl-CoA)	Fatty acid metabolism
+rxn03245	3-hydroxyacyl-CoA dehydratase (3-hydroxydecanoyl-CoA)	Fatty acid metabolism
+rxn03250	3-hydroxyacyl-CoA dehydratase (3-hydroxyhexanoyl-CoA)	Fatty acid metabolism
+rxn03247	3-hydroxyacyl-CoA dehydratase (3-hydroxyoctanoyl-CoA)	Fatty acid metabolism
+rxn00874	Acetyl-CoA C-acyltransferase (butanoyl-CoA) (r)	Fatty acid metabolism
+rxn10126	Succinate dehyrdogenase	Oxidative phosphorylation
+rxn13726	NADH dehydrogenase (ubiquinone-8 &amp; 5 protons)	Oxidative phosphorylation
+rJB00264	NADH dehydrogenase (ubiquinone-9 &amp; 5 protons)	Oxidative phosphorylation
+rxn10122	NADH dehydrogenase (ubiquinone-8 &amp; 3.5 protons)	Oxidative phosphorylation
+rxn08975	NADH dehydrogenase (ubiquinone-8 )	Oxidative phosphorylation
+rJB00263	NADH dehydrogenase (ubiquinone-9 )	Oxidative phosphorylation
+rxn13898	quinone oxidoreductase	Oxidative phosphorylation
+rxn13705	ferredoxin-NADP reductase	Oxidative phosphorylation
+rxn08977	NADPH Quinone Reductase (Ubiquinone-8)	Oxidative phosphorylation
+rxn36840	NADPH quinone oxidoreductase	Oxidative phosphorylation
+rxn10113	Cytochrome oxidase bo3 (ubiquinol-8: 2.5 protons)	Oxidative phosphorylation
+rJB00267	cytochrome oxidase bo3 (ubiquinol-9: 2.5 protons)	Oxidative phosphorylation
+rxn08556	Glycerol-3-phosphate dehydrogenase (ubiquinone-8)	Oxidative phosphorylation
+rxn37440	glycerol-3-phosphate dehydrogenase (ubiquinone-9)	Oxidative phosphorylation
+rxn13689	cytochrome-c reductase (ubiquinone)	Oxidative phosphorylation
+rJB00271	cytochrome-c reductase (ubiquinone)	Oxidative phosphorylation
+rxn10042	ATP synthase (four protons for one ATP)	Oxidative phosphorylation
+rxn00001	Inorganic diphosphatase	Oxidative phosphorylation
+rxn00014	CCP	Oxidative phosphorylation
+rxn03897	BZ12DOX	Benzoate degradation
+rxn00962	4-hydroxybenzoate 3-monooxygenase	Benzoate degradation
+rxn01192	PCADYOX	Benzoate degradation
+rxn02483	CMLDC	Benzoate degradation
+rxn02143	3-oxoadipate CoA-transferase	Benzoate degradation
+rxn00598	3-oxoadipyl-CoA thiolase	Benzoate degradation
+rxn02369	3-carboxy-cis,cis-muconate cycloisomerase	Benzoate degradation
+rxn02144	OXOAEL	Benzoate degradation
+rxn00588	CATDOX	Benzoate degradation
+rxn02971	Muconolactone delta-isomerase	Benzoate degradation
+rxn02782	Muconate cycloisomerase	Benzoate degradation
+rxn10125	NAD(P) transhydrogenase	Nicotinate and nicotinamide metabolism
+rxn13812	L-aspartate oxidase	Nicotinate and nicotinamide metabolism
+rxn00338	L-aspartate oxidase	Nicotinate and nicotinamide metabolism
+rxn00083	NAD transhydrogenase	Nicotinate and nicotinamide metabolism
+rxn00077	NAD kinase	Nicotinate and nicotinamide metabolism
+rxn00105	Nicotinamide-nucleotide adenylyltransferase	Nicotinate and nicotinamide metabolism
+rxn13859	NAPRTase	Nicotinate and nicotinamide metabolism
+rxn02988	Quinolinate synthase	Nicotinate and nicotinamide metabolism
+rxn02155	Nicotinate-nucleotide adenylyltransferase	Nicotinate and nicotinamide metabolism
+rxn02402	Nicotinate-nucleotide diphosphorylase (carboxylating)	Nicotinate and nicotinamide metabolism
+rxn05570	gamma-butyrobetaine transport in via ABC system	Transport
+rxn05159	Choline transport via ABC system	Transport
+rxn05180	L-carnitine transport via ABC system	Transport
+rxn10073	proline betaine transport in via ABC system	Transport
+rxn05175	Spermidine transport via ABC system	Transport
+rxn05619	Molybdate transport via ABC system	Transport
+rxn05163	Putrescine transport via ABC system	Transport
+rxn10158	Fumarate transport via proton symport (3 H)	Transport
+rxn05603	D-malate transport in via proton symport	Transport
+rxn05154	L-arginine transport via ABC system	Transport
+rxn05161	L-leucine transport via ABC system	Transport
+rxn05168	L-valine transport via ABC system	Transport
+rxn05155	GLNabc	Transport
+rxn05201	Hypoxanthine reversible transport via proton symport	Transport
+rxn05512	butanesulfonate transport via ABC system	Transport
+rxn05156	Ornithine transport via ABC system	Transport
+rxn05164	L-histidine transport via ABC system	Transport
+rxn13828	fatty-acid--CoA ligase (n-C14:0) transport	Transport
+rxn13829	fatty-acid--CoA ligase (hexadecanoate) transport	Transport
+rxn13892	phosphonate transport via ABC system	Transport
+rxn10481	Cuabc	Transport
+rxn10344	Lead (Pb+2) ABC transporter	Transport
+rxn10343	Mercury (Hg+2) ABC transporter	Transport
+rxn05206	Potassium uptake	Transport
+rxn05165	L-proline transport via ABC system	Transport
+rxn05181	Glycine betaine transport via ABC system	Transport
+rxn10978	orotate efflux via proton symport	Transport
+rxn13831	iron (II) transport via ABC system	Transport
+rxn05651	SO4t2	Transport
+rxn05564	4 aminobutyrate reversible transport in via proton symport	Transport
+rxn12432	malonate transport	Transport
+rxn05176	TSULabc	Transport
+rxn05153	Sulfate transport via ABC system	Transport
+rxn05237	L-cysteine transport via ABC system	Transport
+rxn11080	L-cystine transport via ABC system	Transport
+rxn09657	Thiamine transport in via proton symport	Transport
+rxn05202	Xanthine transport in via proton symport	Transport
+rxn05682	allantoin transport in/out via proton symport	Transport
+rxn05312	Phosphate reversible transport via symport	Transport
+rxn05527	Cytosine transport in via proton symport	Transport
+rxn05318	Adenosine transport in via proton symport	Transport
+rxn05198	Cytidine transport in via proton symport	Transport
+rxn05317	Deoxyadenosine transport in via proton symport	Transport
+rxn05205	Deoxycytidine transport in via proton symport	Transport
+rxn05316	Inosine transport in via proton symport	Transport
+rxn05200	Thymidine transport in via proton symport	Transport
+rxn05199	Uridine transport in via proton symport	Transport
+rxn09688	Deoxyguanosine transport in via proton symport	Transport
+rxn09687	Deoxyinosine transport in via proton symport	Transport
+rxn09685	Deoxyuridine transport in via proton symport	Transport
+rxn05663	L tryptophan reversible transport via proton symport	Transport
+rxn12562	Itaconate transporter	Transport
+rJB00237	Sodium-citraconate symporter (dctA and dctPQM)	Transport
+rJB00240	Sodium-fumarate symporter (dctA and dctPQM)	Transport
+rxn05207	Sodium-malate symporter (dctA and dctPQM)	Transport
+rJB00238	Sodium-succinate symporter (dctA and dctPQM)	Transport
+rxn05179	L-isoleucine transport via ABC system	Transport
+rxn13794	4-Aminobutyrate transport via ABC system	Transport
+rxn10170	L-alanine transport via ABC system	Transport
+rxn05169	L-threonine transport via ABC system	Transport
+rxn05561	Fumarate reversible transport via symport	Transport
+rxn10154	Succinate transport via proton symport (2 H)	Transport
+rxn05315	ZN2t4	Transport
+rxn05152	L-aspartate transport via ABC system	Transport
+rxn05146	L-glutamate transport via ABC system	Transport
+rxn05197	Uracil transport in via proton symport	Transport
+rxn10168	Potassium ABC transporter	Transport
+rxn13886	peptide transport in via ABC transport	Transport
+rxn05160	D-ribose transport via ABC system	Transport
+rxn05549	Deoxyribose transport via ABC system	Transport
+rxn05644	D-ribose transport out via ABC system	Transport
+rxn05167	XYLabc	Transport
+rxn05173	ARBabc	Transport
+rxn05649	DSERt2	Transport
+rxn05307	L serine reversible transport via proton symport	Transport
+rxn05300	L threonine reversible transport via proton symport	Transport
+rxn13811	ascorbate transport in via proton symport	Transport
+rxn05171	nitrate transport via ABC system	Transport
+rxn13853	D-mannitol transport via ABC system	Transport
+rxn13849	D-mannose transport via ABC system	Transport
+rxn05608	Maltotriose transport via ABC system	Transport
+rJB00222	Sorbitol-ABC transport	Transport
+rxn05614	L methionine R oxide transport via ABC system	Transport
+rxn05613	L methionine S oxide transport via ABC system	Transport
+rxn05149	Manganese transport via ABC system	Transport
+rxn12549	4-Hydroxybenzoate transport	Transport
+rxn13814	cadmium transport out via antiport	Transport
+rxn13681	cobalt transport out via antiport	Transport
+rxn13919	zinc transport out via antiport	Transport
+rxn05187	Vitamin B12 ABC transport	Transport
+rxn05151	L-lysine transport via ABC system	Transport
+rxn10174	Maltohexaose transport via ABC system	Transport
+rxn05158	Sn-Glycerol 3-phosphate transport via ABC system	Transport
+rxn05147	GLCabc	Transport
+rxn05552	ethanesulfonate transport via ABC system	Transport
+rxn05585	hexanesulfonate transport via ABC system	Transport
+rxn05621	methanesulfonate transport via ABC system	Transport
+rxn05620	MOPS transport via ABC system	Transport
+rxn05656	sulfoacetate transport via ABC system	Transport
+rxn05215	ALAt4	Transport
+rJB00225	D-Fructose transport via PEP:Pyr PTS	Transport
+rxn05560	D-fructose transport via PEP:Pyr PTS	Transport
+rxn05528	Copper export via ATPase	Transport
+rxn05485	N-Acetyl-D-glucosamine transport via PEP:Pyr PTS	Transport
+rxn05626	nitrite transport out via proton antiport	Transport
+rxn05209	Sodium proton antiporter  HNA is 11 	Transport
+rxn05582	Glycine reversible transport via proton symport	Transport
+rxn05172	Taurine transport via ABC system	Transport
+rxn10559	4-Hydroxyphenylacetate transport	Transport
+rxn12591	Tartrate permease	Transport
+rxn05190	Ferroxamine transport via ABC system	Transport
+rxn05174	Nickel transport via ABC system	Transport
+rxn05533	Dipeptide transport via ABC system  ala asp 	Transport
+rxn05540	Dipeptide transport via ABC system  ala gln 	Transport
+rxn05541	Dipeptide transport via ABC system  ala glu 	Transport
+rxn05542	Dipeptide transport via ABC system  ala gly 	Transport
+rxn05543	Dipeptide transport via ABC system  ala his 	Transport
+rxn05544	Dipeptide transport via ABC system  ala leu 	Transport
+rxn05545	Dipeptide transport via ABC system  ala thr 	Transport
+rxn05539	Dipeptide transport via ABC system  cgly 	Transport
+rxn05546	Dipeptide transport via ABC system  gly asn 	Transport
+rxn05537	Dipeptide transport via ABC system  gly asp 	Transport
+rxn05547	Dipeptide transport via ABC system  gly gln 	Transport
+rxn05534	Dipeptide transport via ABC system  gly glu 	Transport
+rxn05535	Dipeptide transport via ABC system  gly met 	Transport
+rxn05538	Dipeptide transport via ABC system  gly pro L 	Transport
+rxn05536	Dipeptide transport via ABC system  met ala 	Transport
+rxn12848	Gly-Cys ABC transporters	Transport
+rxn12849	Gly-Leu ABC transporters	Transport
+rxn12850	Gly-Phe ABC transporters	Transport
+rxn12851	Gly-Try ABC transporters	Transport
+rJB00232	trans-4-Hydroxy-L-proline-ABC transport	Transport
+rxn05195	FE3abc	Transport
+rxn05466	Ammonia reversible transport	Transport
+rxn09692	Choline transport via proton symport	Transport
+rxn05145	Phosphate transport via ABC system	Transport
+rxn10196	Teichoic acid (D-alanine substituted) export	Transport
+rxn10195	Teichoic acid (glucose substituted) export	Transport
+rxn10194	Teichoic acid (unsubstituted) export	Transport
+rxn05605	L malate reversible transport via proton symport	Transport
+rxn05654	Succinate transport via proton symport	Transport
+rxn05150	Zinc transport via ABC system	Transport
+rxn13918	zinc transport out via ABC system	Transport
+rxn05183	D-methionine transport via ABC system	Transport
+rxn05219	L-methionine transport via ABC system	Transport
+rxn13865	2-oxohexanedioic acid transport in via proton symport	Transport
+rxn05673	D-galacturonate transport via proton symport, reversible	Transport
+rxn05574	D-glucuronate transport via proton symport, reversible	Transport
+rxn10132	Cyanate transport via proton symport	Transport
+rxn05508	L asparagine reversible transport via proton symport	Transport
+rxn11268	phosphate ABC transporter permease protein	Transport
+rxn12788	cis-Aconitate porin opdH	Transport
+rxn05221	Na+/Proline-L symporter	Transport
+rxn10474	COBALTt5	Transport
+rxn13854	muconate transport in via proton symport	Transport
+rxn05517	cadminum transport out via antiport	Transport
+rxn05305	LYSt3r	Transport
+rxn09653	Urea reversible transport via proton symport  2 H 	Transport
+rxn05241	ILEt4	Transport
+rxn05240	LEUt4	Transport
+rxn05242	VALt4	Transport
+rxn05627	nitrate transport in via proton symport	Transport
+rxn13809	Arginine:Agmatine antiporter	Transport
+rxn05687	PTRCt2	Transport
+rxn10182	Putrescine/ornithine antiporter	Transport
+rxn09660	SPMDt2	Transport
+rxn05244	L isoleucine reversible transport via proton symport	Transport
+rxn05243	L leucine reversible transport via proton symport	Transport
+rxn05484	ACACt2	Transport
+rxn05683	Butyrate transport via proton symport, reversible	Transport
+rxn12405	transport of (r)-3-hydroxybutanoate [extraorganism-cytosol](passive)	Transport
+rxn10160	D-galactonate transport via proton symport, reversible	Transport
+rxn05565	Galactarate transport in via proton symport	Transport
+rxn05572	D-glucarate transport via proton symport, reversible	Transport
+rxn10537	GLYt4	Transport
+rxn13791	2-dehydro-D-gluconate transport (irreversible)	Transport
+rxn05571	D gluconate transport via proton symport	Transport
+rxn10974	Tyrosine porin opdT	Transport
+rxn05559	Formate transport in via proton symport	Transport
+rxn13800	Aerobactin transport via ABC system	Transport
+rxn05188	Ferrichrome transport via ABC system	Transport
+rxn05306	L phenylalanine reversible transport via proton symport	Transport
+rxn05672	D-glutamate transport in via proton symport	Transport
+rxn05298	Na+/glutamate symport	Transport
+rxn05595	Potassium reversible transport  via proton symport	Transport
+rxn09171	Sodium-propionate symporter	Transport
+rxn13920	Alginate production outer membrane protein	Transport
+rxn05581	Glycerol transport via channel	Transport
+rxn05516	CD2abc1	Transport
+rxn02005	Trehalose transport via PEP:Pyr PTS	Transport
+rxn05301	L tyrosine reversible transport via proton symport	Transport
+rxn10144	ASNabc	Transport
+rxn05625	Nitrite transport in via proton symport, reversible	Transport
+rxn05557	FEDCabc	Transport
+rxn05551	ETHAt6	Transport
+rxn05515	Cobalamin uptake in via ABC transport	Transport
+rJB00223	D-L-Inositol-ABC transport	Transport
+rxn05526	chromate transport out via proton antiport	Transport
+rxn05618	Manganese transport in via proton symport	Transport
+rxn10963	Iron  II  transport	Transport
+rJB00241	Pyroglutamate porin	Transport
+rxn09674	L lysine reversible transport via proton symport	Transport
+rxn10171	D-Lactate permease	Transport
+rxn05470	Glycolate transport via proton symport, reversible	Transport
+rxn05602	L lactate reversible transport via proton symport	Transport
+rxn10571	Magnesium transport via ABC system	Transport
+rxn05616	MGt5	Transport
+rxn05157	Urea transport via ABC system	Transport
+rxn05299	L histidine reversible transport via proton symport	Transport
+rxn05494	D-alanine transport via proton symport	Transport
+rxn12604	Urocanate transporter	Transport
+rxn10131	Arginine/ornithine antiporter	Transport
+rxn10165	Glycerol-3-phosphate : phosphate antiporter	Transport
+rxn10581	NIt5	Transport
+rxn08262	Carnitine transporter	Transport
+rxn05638	L proline reversible transport via proton symport	Transport
+rxn05214	citrate transport in via Mg complex	Transport
+rxn05211	Citrate reversible transport via symport	Transport
+rxn10151	Aspartate transport via proton symport (2 H)	Transport
+rxn05217	L aspartate reversible transport via proton symport	Transport
+rxn05297	L glutamate transport via proton symport  reversible	Transport
+rxn13832	N-formyl-L-methionine transport via ABC system	Transport
+rxn05493	2 oxoglutarate reversible transport via symport	Transport
+rxn05467	CO2 transporter via diffusion	Transport
+rxn05319	H2O transport via diffusion	Transport
+rxn10577	N2tr	Transport
+rxn05468	O2 transport  diffusion 	Transport
+rxn13799	5mta transport irreversible, extracellular	Transport
+rxn05488	Acetate reversible transport via proton symport	Transport
+rxn05495	BALAt2r	Transport
+rxn05511	Butanediol transport in/out via proton symport	Transport
+rxn13822	deoxyadenosine transport	Transport
+rxn09683	Ethanol reversible transport	Transport
+rxn13837	glutarate transport via h+ symport	Transport
+rxn09680	Glycoaldehydye reversible transport	Transport
+rxn13924	PQS release	Transport
+rxn05469	Pyruvate transport in via proton symport	Transport
+rJB00285	cis-2-Decenoic acid(DSF) release	Transport
+rxn00686	Dihydrofolate reductase	Folate biosynthesis
+rxn01314	NADPH:6,7-dihydropteridine oxidoreductase	Folate biosynthesis
+rxn02503	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	Folate biosynthesis
+rxn00299	GTP cyclohydrolase I	Folate biosynthesis
+rxn02504	DHNPA	Folate biosynthesis
+rxn03236	4a-hydroxytetrahydrobiopterin dehydratase;	Folate biosynthesis
+rxn04989	phenylalanine 4-monooxygenase	Folate biosynthesis
+rxn01257	4-amino-4-deoxychorismate synthase	Folate biosynthesis
+rxn02986	6-pyruvoyltetrahydropterin synthase	Folate biosynthesis
+rxn03841	4-aminobenzoate synthase	Folate biosynthesis
+rxn01603	Dihydrofolate synthase	Folate biosynthesis
+rxn00689	Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)	Folate biosynthesis
+rxn03167	Alkaline phosphatase  Dihydroneopterin 	Folate biosynthesis
+rxn01521	5&apos;-nucleotidase (dUMP)	Folate biosynthesis
+rxn02201	FOLD3	Folate biosynthesis
+rxn01732	Itaconyl-CoA synthetase	Carbon Metabolism
+rxn01805	Itaconyl-CoA hydratase	Carbon Metabolism
+rxn01734	Succinyl-CoA:itaconate-CoA transferase	Carbon Metabolism
+rxn00177	Citramalyl-CoA lyase	Carbon Metabolism
+rPY00172	Phosphatidylglycerol synthase (n-C16:0 16:1)	Glycerolipid synthesis
+rPY00175	Phosphatidylglycerol synthase (n-C18:0 18:1)	Glycerolipid synthesis
+rPY00173	phosphatidylglycerol phosphate phosphatase (n-C16:0 16:1)	Glycerolipid synthesis
+rPY00176	phosphatidylglycerol phosphate phosphatase (n-C18:0 18:1)	Glycerolipid synthesis
+rPY00182	Cyclopropanation Cardiolipin(n-C19:0cyc)	Glycerolipid synthesis
+rPY00180	S-adenosylmethionine decarboxylase proenzyme	Glycerolipid synthesis
+rPY00166	S-Adenosylmethionine decarboxylase proenzyme (PE170cyc)	Glycerolipid synthesis
+rPY00171	S-Adenosylmethionine decarboxylase proenzyme (PE190cyc)	Glycerolipid synthesis
+rPY00174	S-Adenosylmethionine decarboxylase proenzyme (PG170cyc)	Glycerolipid synthesis
+rPY00177	S-Adenosylmethionine decarboxylase proenzyme (PG190cyc)	Glycerolipid synthesis
+rxn03910	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	Biosynthesis of steroids
+rxn03907	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	Biosynthesis of steroids
+rxn03909	1-deoxy-D-xylulose 5-phosphate synthase	Biosynthesis of steroids
+rxn03908	4-(cytidine 5&apos;-diphospho)-2-C-methyl-D-erythritol kinase	Biosynthesis of steroids
+rxn13795	3-aminopropanaldehyde dehydrogenase	beta-Alanine metabolism
+rxn00346	Aspartate 1-decarboxylase	beta-Alanine metabolism
+rxn02250	1,3-diaminopropane oxidase	beta-Alanine metabolism
+rxn13904	rhamnosyltransferase 2	Rhamnolipid synthesis
+rxn13903	rhamnosyltransferase chain B	Rhamnolipid synthesis
+rxn13902	rhamnosyltransferase chain A	Rhamnolipid synthesis
+rxn11245	3-isopropylmalate dehydrogenase 2	Valine, leucine and isoleucine biosynthesis
+rxn09896	isoleucine dehydrogenase	Valine, leucine and isoleucine biosynthesis
+rxn01045	valine dehydrogenase	Valine, leucine and isoleucine biosynthesis
+rxn08764	Ketol-acid reductoisomerase (2-Acetolactate)	Valine, leucine and isoleucine biosynthesis
+rxn00902	2-isopropylmalate synthase	Valine, leucine and isoleucine biosynthesis
+rxn02789	2-isopropylmalate hydratase	Valine, leucine and isoleucine biosynthesis
+rxn02811	3-isopropylmalate dehydratase	Valine, leucine and isoleucine biosynthesis
+rxn00737	L-threonine deaminase	Valine, leucine and isoleucine biosynthesis
+rxn01331	Erythrose 4-phosphate dehydrogenase	Vitamin B6 metabolism
+rxn03951	NAD-dependent threonine 4-phosphate dehydrogenase	Vitamin B6 metabolism
+rxn02939	Erythronate 4-phosphate (4per) dehydrogenase	Vitamin B6 metabolism
+rxn13803	Glutamine transaminase	Vitamin B6 metabolism
+rxn09566	Pyridoxal oxidase	Vitamin B6 metabolism
+rxn00208	pyridoxamine-phosphate oxidase	Vitamin B6 metabolism
+rxn01252	Pyridoxine oxidase	Vitamin B6 metabolism
+rxn00209	Pyridoxine 5&apos;-phosphate oxidase	Vitamin B6 metabolism
+rxn03445	O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase	Vitamin B6 metabolism
+rxn01398	Pyridoxine 5-phosphate phosphatase	Vitamin B6 metabolism
+rxn03446	4-Hydroxy-L-threonine synthase	Vitamin B6 metabolism
+rxn00124	Pyridoxal kinase	Vitamin B6 metabolism
+rxn01807	Pyridoxamine kinase	Vitamin B6 metabolism
+rxn01396	Pyridoxine kinase	Vitamin B6 metabolism
+rxn03900	undecaprenol kinase	Peptidoglycan biosynthesis
+rxn03901	Undecaprenyl-diphosphatase	Peptidoglycan biosynthesis
+rxn10199	Peptidoglycan subunit synthesis	Peptidoglycan biosynthesis
+rxn03408	UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	Peptidoglycan biosynthesis
+rxn02008	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase	Peptidoglycan biosynthesis
+rxn03904	Phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)	Peptidoglycan biosynthesis
+rxn02011	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase	Peptidoglycan biosynthesis
+rxn10076	PPTGS	Peptidoglycan biosynthesis
+PA14_Biomass	P. aeruginosa PA14 biomass	Biomass
+rxn02003	DTDP-4-dehydrorhamnose reductase	Streptomycin biosynthesis
+rxn01997	DTDPglucose 4,6-dehydratase	Streptomycin biosynthesis
+rxn02000	DTDP-4-dehydrorhamnose 3,5-epimerase	Streptomycin biosynthesis
+rxn00085	Glutamate synthase (NADPH)	Glutamate metabolism
+rxn00190	Nicotinate-mononucleotide adenylyltransferase	Glutamate metabolism
+rxn00187	glutamine synthetase	Glutamate metabolism
+rxn00414	Carbamoyl-phosphate synthase (glutamine-hydrolysing)	Glutamate metabolism
+rxn00790	Glutamine phosphoribosyldiphosphate amidotransferase	Glutamate metabolism
+rxn06937	Glutamyl-tRNA synthetase	Glutamate metabolism
+rxn00260	Aspartate transaminase	Glutamate metabolism
+rxn00555	Glutamine-fructose-6-phosphate transaminase	Glutamate metabolism
+rxn13925	probable FAD-dependent monooxygenase	Quorum sensing
+rxn13841	HHQ synthesis	Quorum sensing
+rxn13855	N-(3-oxo-dodecanoyl)-L-homoserine lactone synthase	Quorum sensing
+rxn13797	3-oxo-C12-homoserine lactone acylase	Quorum sensing
+rxn13813	C4-homoserine lactone acylase	Quorum sensing
+rxn13860	N-butyryl-L-homoserine lactone synthase	Quorum sensing
+rJB00283	cis-2-Decenoic acid(DSF) synthase	Quorum sensing
+rJB00284	cis-2-Decenoic acid(DSF) synthase	Quorum sensing
+rxn02474	5-amino-6-(5-phosphoribosylamino)uracil reductase	Riboflavin metabolism
+rxn00122	FMN adenylyltransferase	Riboflavin metabolism
+rxn00300	GTP cyclohydrolase II (25drapp)	Riboflavin metabolism
+rxn00048	riboflavin synthase	Riboflavin metabolism
+rxn05039	pyrimidine phosphatase	Riboflavin metabolism
+rxn03080	riboflavin synthase	Riboflavin metabolism
+rxn13905	3,4 Dihydroxy-2-butanone-4-phosphate synthase	Riboflavin metabolism
+rxn02475	diaminohydroxyphosphoribosylaminopyrimidine deaminase	Riboflavin metabolism
+rxn00392	Riboflavin kinase	Riboflavin metabolism
+rxn01740	Shikimate dehydrogenase	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn01268	Prephenate dehydrogenase	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn00727	Anthranilate synthase	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn01964	tryptophan synthase (indoleglycerol phosphate)	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn00493	Phenylalanine transaminase	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn01332	3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn02213	3-dehydroquinate dehydratase, irreversible	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn00791	Anthranilate phosphoribosyltransferase	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn02507	indole-3-glycerol-phosphate synthase	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn01255	Chorismate synthase	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn02508	Phosphoribosylanthranilate isomerase	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn02476	3-phosphoshikimate 1-carboxyvinyltransferase	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn01256	Chorismate mutase	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn01000	Prephenate dehydratase	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn02212	3-dehydroquinate synthase	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn01739	Shikimate kinase	Phenylalanine, tyrosine and tryptophan biosynthesis
+rxn21407	pyochelin synthase complex	Biosynthesis of siderophore group nonribosomal peptides
+rxn42682	L-ornithine 5-monooxygenase	Biosynthesis of siderophore group nonribosomal peptides
+rxn02177	isochorismatase	Biosynthesis of siderophore group nonribosomal peptides
+rPY00218	ferribactin synthase complex	Biosynthesis of siderophore group nonribosomal peptides
+rxn13827	enterochelin synthase	Biosynthesis of siderophore group nonribosomal peptides
+rPY00217	hydroxy-L-ornithine formylase	Biosynthesis of siderophore group nonribosomal peptides
+rxn04454	isochorismate pyruvate lyase	Biosynthesis of siderophore group nonribosomal peptides
+rPY00219	maturation of pyoverdine I	Biosynthesis of siderophore group nonribosomal peptides
+rxn01093	2,3-dihydroxybenzoate adenylate synthase	Biosynthesis of siderophore group nonribosomal peptides
+rJB00282	Dha production from EPch-like siderophore synthase complex	Biosynthesis of siderophore group nonribosomal peptides
+rxn13787	pyocyanin synthesis	Phenazine biosynthesis
+rxn13896	pyocyanin synthesis	Phenazine biosynthesis
+rxn13885	phenazine-1-carboxylic acid synthesis, step 3	Phenazine biosynthesis
+rxn13823	phenazine-1-carboxylic acid synthesis, step 2	Phenazine biosynthesis
+rxn13801	phenazine-1-carboxylic acid synthesis, step 1	Phenazine biosynthesis
+rxn08103	Alanine transaminase	Phenazine biosynthesis
+rxn13890	phenazine-1-carboxamide synthetase	Phenazine biosynthesis
+rxn13798	probable phenazine-specific methyltransferase	Phenazine biosynthesis
+rxn03532	precorrin-3B synthase	Porphyrin and chlorophyll metabolism
+rxn13839	hydrogenobyrinic acid a,c-diamide cobaltochelatase	Porphyrin and chlorophyll metabolism
+rxn13682	Oxygen Independent coproporphyrinogen-III oxidase	Porphyrin and chlorophyll metabolism
+rxn02774	Sirohydrochlorin dehydrogenase (NAD)	Porphyrin and chlorophyll metabolism
+rxn03492	PC6AR	Porphyrin and chlorophyll metabolism
+rxn06591	Glutamyl-tRNA reductase	Porphyrin and chlorophyll metabolism
+rxn01629	Glutamate-1-semialdehyde aminotransferase	Porphyrin and chlorophyll metabolism
+rxn02287	Uroporphyrinogen methyltransferase	Porphyrin and chlorophyll metabolism
+rxn03541	adenosylcobinamide-phosphate synthase	Porphyrin and chlorophyll metabolism
+rxn02303	Coproporphyrinogen oxidase (O2 required)	Porphyrin and chlorophyll metabolism
+rxn10090	Cobinamide adenyltransferase	Porphyrin and chlorophyll metabolism
+rxn11544	Hydrogenobyrinate a,c diamide synthase	Porphyrin and chlorophyll metabolism
+rxn03540	Adenosylcobyric acid synthase (glutamine-hydrolysing)	Porphyrin and chlorophyll metabolism
+rxn13861	nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase	Porphyrin and chlorophyll metabolism
+rxn08707	Heme O synthase  mitochondrial	Porphyrin and chlorophyll metabolism
+rxn12221	sirohydrochlorin ferrochetalase	Porphyrin and chlorophyll metabolism
+rxn03513	PC17M	Porphyrin and chlorophyll metabolism
+rxn02775	PC20M	Porphyrin and chlorophyll metabolism
+rxn03512	PC8XM	Porphyrin and chlorophyll metabolism
+rxn03491	PC6YM	Porphyrin and chlorophyll metabolism
+rxn03514	PC11M	Porphyrin and chlorophyll metabolism
+rxn12218	Heme B synthesis reaction	Porphyrin and chlorophyll metabolism
+rxn09179	Protoporphyrinogen oxidase (aerobic)	Porphyrin and chlorophyll metabolism
+rxn02288	Uroporphyrinogen decarboxylase (uroporphyrinogen III)	Porphyrin and chlorophyll metabolism
+rxn00029	Porphobilinogen synthase	Porphyrin and chlorophyll metabolism
+rxn02264	Uroporphyrinogen-III synthase	Porphyrin and chlorophyll metabolism
+rxn00060	hydroxymethylbilane synthase	Porphyrin and chlorophyll metabolism
+rxn13893	protoporphyrinogen oxidase anaerobic	Porphyrin and chlorophyll metabolism
+rxn01115	Phosphogluconate dehydrogenase	Glutathione metabolism
+rxn00086	Glutathione oxidoreductase	Glutathione metabolism
+rxn00198	Isocitrate dehydrogenase (NADP)	Glutathione metabolism
+rxn00470	ornithine decarboxylase	Glutathione metabolism
+rxn00351	Glutathione synthetase	Glutathione metabolism
+rxn01406	Spermidine synthase	Glutathione metabolism
+rxn00646	Gamma-glutamylcysteine synthetase	Glutathione metabolism
+rxn02842	DGC3D	Pentose and glucuronate interconversions
+rxn01199	Xylulokinase	Pentose and glucuronate interconversions
+rxn01297	Hypoxanthine dehydrogenase	Purine metabolism
+rxn01522	Xanthine dehydrogenase	Purine metabolism
+rxn00834	IMP dehydrogenase	Purine metabolism
+rxn03004	Phosphoribosylglycinamide formyltransferase	Purine metabolism
+rxn01352	Nucleoside triphosphate tripolyhydrolase	Purine metabolism
+rxn09016	Nucleoside triphosphate tripolyhydrolase	Purine metabolism
+rxn05231	Ribonucleoside-diphosphate reductase (ADP)	Purine metabolism
+rxn05233	Ribonucleoside-diphosphate reductase (GDP)	Purine metabolism
+rxn01225	guanine deaminase	Purine metabolism
+rxn13842	H+/K+-exchanging ATPase	Purine metabolism
+rxn00065	Adenylate cyclase	Purine metabolism
+rxn05229	NCAIR synthetase and NCAIR mutase	Purine metabolism
+rxn02938	Phosphoribosylaminoimidazole carboxylase	Purine metabolism
+rxn00927	Adenosine hydrolase	Purine metabolism
+rxn01299	Inosine hydrolase	Purine metabolism
+rxn00926	adenine deaminase	Purine metabolism
+rxn01137	Adenosine deaminase	Purine metabolism
+rxn01858	Deoxyadenosine deaminase	Purine metabolism
+rxn00095	Ap4A hydrolase	Purine metabolism
+rxn00303	GTP diphosphokinase	Purine metabolism
+rxn02937	Phosphoribosylaminoimidazole synthase	Purine metabolism
+rxn03147	phosphoribosylaminoimidazolesuccinocarboxamide synthase	Purine metabolism
+rxn00327	Ureidoglycolate hydrolase	Purine metabolism
+rxn01746	Allantoate amidinohydrolase  reversible	Purine metabolism
+rxn00139	Adenine phosphoribosyltransferase	Purine metabolism
+rxn05232	Ribonucleoside triphosphate reductase  ATP 	Purine metabolism
+rxn05235	Ribonucleoside triphosphate reductase  CTP 	Purine metabolism
+rxn05234	Ribonucleoside triphosphate reductase  GTP 	Purine metabolism
+rxn05236	Ribonucleoside triphosphate reductase  UTP 	Purine metabolism
+rxn00134	Adenosine kinase	Purine metabolism
+rxn09370	Uricase	Purine metabolism
+rxn03136	Adenylosuccinate lyase	Purine metabolism
+rxn00800	Adenylsuccinate lyase	Purine metabolism
+rxn00132	5&apos;-nucleotidase (AMP)	Purine metabolism
+rxn01507	5&apos;-nucleotidase (dAMP)	Purine metabolism
+rxn01445	5&apos;-nucleotidase (dGMP)	Purine metabolism
+rxn00913	5&apos;-nucleotidase (GMP)	Purine metabolism
+rxn00831	5&apos;-nucleotidase (IMP)	Purine metabolism
+rxn01961	5&apos;-nucleotidase (XMP)	Purine metabolism
+rxn08067	Adentylate kinase (ITP)	Purine metabolism
+rxn00097	Adenylate kinase	Purine metabolism
+rxn01127	Deoxyadenylate kinase	Purine metabolism
+rxn08066	Adentylate kinase (GTP)	Purine metabolism
+rxn04783	GAR transformylase-T	Purine metabolism
+rxn03084	Phosphoribosylformylglycinamidine synthase	Purine metabolism
+rxn00917	GMP synthase	Purine metabolism
+rxn00839	Nucleoside-diphosphate kinase (ATP:dADP)	Purine metabolism
+rxn01353	Nucleoside-diphosphate kinase (ATP:dGDP)	Purine metabolism
+rxn00237	Nucleoside-diphosphate kinase (ATP:GDP)	Purine metabolism
+rxn00131	AMP nucleosidase	Purine metabolism
+rxn00915	Guanine phosphoribosyltransferase	Purine metabolism
+rxn00836	Hypoxanthine phosphoribosyltransferase (Hypoxanthine)	Purine metabolism
+rxn00832	IMP cyclohydrolase	Purine metabolism
+rxn03137	Phosphoribosylaminoimidazolecarboxamide formyltransferase	Purine metabolism
+rxn02895	Phosphoribosylglycinamide synthase	Purine metabolism
+rxn00838	Adenylosuccinate synthase	Purine metabolism
+rxn01509	Deoxyguanylate kinase (dGMP:ATP)	Purine metabolism
+rxn00239	Guanylate kinase (GMP:ATP)	Purine metabolism
+rxn00242	Guanosine-3&apos;,5&apos;-bis(diphosphate) 3&apos;-diphosphatase	Purine metabolism
+rxn10053	phosphoribosylaminoimidazole carboxylase (ATP-dependent)	Purine metabolism
+rxn05115	Phosphoribosylaminoimidazole carboxylase (mutase rxn)	Purine metabolism
+rxn01748	Allantoinase	Purine metabolism
+rxn00859	Histidinol dehydrogenase	Histidine metabolism
+rxn02160	Histidinol-phosphatase	Histidine metabolism
+rxn03135	Imidazole-glycerol-3-phosphate synthase	Histidine metabolism
+rxn01639	Formimidoylglutamase	Histidine metabolism
+rxn02320	Histidinol-phosphate transaminase	Histidine metabolism
+rxn00789	ATP phosphoribosyltransferase	Histidine metabolism
+rxn02835	Phosphoribosyl-AMP cyclohydrolase	Histidine metabolism
+rxn02834	Phosphoribosyl-ATP pyrophosphatase	Histidine metabolism
+rxn01642	Imidazolonepropionase	Histidine metabolism
+rxn02085	Urocanase	Histidine metabolism
+rxn01640	FORGLUIH	Histidine metabolism
+rxn03175	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase	Histidine metabolism
+rxn02473	Imidazoleglycerol-phosphate dehydratase	Histidine metabolism
+rxn13808	Nitrite reductase (NADH)	Nitrogen metabolism
+rxn00184	Glutamate dehydrogenase (NAD)	Nitrogen metabolism
+rxn00138	NADS1m	Nitrogen metabolism
+rxn00567	nitrite reductase (NO forming)	Nitrogen metabolism
+rJB00273	nitric-oxide reductase	Nitrogen metabolism
+rJB00274	nitric-oxide reductase	Nitrogen metabolism
+rxn12498	Nitrate reductase (Ubiquinol-8)	Nitrogen metabolism
+rJB00269	Nitrate reductase (Ubiquinol-9)	Nitrogen metabolism
+rxn00867	Histidase r	Nitrogen metabolism
+rxn00019	2-Nitropropane Dioxygenase	Nitrogen metabolism
+rxn05063	carbamate hydro-lyase	Nitrogen metabolism
+rxn08277	Cyanate aminohydrolase	Nitrogen metabolism
+rxn00102	HCO3 equilibration reaction	Nitrogen metabolism
+rxn00429	ALDD1	Methane metabolism
+rxn05030	undecaprenyl-diphosphate synthase	Terpenoid backbone biosynthesis
+rxn05108	2-keto-4-methylthiobutyrate transamination	Cysteine and methionine metabolism
+rxn00649	Cysteine synthase	Cysteine and methionine metabolism
+rxn01304	Homoserine O-succinyltransferase	Cysteine and methionine metabolism
+rxn00953	Cystathionine beta synthase	Cysteine and methionine metabolism
+rxn00742	cystathionine g-lyase	Cysteine and methionine metabolism
+rxn02302	Metb1	Cysteine and methionine metabolism
+rxn01816	O-succinylhomoserine lyase (L-cysteine)	Cysteine and methionine metabolism
+rxn00455	Formylmethionine deformylase	Cysteine and methionine metabolism
+rxn05104	5-Methylthio-5-deoxy-D-ribulose 1-phosphate dehydratase	Cysteine and methionine metabolism
+rxn05092	1 2 dihydroxy 3 keto 5 methylthiopentene dioxygenase  2 keto 4 methylthiobutyrate 	Cysteine and methionine metabolism
+rxn05091	1 2 dihydroxy 3 keto 5 methylthiopentene dioxygenase  3 methylthiopropionate 	Cysteine and methionine metabolism
+rxn05107	enolase-phosphatase E-1	Cysteine and methionine metabolism
+rxn00693	Methionine synthase	Cysteine and methionine metabolism
+rxn01022	5&apos;-methylthioadenosine phosphorylase	Cysteine and methionine metabolism
+rxn05957	O succinylhomoserine lyase  H2S 	Cysteine and methionine metabolism
+rxn13915	2-keto-4-methylthiobutyrate transamination	Cysteine and methionine metabolism
+rxn13916	2-keto-4-methylthiobutyrate transamination	Cysteine and methionine metabolism
+rxn13917	2-keto-4-methylthiobutyrate transamination	Cysteine and methionine metabolism
+rxn03057	5-methylthioribose-1-phosphate isomerase	Cysteine and methionine metabolism
+rxn00423	Serine O-acetyltransferase	Cysteine and methionine metabolism
+rxn00453	O acetylhomoserine  thiol  lyase	Cysteine and methionine metabolism
+rxn01294	benzoylformate decarboxylase	Aminobenzoate degradation
+rxn01945	4 hydroxyphenylacetate 3 monooxygenase nadh	Tyrosine metabolism
+rJB00104	3-hydroxyphenylacetate-3-monooxygenase small chain	Tyrosine metabolism
+rxn03055	4 carboxy 2 hydroxymuconate 6 semialdehyde dehydrogenase	Tyrosine metabolism
+rxn02276	Maleylacetoacetate isomerase	Tyrosine metabolism
+rxn00527	Tyrosine transaminase	Tyrosine metabolism
+rxn00993	Fumarylacetoacetase	Tyrosine metabolism
+rxn01825	Homogentisateoxygen 1 2 oxidoreductase  decyclizing 	Tyrosine metabolism
+rxn02366	3 4 dihydroxyphenylacetate 2 3 dioxygenase	Tyrosine metabolism

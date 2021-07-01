@@ -1,0 +1,41 @@
+rxn02866 	 MBCOAi 	 G_PA14_38440 
+rxn00992 	 BDH 	 G_PA14_38590 
+rxn00086 	 Glutathione oxidoreductase 	 G_PA14_38330 
+rxn02143 	 3-oxoadipate CoA-transferase 	 (G_PA14_38660 & G_PA14_38640) 
+rxn02889 	 MCCC 	 (G_PA14_38460 & G_PA14_38480) 
+rxn05649 	 DSERt2 	 (G_PA14_38130 & G_PA14_38110) 
+rxn05307 	 L serine reversible transport via proton symport 	 (G_PA14_38130 & G_PA14_38110) 
+rxn05300 	 L threonine reversible transport via proton symport 	 (G_PA14_38130 & G_PA14_38110) 
+rxn00134 	 Adenosine kinase 	 G_PA14_39280 
+rxn01987 	 Deoxyribokinase 	 G_PA14_39280 
+rxn00772 	 ribokinase 	 G_PA14_39280 
+rxn01538 	 Thiamine kinase 	 G_PA14_39280 
+rxn03900 	 undecaprenol kinase 	 G_PA14_39190 
+rxn03901 	 Undecaprenyl-diphosphatase 	 G_PA14_39190 
+rxn05244 	 L isoleucine reversible transport via proton symport 	 G_PA14_39050 
+rxn05243 	 L leucine reversible transport via proton symport 	 G_PA14_39050 
+rxn00988 	 acetoacetyl-CoAsynthetase 	 G_PA14_38690 
+rxn00290 	 OCOAT1 	 G_PA14_38660 
+rxn05484 	 ACACt2 	 G_PA14_38610 
+rxn05683 	 Butyrate transport via proton symport, reversible 	 G_PA14_38610 
+rxn12405 	 transport of (r)-3-hydroxybutanoate [extraorganism-cytosol](passive) 	 G_PA14_38580 
+rxn00993 	 Fumarylacetoacetase 	 G_PA14_38530 
+rxn01825 	 Homogentisateoxygen 1 2 oxidoreductase  decyclizing 	 G_PA14_38510 
+rxn00991 	 HMGL 	 G_PA14_38490 
+rxn01504 	 MGCH 	 G_PA14_38470 
+rxn02898 	 Naphthoate synthase 	 G_PA14_38470 
+rxn00701 	 UDPglucose--hexose-1-phosphate uridylyltransferase 	 G_PA14_38350 
+rxn00213 	 UTP-glucose-1-phosphate uridylyltransferase (irreversible) 	 G_PA14_38350 
+rxn05063 	 carbamate hydro-lyase 	 G_PA14_37965 
+rxn08277 	 Cyanate aminohydrolase 	 G_PA14_37965 
+rxn00102 	 HCO3 equilibration reaction 	 G_PA14_37950 
+rxn00728 	 Kynureninase 	 G_PA14_37610 
+rxn01437 	 N Formyl L kynurenine amidohydrolase 	 G_PA14_37590 
+rxn13299 	 Glycogen phosphorylase 	 G_PA14_36840 
+rxn01134 	 MTI 	 G_PA14_36730 
+rxn13817 	 cardiolipin synthetase 	 G_PA14_36690 
+rxn13643 	 glycogen synthase (ADPGlc) 	 G_PA14_36570 
+rxn10160 	 D-galactonate transport via proton symport, reversible 	 G_PA14_36120 
+rxn05565 	 Galactarate transport in via proton symport 	 G_PA14_36120 
+rxn05572 	 D-glucarate transport via proton symport, reversible 	 G_PA14_36120 
+rxn11546 	 hydrogen cyanide synthase 	 (G_PA14_36330 & G_PA14_36320 & G_PA14_36310) 

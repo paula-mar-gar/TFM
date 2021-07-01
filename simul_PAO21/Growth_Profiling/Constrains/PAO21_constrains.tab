@@ -1,0 +1,23 @@
+#Rxn	Low	High
+#-------------------------
+#
+# We'll start with most uptakes set to zero and then open only those
+# corresponding to metabolites present in the medium afterwards.
+#Biomass reactions
+PA14_Biomass	0	1000
+#Minimal Exhange reactions
+EX_cpd00001(e)	-10	10
+EX_cpd00011(e)	-10	10
+EX_cpd00030(e)	-10	10
+EX_cpd00034(e)	-10	10
+EX_cpd00058(e)	-10	10
+EX_cpd00067(e)	-10	10
+EX_cpd01012(e)	-10	10
+EX_cpd00205(e)	-10	10
+EX_cpd00009(e)	-10	10
+EX_cpd00013(e)	-10	10
+EX_cpd00048(e)	-10	10
+EX_cpd00254(e)	-10	10
+EX_cpd00021(e)	-10	10
+
+#Exchange reaction well compound

@@ -1,0 +1,13 @@
+#!/bin/bash
+comment=''
+
+../adynFBA.R -m iPau21 -f \
+			 -o \
+                         -v \
+                         -c PAO21_constrains \
+                         --goal PA14_Biomass \
+                         -V 6 \
+                         -j 1 \
+                         ${comment# we use -n to include the name of the method} \
+                         -n lmoma \
+                         --gpamethod lmoma

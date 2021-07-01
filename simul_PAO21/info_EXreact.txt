@@ -1,0 +1,164 @@
+EX_cpd00797_e	EX (R)-3-Hydroxybutanoate e
+EX_cpd17085_e	EX 2-heptyl-3-hydroxy-4-quinolone e
+EX_cpd00176_e	EX 2-keto-3-deoxygluconate e
+EX_cpd00024_e	EX 2-Oxoglutarate
+EX_cpd00489_e	EX 4-Hydroxyphenylacetate
+EX_cpd00029_e	EX Acetate
+EX_cpd00142_e	EX Acetoacetate e
+EX_cpd00182_e	EX Adenosine e
+EX_cpd11587_e	EX Ala-Gln e
+EX_cpd11584_e	EX Ala-His e
+EX_cpd11593_e	EX ala-L-asp-L e
+EX_cpd11583_e	EX Ala-Leu e
+EX_cpd11586_e	EX ala-L-glu-L e
+EX_cpd11582_e	EX ala-L-Thr-L e
+EX_cpd01092_e	EX Allantoin e
+EX_cpd00162_e	EX Aminoethanol e
+EX_cpd01262_e	EX Amylotriose e
+EX_cpd01048_e	EX Arsenate e
+EX_cpd04098_e	EX Arsenite e
+EX_cpd00540_e	EX BET e
+EX_cpd11596_e	EX butanesulfonate e
+EX_cpd00211_e	EX Butyrate e
+EX_cpd00063_e	EX Ca2+ e
+EX_cpd00635_e	EX Cbl e
+EX_cpd01012_e	EX Cd2+ e
+EX_cpd00098_e	EX Choline e
+EX_cpd11595_e	EX chromate e
+EX_cpd00137_e	EX Citrate
+EX_cpd00099_e	EX Cl- e
+EX_cpd00011_e	EX CO2 e
+EX_cpd00149_e	EX Co2+ e
+EX_cpd00058_e	EX Cu2+ e
+EX_cpd01015_e	EX Cyanate e
+EX_cpd01017_e	EX Cys-Gly e
+EX_cpd00381_e	EX Cystine
+EX_cpd00367_e	EX Cytidine e
+EX_cpd00307_e	EX Cytosine e
+EX_cpd00117_e	EX D-Alanine e
+EX_cpd00438_e	EX Deoxyadenosine e
+EX_cpd00654_e	EX Deoxycytidine e
+EX_cpd00277_e	EX Deoxyguanosine e
+EX_cpd03279_e	EX Deoxyinosine e
+EX_cpd00412_e	EX Deoxyuridine e
+EX_cpd00082_e	EX D-Fructose
+EX_cpd00072_e	EX D-fructose-6-phosphate
+EX_cpd00653_e	EX D-Galactonate e
+EX_cpd00280_e	EX D-Galacturonate e
+EX_cpd00609_e	EX D-Glucarate e
+EX_cpd00027_e	EX D-Glucose e
+EX_cpd00079_e	EX D-glucose-6-phosphate
+EX_cpd00221_e	EX D-Lactate e
+EX_cpd01307_e	EX D-Lyxitol
+EX_cpd00386_e	EX D-Malate
+EX_cpd00637_e	EX D-Methionine e
+EX_cpd00652_e	EX D-Mucic acid e
+EX_cpd00105_e	EX D-Ribose e
+EX_cpd00550_e	EX D-Serine e
+EX_cpd11579_e	EX ethanesulfonate e
+EX_cpd00021_e	EX Fe2+ e
+EX_cpd10516_e	EX fe3 e
+EX_cpd03724_e	EX Ferrichrome e
+EX_cpd00106_e	EX Fumarate e
+EX_cpd00108_e	EX Galactose e
+EX_cpd00164_e	EX Glucuronate e
+EX_cpd11581_e	EX gly-asn-L e
+EX_cpd11589_e	EX gly-asp-L e
+EX_cpd00100_e	EX Glycerol e
+EX_cpd00080_e	EX Glycerol-3-phosphate e
+EX_cpd00033_e	EX Glycine e
+EX_cpd00139_e	EX Glycolate
+EX_cpd15603_e	EX Gly-Cys e
+EX_cpd11580_e	EX Gly-Gln e
+EX_cpd11592_e	EX gly-glu-L e
+EX_cpd15604_e	EX Gly-Leu e
+EX_cpd11591_e	EX Gly-Met e
+EX_cpd15605_e	EX Gly-Phe e
+EX_cpd11588_e	EX gly-pro-L e
+EX_cpd15606_e	EX Gly-Tyr e
+EX_cpd00067_e	EX H+ e
+EX_cpd00001_e	EX H2O e
+EX_cpd00268_e	EX H2S2O3 e
+EX_cpd11578_e	EX hexanesulfonate e
+EX_cpd00531_e	EX Hg2+ e
+EX_cpd00226_e	EX HYXN e
+EX_cpd00246_e	EX Inosine e
+EX_cpd03048_e	EX Isethionate e
+EX_cpd00205_e	EX K+ e
+EX_cpd03091_e	EX L-5&apos;-Deoxyadenosine e
+EX_cpd00035_e	EX L-Alanine e
+EX_cpd11585_e	EX L-alanylglycine e
+EX_cpd00224_e	EX L-Arabinose e
+EX_cpd00051_e	EX L-Arginine e
+EX_cpd00132_e	EX L-Asparagine
+EX_cpd00041_e	EX L-Aspartate e
+EX_cpd00395_e	EX L-Cysteate e
+EX_cpd00084_e	EX L-Cysteine e
+EX_cpd00023_e	EX L-Glutamate e
+EX_cpd00053_e	EX L-Glutamine e
+EX_cpd00119_e	EX L-Histidine e
+EX_cpd00121_e	EX L-Inositol
+EX_cpd00322_e	EX L-Isoleucine e
+EX_cpd00159_e	EX L-Lactate e
+EX_cpd00107_e	EX L-Leucine e
+EX_cpd00039_e	EX L-Lysine e
+EX_cpd00130_e	EX L-Malate e
+EX_cpd00060_e	EX L-Methionine e
+EX_cpd11576_e	EX L-methionine R-oxide e
+EX_cpd01914_e	EX L-Methionine S-oxide e
+EX_cpd00066_e	EX L-Phenylalanine e
+EX_cpd00129_e	EX L-Proline e
+EX_cpd00054_e	EX L-Serine e
+EX_cpd00161_e	EX L-Threonine e
+EX_cpd00065_e	EX L-Tryptophan e
+EX_cpd00069_e	EX L-Tyrosine e
+EX_cpd00156_e	EX L-Valine e
+EX_cpd00308_e	EX Malonate e
+EX_cpd01329_e	EX Maltohexaose e
+EX_cpd00179_e	EX Maltose e
+EX_cpd08023_e	EX methanesulfonate e
+EX_cpd11590_e	EX met-L-ala-L e
+EX_cpd00254_e	EX Mg e
+EX_cpd00030_e	EX Mn2+ e
+EX_cpd11574_e	EX Molybdate e
+EX_cpd11575_e	EX MOPS e
+EX_cpd00971_e	EX Na+ e
+EX_cpd00122_e	EX N-Acetyl-D-glucosamine e
+EX_cpd00013_e	EX NH3 e
+EX_cpd00244_e	EX Ni2+ e
+EX_cpd00209_e	EX Nitrate e
+EX_cpd00075_e	EX Nitrite e
+EX_cpd00528_e	EX nitrogen e
+EX_cpd00007_e	EX O2 e
+EX_cpd00064_e	EX Ornithine e
+EX_cpd04097_e	EX Pb e
+EX_cpd00009_e	EX Phosphate e
+EX_cpd00012_e	EX PPi e
+EX_cpd00141_e	EX Propionate
+EX_cpd00118_e	EX Putrescine e
+EX_cpd00020_e	EX Pyruvate
+EX_cpd00588_e	EX Sorbitol
+EX_cpd00264_e	EX Spermidine e
+EX_cpd00036_e	EX Succinate e
+EX_cpd00048_e	EX Sulfate e
+EX_cpd09878_e	EX Sulfoacetate e
+EX_cpd00210_e	EX Taurine e
+EX_cpd00305_e	EX Thiamin e
+EX_cpd00184_e	EX Thymidine e
+EX_cpd01242_e	EX Thyminose e
+EX_cpd00851_e	EX trans-4-Hydroxy-L-proline
+EX_cpd00092_e	EX Uracil e
+EX_cpd00073_e	EX Urea e
+EX_cpd00249_e	EX Uridine e
+EX_cpd03424_e	EX Vitamin B12 e
+EX_cpd00423_e	EX Vitamin B12r e
+EX_cpd00309_e	EX XAN e
+EX_cpd00306_e	EX Xylitol
+EX_cpd00154_e	EX Xylose e
+EX_cpd00034_e	EX Zn2+ e
+EX_cpd00331_e	EX cis-Aconitic acid
+EX_cpd00089_e	EX Glucose-1-phosphate
+EX_cpd00314_e	EX D-Mannitol
+EX_cpd00380_e	EX Itaconic Acid
+EX_cpd00581_e	EX Urocanic Acid
+EX_cpd00281_e	EX Amino Butyric Acid

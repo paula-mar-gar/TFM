@@ -1,0 +1,277 @@
+rxn00868 	 Acyl-CoA dehydrogenase (butanoyl-CoA) 
+rxn10074 	 Fatty acid oxidation (Butanoyl-CoA ) 
+rxn01729 	 Glutarate-semialdehyde:NAD+ oxidoreductase 
+rxn01068 	 L-threonine dehydrogenase 
+rxn01314 	 NADPH:6,7-dihydropteridine oxidoreductase 
+rxn05039 	 pyrimidine phosphatase 
+rxn01355 	 Propionyl-CoA carboxylase 
+rxn13912 	 UDP-N-acetyl-mannosamine aminase 
+rxn05064 	 carbamate hydro-lyase 
+rxn05467 	 CO2 transporter via diffusion 
+rxn05319 	 H2O transport via diffusion 
+rxn10577 	 N2tr 
+rxn05468 	 O2 transport  diffusion 
+rPY00182 	 Cyclopropanation Cardiolipin(n-C19:0cyc) 
+rxn13868 	 L-rhamnotransferase 
+rxn13876 	 Pseudomonas aeruginosa LPS A-band synthesis 
+rxn13871 	 Pseudomonas aeruginosa LPS lumped L-ala and CONH2 addition reaction 
+rPY00180 	 S-adenosylmethionine decarboxylase proenzyme 
+rPY00166 	 S-Adenosylmethionine decarboxylase proenzyme (PE170cyc) 
+rPY00171 	 S-Adenosylmethionine decarboxylase proenzyme (PE190cyc) 
+rPY00174 	 S-Adenosylmethionine decarboxylase proenzyme (PG170cyc) 
+rPY00177 	 S-Adenosylmethionine decarboxylase proenzyme (PG190cyc) 
+rxn13926 	 UDP-N-acetyl-mannosamine (2NAc3N) acid (CH3C=NH) addase 
+rxn02250 	 1,3-diaminopropane oxidase 
+rxn01093 	 2,3-dihydroxybenzoate adenylate synthase 
+rxn05118 	 4-aminobutanoate cyclization reaction 
+rxn13799 	 5mta transport irreversible, extracellular 
+rxn01748 	 Allantoinase 
+rxn05495 	 BALAt2r 
+rxn05511 	 Butanediol transport in/out via proton symport 
+rxn13789 	 delta-aminovalerate aminotransferase 
+rxn13921 	 delta-aminovalerate synthesis 
+rxn13822 	 deoxyadenosine transport 
+rxn13825 	 Diamine oxidase 
+rxn09683 	 Ethanol reversible transport 
+EX_cpd00797(e) 	 EX (R)-3-Hydroxybutanoate e 
+EX_cpd17085(e) 	 EX 2-heptyl-3-hydroxy-4-quinolone e 
+EX_cpd00176(e) 	 EX 2-keto-3-deoxygluconate e 
+EX_cpd00024(e) 	 EX 2-Oxoglutarate 
+EX_cpd00489(e) 	 EX 4-Hydroxyphenylacetate 
+EX_cpd00029(e) 	 EX Acetate 
+EX_cpd00142(e) 	 EX Acetoacetate e 
+EX_cpd00182(e) 	 EX Adenosine e 
+EX_cpd11587(e) 	 EX Ala-Gln e 
+EX_cpd11584(e) 	 EX Ala-His e 
+EX_cpd11593(e) 	 EX ala-L-asp-L e 
+EX_cpd11583(e) 	 EX Ala-Leu e 
+EX_cpd11586(e) 	 EX ala-L-glu-L e 
+EX_cpd11582(e) 	 EX ala-L-Thr-L e 
+EX_cpd01092(e) 	 EX Allantoin e 
+EX_cpd00162(e) 	 EX Aminoethanol e 
+EX_cpd01262(e) 	 EX Amylotriose e 
+EX_cpd01048(e) 	 EX Arsenate e 
+EX_cpd04098(e) 	 EX Arsenite e 
+EX_cpd00540(e) 	 EX BET e 
+EX_cpd11596(e) 	 EX butanesulfonate e 
+EX_cpd00211(e) 	 EX Butyrate e 
+EX_cpd00063(e) 	 EX Ca2+ e 
+EX_cpd00635(e) 	 EX Cbl e 
+EX_cpd01012(e) 	 EX Cd2+ e 
+EX_cpd00098(e) 	 EX Choline e 
+EX_cpd11595(e) 	 EX chromate e 
+EX_cpd00137(e) 	 EX Citrate 
+EX_cpd00099(e) 	 EX Cl- e 
+EX_cpd00011(e) 	 EX CO2 e 
+EX_cpd00149(e) 	 EX Co2+ e 
+EX_cpd00058(e) 	 EX Cu2+ e 
+EX_cpd01015(e) 	 EX Cyanate e 
+EX_cpd01017(e) 	 EX Cys-Gly e 
+EX_cpd00381(e) 	 EX Cystine 
+EX_cpd00367(e) 	 EX Cytidine e 
+EX_cpd00307(e) 	 EX Cytosine e 
+EX_cpd00117(e) 	 EX D-Alanine e 
+EX_cpd00438(e) 	 EX Deoxyadenosine e 
+EX_cpd00654(e) 	 EX Deoxycytidine e 
+EX_cpd00277(e) 	 EX Deoxyguanosine e 
+EX_cpd03279(e) 	 EX Deoxyinosine e 
+EX_cpd00412(e) 	 EX Deoxyuridine e 
+EX_cpd00082(e) 	 EX D-Fructose 
+EX_cpd00072(e) 	 EX D-fructose-6-phosphate 
+EX_cpd00653(e) 	 EX D-Galactonate e 
+EX_cpd00280(e) 	 EX D-Galacturonate e 
+EX_cpd00609(e) 	 EX D-Glucarate e 
+EX_cpd00027(e) 	 EX D-Glucose e 
+EX_cpd00079(e) 	 EX D-glucose-6-phosphate 
+EX_cpd00221(e) 	 EX D-Lactate e 
+EX_cpd01307(e) 	 EX D-Lyxitol 
+EX_cpd00386(e) 	 EX D-Malate 
+EX_cpd00637(e) 	 EX D-Methionine e 
+EX_cpd00652(e) 	 EX D-Mucic acid e 
+EX_cpd00105(e) 	 EX D-Ribose e 
+EX_cpd00550(e) 	 EX D-Serine e 
+EX_cpd11579(e) 	 EX ethanesulfonate e 
+EX_cpd00021(e) 	 EX Fe2+ e 
+EX_cpd10516(e) 	 EX fe3 e 
+EX_cpd03724(e) 	 EX Ferrichrome e 
+EX_cpd00106(e) 	 EX Fumarate e 
+EX_cpd00108(e) 	 EX Galactose e 
+EX_cpd00164(e) 	 EX Glucuronate e 
+EX_cpd11581(e) 	 EX gly-asn-L e 
+EX_cpd11589(e) 	 EX gly-asp-L e 
+EX_cpd00100(e) 	 EX Glycerol e 
+EX_cpd00080(e) 	 EX Glycerol-3-phosphate e 
+EX_cpd00033(e) 	 EX Glycine e 
+EX_cpd00139(e) 	 EX Glycolate 
+EX_cpd15603(e) 	 EX Gly-Cys e 
+EX_cpd11580(e) 	 EX Gly-Gln e 
+EX_cpd11592(e) 	 EX gly-glu-L e 
+EX_cpd15604(e) 	 EX Gly-Leu e 
+EX_cpd11591(e) 	 EX Gly-Met e 
+EX_cpd15605(e) 	 EX Gly-Phe e 
+EX_cpd11588(e) 	 EX gly-pro-L e 
+EX_cpd15606(e) 	 EX Gly-Tyr e 
+EX_cpd00067(e) 	 EX H+ e 
+EX_cpd00001(e) 	 EX H2O e 
+EX_cpd00268(e) 	 EX H2S2O3 e 
+EX_cpd11578(e) 	 EX hexanesulfonate e 
+EX_cpd00531(e) 	 EX Hg2+ e 
+EX_cpd00226(e) 	 EX HYXN e 
+EX_cpd00246(e) 	 EX Inosine e 
+EX_cpd03048(e) 	 EX Isethionate e 
+EX_cpd00205(e) 	 EX K+ e 
+EX_cpd03091(e) 	 EX L-5'-Deoxyadenosine e 
+EX_cpd00035(e) 	 EX L-Alanine e 
+EX_cpd11585(e) 	 EX L-alanylglycine e 
+EX_cpd00224(e) 	 EX L-Arabinose e 
+EX_cpd00051(e) 	 EX L-Arginine e 
+EX_cpd00132(e) 	 EX L-Asparagine 
+EX_cpd00041(e) 	 EX L-Aspartate e 
+EX_cpd00395(e) 	 EX L-Cysteate e 
+EX_cpd00084(e) 	 EX L-Cysteine e 
+EX_cpd00023(e) 	 EX L-Glutamate e 
+EX_cpd00053(e) 	 EX L-Glutamine e 
+EX_cpd00119(e) 	 EX L-Histidine e 
+EX_cpd00121(e) 	 EX L-Inositol 
+EX_cpd00322(e) 	 EX L-Isoleucine e 
+EX_cpd00159(e) 	 EX L-Lactate e 
+EX_cpd00107(e) 	 EX L-Leucine e 
+EX_cpd00039(e) 	 EX L-Lysine e 
+EX_cpd00130(e) 	 EX L-Malate e 
+EX_cpd00060(e) 	 EX L-Methionine e 
+EX_cpd11576(e) 	 EX L-methionine R-oxide e 
+EX_cpd01914(e) 	 EX L-Methionine S-oxide e 
+EX_cpd00066(e) 	 EX L-Phenylalanine e 
+EX_cpd00129(e) 	 EX L-Proline e 
+EX_cpd00054(e) 	 EX L-Serine e 
+EX_cpd00161(e) 	 EX L-Threonine e 
+EX_cpd00065(e) 	 EX L-Tryptophan e 
+EX_cpd00069(e) 	 EX L-Tyrosine e 
+EX_cpd00156(e) 	 EX L-Valine e 
+EX_cpd00308(e) 	 EX Malonate e 
+EX_cpd01329(e) 	 EX Maltohexaose e 
+EX_cpd00179(e) 	 EX Maltose e 
+EX_cpd08023(e) 	 EX methanesulfonate e 
+EX_cpd11590(e) 	 EX met-L-ala-L e 
+EX_cpd00254(e) 	 EX Mg e 
+EX_cpd00030(e) 	 EX Mn2+ e 
+EX_cpd11574(e) 	 EX Molybdate e 
+EX_cpd11575(e) 	 EX MOPS e 
+EX_cpd00971(e) 	 EX Na+ e 
+EX_cpd00122(e) 	 EX N-Acetyl-D-glucosamine e 
+EX_cpd00013(e) 	 EX NH3 e 
+EX_cpd00244(e) 	 EX Ni2+ e 
+EX_cpd00209(e) 	 EX Nitrate e 
+EX_cpd00075(e) 	 EX Nitrite e 
+EX_cpd00528(e) 	 EX nitrogen e 
+EX_cpd00007(e) 	 EX O2 e 
+EX_cpd00064(e) 	 EX Ornithine e 
+EX_cpd04097(e) 	 EX Pb e 
+EX_cpd00009(e) 	 EX Phosphate e 
+EX_cpd00012(e) 	 EX PPi e 
+EX_cpd00141(e) 	 EX Propionate 
+EX_cpd00118(e) 	 EX Putrescine e 
+EX_cpd00020(e) 	 EX Pyruvate 
+EX_cpd00588(e) 	 EX Sorbitol 
+EX_cpd00264(e) 	 EX Spermidine e 
+EX_cpd00036(e) 	 EX Succinate e 
+EX_cpd00048(e) 	 EX Sulfate e 
+EX_cpd09878(e) 	 EX Sulfoacetate e 
+EX_cpd00210(e) 	 EX Taurine e 
+EX_cpd00305(e) 	 EX Thiamin e 
+EX_cpd00184(e) 	 EX Thymidine e 
+EX_cpd01242(e) 	 EX Thyminose e 
+EX_cpd00851(e) 	 EX trans-4-Hydroxy-L-proline 
+EX_cpd00092(e) 	 EX Uracil e 
+EX_cpd00073(e) 	 EX Urea e 
+EX_cpd00249(e) 	 EX Uridine e 
+EX_cpd03424(e) 	 EX Vitamin B12 e 
+EX_cpd00423(e) 	 EX Vitamin B12r e 
+EX_cpd00309(e) 	 EX XAN e 
+EX_cpd00306(e) 	 EX Xylitol 
+EX_cpd00154(e) 	 EX Xylose e 
+EX_cpd00034(e) 	 EX Zn2+ e 
+rxn00695 	 Glucose-1-phosphate adenylyltransferase 
+rxn13837 	 glutarate transport via h+ symport 
+rxn01730 	 Glutaryl-CoA synthetase 
+rxn09680 	 Glycoaldehydye reversible transport 
+rxn02374 	 L-glutamate 5-semialdehyde dehydratase (spontaneous) 
+rxn01996 	 Methylmalonyl-CoA epimerase 
+rxn00602 	 Methylmalonyl-CoA mutase 
+rxn10772 	 NH4OH dissociation 
+rxn10076 	 PPTGS 
+rxn00420 	 Phosphoserine phosphatase (L-serine) 
+rxn13924 	 PQS release 
+rxn13893 	 protoporphyrinogen oxidase anaerobic 
+rxn05469 	 Pyruvate transport in via proton symport 
+rxn13796 	 unknown enzyme 
+EX_cpd00331(e) 	 EX cis-Aconitic acid 
+EX_cpd00089(e) 	 EX Glucose-1-phosphate 
+EX_cpd00314(e) 	 EX D-Mannitol 
+EX_cpd00380(e) 	 EX Itaconic Acid 
+EX_cpd00581(e) 	 EX Urocanic Acid 
+EX_cpd00281(e) 	 EX Amino Butyric Acid 
+ATPM 	 ATP maintenance requirement 
+PA14_Biomass 	 P. aeruginosa PA14 biomass 
+rJB00285 	 cis-2-Decenoic acid(DSF) release 
+rxn00538 	 ethanolamine-phosphate phosphate-lyase (deaminating; acetaldehyde-forming) 
+rxn05829 	 Acid:CoA ligase (AMP-forming) 
+rxn05824 	 Acyl-CoA hydrolase 
+rxn01208 	 2-Oxo-4-methyl-3-carboxypentanoate decarboxylation 
+EX_cJB00127(e) 	 EX cis-2-Decenoic acid 
+EX_cpd00047(e) 	 EX Formate 
+EX_cpd00059(e) 	 EX L-Ascorbate 
+EX_cpd00085(e) 	 EX beta-Alanine 
+EX_cpd00136(e) 	 EX 4-Hydroxybenzoate 
+EX_cpd00147(e) 	 EX 5-Methylthioadenosine 
+EX_cpd00152(e) 	 EX Agmatine 
+EX_cpd00170(e) 	 EX Gluconolactone 
+EX_cpd00186(e) 	 EX D-Glutamate 
+EX_cpd00214(e) 	 EX Palmitate 
+EX_cpd00222(e) 	 EX GLCN 
+EX_cpd00229(e) 	 EX Glycolaldehyde 
+EX_cpd00247(e) 	 EX Orotate 
+EX_cpd00266(e) 	 EX Carnitine 
+EX_cpd00363(e) 	 EX Ethanol 
+EX_cpd00379(e) 	 EX Glutarate 
+EX_cpd00480(e) 	 EX 2-Dehydro-D-gluconate 
+EX_cpd00666(e) 	 EX Tartrate 
+EX_cpd00794(e) 	 EX TRHL 
+EX_cpd00870(e) 	 EX gamma-butyrobetaine 
+EX_cpd01293(e) 	 EX 5-Oxoproline 
+EX_cpd01502(e) 	 EX Citraconate 
+EX_cpd01630(e) 	 EX cis,cis-Muconate 
+EX_cpd01947(e) 	 EX BDOH 
+EX_cpd02012(e) 	 EX N-Formyl-L-methionine 
+EX_cpd03294(e) 	 EX Aerobactin 
+EX_cpd03726(e) 	 EX Fe-enterochlin 
+EX_cpd03847(e) 	 EX Myristic acid 
+EX_cpd04099(e) 	 EX Phosphonate 
+EX_cpd07061(e) 	 EX Stachydrine 
+EX_cpd11608(e) 	 EX Peptide 
+EX_cpd15901(e) 	 EX 2-oxohexanedioic acid 
+EX_cpd17074(e) 	 EX Acetylated Alginate 
+EX_cpd00212(e) 	 EX L-Sorbose 
+EX_cpd00138(e) 	 EX D-Mannose 
+EX_cpd03587(e) 	 EX kdo2-lipid a 
+EX_cpd00477(e) 	 EX N-Acetyl-L-glutamate 
+rLD01726 	 BKACE CoA transferase 
+rLD01727 	 BET thiolase 
+rxn12751 	 Peptidoglycan subunit synthesis P.putida KT2440 
+EX_cpd01949(e) 	 cpd01949 exchange 
+EX_cpd00361(e) 	 cpd00361 exchange 
+EX_cpd00158(e) 	 cpd00158 exchange 
+EX_cpd00155(e) 	 cpd00155 exchange 
+EX_cpd00040(e) 	 cpd00040 exchange 
+EX_cpd00294(e) 	 cpd00294 exchange 
+EX_cpd03320(e) 	 cpd03320 exchange 
+EX_cpd00094(e) 	 cpd00094 exchange 
+EX_cpd00227(e) 	 cpd00227 exchange 
+EX_cpd00599(e) 	 cpd00599 exchange 
+rxn00994 	 Butanoyl-CoA:acetoacetate CoA-transferase 
+rxn00875 	 Butanoyl-CoA:acetate CoA-transferase 
+protein_rxn 	 protein rxn 
+rna_rxn 	 rna rxn 
+dna_rxn 	 dna rxn 
+lipid_rxn 	 lipid rxn 
+SK_cpd11416_c 	 Biomass sink 
